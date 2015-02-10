@@ -28,10 +28,8 @@ Conectiva
 Chaosium
 Cantor Fitzgerald
 Chrysler
-List of companies of Canada
 Coleco
 Commodore International
-List of cartographers
 Central Pacific Railroad
 Compaq
 Digital Equipment Corporation
@@ -103,7 +101,6 @@ Nortel
 Nokia
 NASDAQ
 National Geographic Society
-List of multi-level marketing companies
 NeXT
 National Rail
 Netscape
@@ -151,7 +148,6 @@ Vieille Montagne
 Volkswagen
 Valmet
 Vickers
-List of tenants in One World Trade Center
 Walmart
 Westwood Studios
 White Wolf Publishing
@@ -275,7 +271,6 @@ Unisys
 Pharmacia
 Pfizer
 Global Crossing
-List of pharmaceutical companies
 Lycoris
 Asure Software
 WWE
@@ -325,12 +320,6 @@ Bank of Credit and Commerce International
 KPMG
 Pontiac
 Spyker
-List of companies of Sweden
-List of companies of Germany
-List of companies of Japan
-List of companies of Finland
-List of companies of the United States
-List of companies of Australia
 Western Publishing
 FedEx
 CompuServe
@@ -358,13 +347,11 @@ Thinking Machines Corporation
 Avianca
 The Swatch Group
 MetaComCo
-List of United States over-the-air television networks
 Teatro Colón
 Time Warner
 United States Army Corps of Engineers
 NCR Corporation
 Silja Line
-List of companies of Switzerland
 Watford FC
 Toon Disney
 International Institute for Strategic Studies
@@ -374,15 +361,12 @@ LOT Polish Airlines
 SNCF
 Digital Research
 Pueblo Supermarkets
-List of companies of France
 Dassault Aviation
-List of modern armament manufacturers
 Aeroflot
 Pez
 Taligent
 Freedom Press
 Borders Group
-List of companies of Italy
 Amazoncom
 Maybelline
 Eastern Air Lines
@@ -458,7 +442,6 @@ EMI
 Bertelsmann
 Air New Zealand
 Esri
-List of companies of Puerto Rico
 MyTravel Group
 The Carlyle Group
 Alstom
@@ -497,7 +480,6 @@ IG Farben
 Jelly Belly
 NewTek
 T-Mobile
-List of mobile network operators
 Trans World Airlines
 RWE Dea
 Malaysia Airlines
@@ -510,7 +492,6 @@ Marks & Spencer
 Milton Bradley Company
 McDonnell Douglas
 PeopleSoft
-List of publishers of children's books
 J Lumsden and Son
 Sandia National Laboratories
 Rendon Group
@@ -677,7 +658,6 @@ CodeWeavers
 Warsaw Metro
 C F Martin & Company
 PCCW
-List of airlines
 World Championship Wrestling
 Grand Junction Railway
 London and North Western Railway
@@ -781,7 +761,6 @@ Black Lizard
 Government-owned corporation
 TMX Group
 United Parcel Service
-List of companies of Denmark
 Vattenfall
 Securitas
 H&M
@@ -800,7 +779,6 @@ Esso
 British Broadcasting Company
 Astra
 Square Enix
-Lists of corporate assets
 Shugart Associates
 Bechtel
 Overseas Private Investment Corporation
@@ -841,7 +819,6 @@ Baltimore and Ohio Railroad
 Western Digital
 Sequent Computer Systems
 Treasure
-List of railway companies
 Iron Crown Enterprises
 Daihatsu
 Walmart Chile
@@ -889,14 +866,12 @@ SNK Playmore
 YKK Group
 VR Group
 UPM
-List of bus operating companies
 ExpressBus
 Savonlinja
 Nobina Sverige
 Kobe Electric Railway
 Funk & Wagnalls
 Kobe New Transit
-List of railway companies in Japan
 Pak'nSave
 Hanshin Electric Railway
 Delaware and Raritan Canal
@@ -905,12 +880,10 @@ Loki Software
 BlueScope Steel
 South West Trains
 Chizu Express
-List of ship companies
 Penn Central Transportation Company
 Beretta
 Court Line
 Colgate-Palmolive
-List of companies of Malaysia
 Okeh Records
 Lincoln Records
 Sunshine Records
@@ -1005,7 +978,6 @@ Poetry Bookshop
 Nash Motors
 Pierce-Arrow Motor Car Company
 Cord automobile
-List of common carrier freight railroads in the United States
 Pacific Electric
 Petscom
 Dr Martens
@@ -1022,7 +994,6 @@ TRW Inc
 Strand Bookstore
 Canadian National Railway
 Tekserve
-List of companies of the Netherlands
 Multi-Man Publishing
 Suva
 Public company
@@ -1050,11 +1021,9 @@ Harrods
 Independence Air
 Hong Kong Tramways
 Magnetic Scrolls
-List of companies of Estonia
 NESM Nostalgie Expresse
 Samsung Electronics
 John Wallis
-List of companies of Russia
 Kowloon–Canton Railway Corporation
 Royal Swedish Opera
 Boyd Gaming
@@ -1111,10 +1080,8 @@ Transpower New Zealand
 Genesis Energy Limited
 Arcelor
 Meridian Energy
-List of banks in Belgium
 Elf Aquitaine
 Petrofina
-List of companies of Belgium
 Mac Publishing
 Government National Mortgage Association
 West Anglia Great Northern
@@ -1257,14 +1224,12 @@ Christian Science Publishing Society
 El Pollo Loco
 Competitive local exchange carrier
 Billa
-List of supermarket chains in Romania
 Itochu
 ETA Systems
 Bung Enterprises
 Yamaha Corporation
 Hudson Soft
 Infiniti
-List of supermarket chains in Germany
 Mauser
 Radio Free Virgin
 Klasky Csupo
@@ -1327,7 +1292,6 @@ ConocoPhillips
 State-owned enterprises of New Zealand
 London and North Eastern Railway
 National Railway Company of Belgium
-List of companies of Romania
 Gazprom
 Rocketdyne
 Packard Bell
@@ -1384,21 +1348,17 @@ Turner Broadcasting System
 Cakewalk
 Doubleday
 Austin Motor Company
-List of companies of India
 Imperial Records
 Vocalion Records
 Southern New England Telephone
-List of company name etymologies
 Goldman Sachs
 BellSouth
 West End Games
 Hughes Aircraft Company
 China Construction Bank
-List of companies of Greece
 Fontana Records
 Eolas
 Norsk Hydro
-List of companies of Portugal
 Council-controlled organisation
 Toll NZ
 Aflac
@@ -1436,12 +1396,10 @@ Timbro
 Investor AB
 New York Central Railroad
 Kansas City Southern Railway
-List of film production companies
 Starwood Hotels and Resorts Worldwide
 Habima Theatre
 Stampscom
 Renesas Electronics
-List of companies of Mexico
 Tangerine Computer Systems
 Arriva Trains Wales
 Pacific Southwest Airlines
@@ -1508,7 +1466,6 @@ McCain Foods
 British American Tobacco
 Autocrat, LLC
 Ion Storm
-List of companies operating trains in the United Kingdom
 Nielsen Audio
 Genentech
 Cosgrove Hall Films
@@ -1533,10 +1490,8 @@ Upper Clyde Shipbuilders
 Cable & Wireless Worldwide
 Alticor
 Montafon Railway
-List of CAx companies
 Austrian Federal Railways
 Sampo Group
-List of government enterprises of Sweden
 Kroger
 Dollar General
 Pamida
@@ -1567,7 +1522,6 @@ American Locomotive Company
 Worshipful Company of Barbers
 Metro International
 Touchstone Pictures
-List of Finnish government enterprises
 Russian Shipyard Number 10
 Worshipful Company of Haberdashers
 Worshipful Company of Cutlers
@@ -1673,7 +1627,6 @@ Shaw Festival
 Looking Glass Studios
 Rogers Cable
 Syrian Air
-List of defense contractors
 Beltway bandits
 Topps
 MasterCard
@@ -1710,7 +1663,6 @@ Trinity Mirror
 Dallas Opera
 Mitel
 NEC
-List of United States defense contractors
 VEB Robotron
 Braniff International Airways
 Cyan Worlds
@@ -1765,7 +1717,6 @@ Mocap
 JLindeberg
 Acer Inc
 Knights of the Maccabees
-List of companies based in the Philadelphia area
 Claster Television
 Intelligent Systems
 Engineering and Research Corporation
@@ -1786,13 +1737,7 @@ Rotary Rocket
 Plessey
 Radio One
 Software AG
-List of public utilities
 AARP
-List of United States natural gas companies
-List of United States telephone companies
-List of United States electric companies
-List of United States water companies
-List of Canadian electric utilities
 Rolex
 Air Namibia
 Gimar Montaz Mautino
@@ -1820,7 +1765,6 @@ New Line Cinema
 Sony Pictures Classics
 Virgin Megastores
 Canadian Arrow
-List of British natural gas companies
 Chicago, Rock Island and Pacific Railroad
 Timely Comics
 Pepco
@@ -1840,7 +1784,6 @@ Kikkoman
 Riley Motor
 Banana Republic
 Welsh National Opera
-List of companies of Austria
 Gullane Entertainment
 American Repertory Theater
 Hindustan Motors
@@ -1892,7 +1835,6 @@ Synopsys
 Los Angeles Department of Water and Power
 Decipher, Inc
 ArtePiazza
-List of photographic equipment makers
 Chicago, Milwaukee, St Paul and Pacific Railroad
 Ipsos-Reid
 Oregon Electric Railway
@@ -1947,7 +1889,6 @@ Caledonian MacBrayne
 Fidelity Investments
 MFS Investment Management
 Kissel Motor Car Company
-List of mutual-fund families in the United States
 Synon
 Crédit Agricole
 Bell Mobility
@@ -1960,7 +1901,6 @@ Jefferson Lines
 Motor Coach Industries
 Greyhound Lines
 99 Ranch Market
-List of US beverage companies
 Free World Dialup
 Vonage
 CBS Radio
@@ -1988,7 +1928,6 @@ Forbes 500
 Entravision Communications
 Ragdoll Productions
 In-N-Out Burger
-List of companies of the Czech Republic
 Ensemble Studios
 Alliant Techsystems
 Hyundai Glovis
@@ -2009,17 +1948,14 @@ MEMX
 ITV plc
 Massey Ferguson
 Zarlink
-List of companies of New Zealand
 Microsoft Studios
 Fry's Food and Drug
 Phoenix Venture Holdings
 The Church Brew Works
 Accolade
 Lonely Planet
-List of companies named after people
 Pyramid Technology
 Abu Dhabi Al Oula
-List of assets owned by Time Warner
 QVC
 Debenhams
 CD Projekt RED
@@ -2046,7 +1982,6 @@ Surrey Iron Railway
 Spencer Gifts
 Gen Con
 Metromedia
-List of companies of Taiwan
 Reader's Digest
 Holland Land Company
 Chrysler Canada
@@ -2102,7 +2037,6 @@ SRI International
 Akamai Technologies
 Trader Joe's
 NTRU
-List of Nokia products
 Arkansas GlacierCats
 Arkansas RiverBlades
 United Farmers of Alberta
@@ -2207,7 +2141,6 @@ Nationwide Building Society
 Crystal Cruises
 Unique Art
 Remington Arms
-List of companies of Brazil
 Production IG
 Prasar Bharati
 Linksys
@@ -2267,7 +2200,6 @@ Dolce & Gabbana
 Monkeystone Games
 Hipercor
 Japan Tobacco
-List of companies of South Africa
 American International Group
 Gara
 Company of Watermen and Lightermen
@@ -2318,7 +2250,6 @@ Creemore Springs
 New York Shipbuilding Corporation
 Rath Packing Company
 Sydney Theatre Company
-List of Mumbai telecom companies
 Telmex
 Nismo
 Fox Entertainment Group
@@ -2337,7 +2268,6 @@ Haier
 Opera Software
 Sapient Corporation
 LaSalle
-List of comics publishing companies
 Davidoff
 Opéra National de Lyon
 Air Tanzania
@@ -2355,7 +2285,6 @@ Chips and Technologies
 Kellogg's
 Vale Limited
 Air Atlanta
-List of companies listed on the London Stock Exchange
 Publix
 W W Norton & Company
 Fendi
@@ -2370,14 +2299,12 @@ Landor Associates
 Expeditors International
 Newmarket Films
 Cranium, Inc
-List of Canadian telephone companies
 Drugstorecom
 REI
 Eddie Bauer
 No-Do
 Hoffmann-La Roche
 SC Lithuanian Radio and Television Centre
-List of supermarket chains in the United States
 Leek and Manifold Valley Light Railway
 Trailways Transportation System
 Knight Ridder
@@ -2419,7 +2346,6 @@ USAA
 Yazoo land scandal
 MathWorks
 Carcosa
-List of casinos
 Swiss Re
 Ubisoft
 Furness Railway
@@ -2428,7 +2354,6 @@ Caledonian Railway
 North Staffordshire Railway
 Glasgow and South Western Railway
 Highland Railway
-List of constituents of the London, Midland and Scottish Railway
 Locomotives of the Midland Railway
 BNP Paribas
 Jenners
@@ -2446,7 +2371,6 @@ Fairchild Camera and Instrument
 Sargent and Greenleaf
 Nexter
 Viridor
-List of companies of Serbia
 Finmeccanica
 Gateway, Inc
 Caesars Entertainment Corporation
@@ -2533,7 +2457,6 @@ Forterra Systems
 Putnam Investments
 ViewSonic
 Somerset Railroad
-List of Michigan companies
 Comerica
 Trend Micro
 ESET
@@ -2567,7 +2490,6 @@ Mirabilis
 The BOC Group
 Kamewa
 Litton Industries
-List of steel producers
 Crosley
 MAN Diesel
 Dave & Buster's
@@ -2618,7 +2540,6 @@ Stornoway Communications
 Suzuki
 Postmedia News
 USG Corporation
-List of cable television companies
 Quanta Computer
 Connectix
 ITV Anglia
@@ -2631,8 +2552,6 @@ Rösch
 First Comics
 Skis Rossignol
 Jeantech
-List of fighting game companies
-List of telephone operating companies
 Whole Foods Market
 Camelot Group
 Lord Chamberlain's Men
@@ -2702,7 +2621,6 @@ Cheapass Games
 France Télévisions
 Analog Devices
 SonicWall
-List of video game developers
 Magyar Televízió
 Asus
 Wicks Organ Company
@@ -2724,7 +2642,6 @@ Allegheny Portage Railroad
 Shirokiya
 Eastern Counties Railway
 Great Eastern Railway
-List of Peavey guitars
 Brienz–Rothorn railway
 Schynige Platte railway
 United Technologies Corporation
@@ -2753,7 +2670,6 @@ Kashi
 Supercomputer Systems
 Jones Day
 Omnicom Group
-List of companies of Ireland
 WPP plc
 Graham Holdings Company
 China Greatvista Chemicals
@@ -2783,7 +2699,6 @@ Foundry model
 Blizzard North
 Affymetrix
 NRMA
-List of university presses
 Oni Press
 Utility cooperative
 Trilobyte
@@ -2804,7 +2719,6 @@ Meadow Fresh
 Mindscape
 Caterpillar Inc
 Zalman
-List of supermarket chains in the United Kingdom
 Waterford Crystal
 Translink
 Broadcom
@@ -2866,9 +2780,7 @@ Alza
 Sweetheart Cup Company
 Mail Boxes Etc
 Progressive Corporation
-List of United States insurance companies
 Barclaycard
-List of low-cost airlines
 Game Park
 Fender Musical Instruments Corporation
 Blackwell UK
@@ -2924,7 +2836,6 @@ Bank Mandiri
 Ohio Company of Associates
 Ohio Company
 Scioto Company
-List of defunct banks of the Netherlands
 Yuzhnoye Design Bureau
 International Watch Company
 Victorinox
@@ -3079,7 +2990,6 @@ Lernout & Hauspie
 DoubleClick
 Novation Digital Music Systems
 RMH Teleservices
-List of English-language book publishing companies
 Middleton Junction and Oldham Branch Railway
 McClelland & Stewart
 Running with Scissors, Inc
@@ -3102,7 +3012,6 @@ OnTrack
 J Samuel White
 Tembec
 Brio
-List of companies based in Seattle
 Energopetrol
 Rediffcom
 Imperial Hotel
@@ -3117,7 +3026,6 @@ Metrobus
 Waltham Watch Company
 Hutchinson
 SK Broadband
-List of companies of South Korea
 Ford Motor Company of Australia
 Crown Castle International Corp
 Vignale
@@ -3199,7 +3107,6 @@ Kværner
 Mass Rapid Transit Authority of Thailand
 Quantum Effect Devices
 Rebranding
-List of supermarket chains in Spain
 Relocation service
 Lake Central Airlines
 Domino's Pizza
@@ -3476,7 +3383,6 @@ Birdwell
 Florida East Coast Railway
 Mausu Promotion
 Aviva
-List of companies of Hungary
 Computervision
 Anglo-Persian Oil Company
 HBO Films
@@ -3569,7 +3475,6 @@ Tokyo Electric Power Company
 SAIC Motor
 Rogers Wireless
 Ethan Allen
-List of companies of Slovakia
 Cox Enterprises
 Peterson's
 Barron's Educational Series
@@ -3676,7 +3581,6 @@ ESP Guitars
 PPG Industries
 Rádio e Televisão de Portugal
 Startupcom
-List of defunct graphics chips and card companies
 Progress Energy Inc
 Stratus Technologies
 Microwave Data Systems
@@ -3684,7 +3588,6 @@ D E Shaw & Co
 Country Road
 Fawcett Comics
 Meijer
-List of EDA companies
 Western Wireless Corporation
 TAG Heuer
 AnimEigo
@@ -3734,8 +3637,6 @@ Lockheed Martin UK
 Falconbridge Ltd
 First Quantum Minerals
 Blerta
-List of United States cable and satellite television networks
-List of companies of Belarus
 Train operating company
 Alaska Marine Highway
 AnimePlay
@@ -3887,7 +3788,6 @@ Ronseal
 Fido Solutions
 Ivax Corporation
 Göinge Mekaniska
-List of oil exploration and production companies
 Balabit
 TransUnion
 Equifax
@@ -3965,7 +3865,6 @@ Cheshire Lines Committee
 Noranda
 Gilead Sciences
 Cleveland, Cincinnati, Chicago and St Louis Railway
-List of companies of Jamaica
 Olympique Lyonnais
 Digicel
 Northern Ireland Electricity
@@ -3985,7 +3884,6 @@ Erie–Lackawanna Railroad
 U2 Clothing
 Krome Studios Melbourne
 Tseng Labs
-List of defunct hard disk manufacturers
 Patek Philippe & Co
 Armani
 Ezaki Glico
@@ -4024,7 +3922,6 @@ Lions Gate Entertainment
 Daedalus Publishing
 Foundry Networks
 Lenovo
-List of largest companies by revenue
 Scranton Button Company
 Eskom
 NTV
@@ -4042,7 +3939,6 @@ Seattle Opera
 Pacific Northwest Ballet
 Deram Records
 Kelmscott Press
-List of English-language small presses
 Boydell & Brewer
 United Biscuits
 Simon & Schuster
@@ -4140,13 +4036,10 @@ Sony Computer Entertainment
 Pergamon Press
 Dunlop Manufacturing
 Idealab
-List of tea companies
-List of coffee companies
 Mercury Theatre
 Stepstone
 Virgin Interactive
 Lukoil
-List of companies of Poland
 Sony Connect
 ClarkNet
 Mahindra Satyam
@@ -4214,7 +4107,6 @@ British National Films Company
 Four Horsemen Studios
 Cinematronics
 Stateside Records
-List of cruise lines
 Tokyo Actor's Consumer's Cooperative Society
 Criticism of Walmart
 Herose
@@ -4264,7 +4156,6 @@ Novo Nordisk
 Mersey Railway
 H&C Communications
 Terra Networks
-List of bank mergers in the United States
 Braun
 Black Star Line
 WebEx
@@ -4701,7 +4592,6 @@ Enterbrain
 Kemco
 Vermont Teddy Bear Company
 Lunn Poly
-List of constituents of the London and North Eastern Railway
 District Railway
 Lend Lease Group
 RentPath
@@ -4710,7 +4600,6 @@ Digital Extremes
 LOMO
 Grand Trunk Western Railroad
 NBCUniversal Television Group
-List of defunct automobile manufacturers of the United States
 PRS Guitars
 Disney Interactive Studios
 Orica
@@ -4931,12 +4820,9 @@ Automatic Data Processing
 Electronic Music Studios
 PepsiCo
 Bowne & Co
-List of Mexican railroads
-List of Canadian railways
 Canaan Records
 Sequential Circuits
 West Bend Company
-List of companies in the Chicago metropolitan area
 Tele-Communications Inc
 Sprecher Brewery
 Metropolitan West Financial
@@ -4949,7 +4835,6 @@ Zunior
 Eclipse Comics
 Thrivent Financial for Lutherans
 Bell & Howell
-The List
 Latent Recordings
 Bonneville International
 Gabriel Kney
@@ -4962,7 +4847,6 @@ Buffalo Rock
 Siemens Mobile
 Diamond Comics
 Value Line
-List of companies based in New York City
 Olympia and York
 Orange and Alexandria Railroad
 Reeltime Pictures
@@ -5021,7 +4905,6 @@ Legg Mason
 Ashanti Goldfields Corporation
 Polish State Railways
 T B Ackerson Company
-List of companies of Pakistan
 Norðurljós
 Party City
 Brook Mays
@@ -5093,7 +4976,6 @@ Clickteam
 Handy Dan
 Manitoba Hydro
 Versata
-List of oilfield service companies
 Warner Home Video
 Hewson Consultants
 One Yellow Rabbit
@@ -5132,7 +5014,6 @@ Factor 5
 Driza-Bone
 Arcana Studio
 American Megatrends
-List of defunct Canadian railways
 Bethlehem Shipbuilding Corporation
 Fore River Shipyard
 Soros Fund Management
@@ -5215,7 +5096,6 @@ PA Consulting Group
 Cumulus Media
 TCL Corporation
 Museum Tusculanum Press
-List of companies of Venezuela
 Cia Hering
 Pennsylvania-Reading Seashore Lines
 NFL Films
@@ -5291,7 +5171,6 @@ Jakks Pacific
 Huntsman Corporation
 Emaar Properties
 Victory Aircraft
-List of Canadian insurance companies
 Sri Lanka Broadcasting Corporation
 Faith
 Muji
@@ -5302,7 +5181,6 @@ Rosneft
 American Freightways
 Jordan Motor Car Company
 Boston Scientific
-List of companies of the Philippines
 RMC Group
 State Grid Corporation of China
 Naughty Dog
@@ -5373,7 +5251,6 @@ GUS
 Eternal Word Television Network
 Anchor bottler
 Pearl Drums
-List of Italian telephone companies
 Target Games
 Elex Media Komputindo
 George Wimpey
@@ -5392,7 +5269,6 @@ Palliard Press
 Tiscali
 Mediterranean Shipping Company
 Moscow Metallurgical Plant
-List of corporations in Gdańsk
 Toto Ltd
 Alabama Shakespeare Festival
 ParknShop
@@ -5419,7 +5295,6 @@ Countrywide
 Berkeley Systems
 Cushioncraft
 Robinson Technologies
-List of companies of Thailand
 Liverpool Overhead Railway
 Complicite
 Acacia Research
@@ -5583,9 +5458,6 @@ Cineworld
 Inter-Connect Ltd
 Magyar Rádió
 Worshipful Company of Management Consultants
-List of companies of Macau
-List of companies of Hong Kong
-List of companies of China
 Marukawa
 Whiteleys
 The Liberty Corporation
@@ -5629,7 +5501,6 @@ Ampm
 Falcon Northwest
 Hong Kong Link
 Ab Initio Software
-List of corporations in Pittsburgh
 Stroh Brewery Company
 Hotpoint
 Euronews SA
@@ -5680,8 +5551,6 @@ Strider Knives
 Harmony Gold USA
 Afghan Wireless
 SubLOGIC
-List of companies of Ukraine
-List of companies listed on Ibovespa
 Roving Enterprises
 G4 Media
 Daystar
@@ -5762,7 +5631,6 @@ CAMI Automotive
 Kansas City, Memphis and Birmingham Railroad
 Zeno-Watch Basel
 Manitoba Opera
-List of defunct airlines
 Fujitsu Siemens Computers
 Liwa Chemicals
 National Power Corporation
@@ -5795,7 +5663,6 @@ Exponential Technology
 Answerscom
 Stout Scarab
 Slingerland Drum Company
-List of indie game developers
 Buchla Electronic Musical Instruments
 Fantasy Productions
 Company of One Hundred Associates
@@ -5836,7 +5703,6 @@ Virginia Central Railroad
 Indianapolis Power & Light
 NRJ Group
 Wills Sainte Claire
-List of timpani manufacturers
 Mitr Phol
 Webster's Brewery
 Bank of Beijing
@@ -5850,7 +5716,6 @@ Gulf, Mobile, and Ohio Railroad
 Nippon Yusen
 Wrexham, Mold and Connah's Quay Railway
 Liverpool, Crosby and Southport Railway
-List of Champagne houses
 North Wales and Liverpool Railway
 Le Lombard
 St Lawrence and Hudson Railway
@@ -5968,7 +5833,6 @@ Saleen
 Siemens Plessey
 IC Bus
 Navistar International
-List of Canadian National Railways companies
 Washburn Guitars
 Valley Arts Guitar
 Splashpower
@@ -5984,7 +5848,6 @@ Southside Railroad
 GEC Plessey Telecommunications
 Revox
 Comotor
-List of wargame publishers
 Concepcion Industries
 Atlantic, Mississippi and Ohio Railroad
 Northern States Power Company
@@ -6114,7 +5977,6 @@ Westinghouse Broadcasting
 Lakeshore Entertainment
 Anglesey Aluminium
 Toledo, Cincinnati and St Louis Railroad
-List of companies of Singapore
 Video production
 Warner Bros Cartoons
 Jamesway
@@ -6171,10 +6033,8 @@ Eesti Telekom
 Tallinna Autobussikoondis
 Elron
 PF Magic
-List of banks in Singapore
 PIMCO
 L'Association
-List of banks in Hong Kong
 Dyson
 Albany and West Stockbridge Railroad
 Boston and Albany Railroad
@@ -6294,7 +6154,6 @@ TAZARA Railway
 Denver, South Park and Pacific Railroad
 Telford Steam Railway
 Atlas/Seaboard Comics
-List of marimba manufacturers
 Venus Swimwear
 ThoughtWorks
 Woodside and South Croydon Joint Railway
@@ -6356,7 +6215,6 @@ Juicy Couture
 Gearhart
 Masmedia
 Greyhound Canada
-List of companies listed on the Singapore Exchange
 Red Roof Inn
 Salt Publishing
 SCMP Group
@@ -6417,7 +6275,6 @@ Mooncusser Films
 Hard Rock Hotel and Casino
 Phillips Petroleum Company
 Wynn Resorts
-List of early British railway companies
 Grok
 Evangelical Christian Publishers Association
 Signwave
@@ -6434,7 +6291,6 @@ Higgins Industries
 American Electric Power
 YIVO
 Starbreeze Studios
-List of companies of the United States by state
 Reser's Fine Foods
 House of Anansi Press
 Dubuque Packing Company
@@ -6594,7 +6450,6 @@ Rexall
 Full Sail Brewing Company
 TF1 Group
 TNL Freighting
-List of constituents of the Southern Railway
 Kibon
 Paradox Interactive
 Editora Abril
@@ -6616,7 +6471,6 @@ Jewish Theater of New York
 Gray Coach
 Woori Financial Group
 Hana Financial Group
-List of constituents of the Great Western Railway
 SpeechFX
 Books Kinokuniya
 General Dynamics Land Systems – Australia
@@ -6759,7 +6613,6 @@ Crytek UK
 Rio Salado Brewing Company
 Ibas
 Bulgarian Railway Company AD
-List of railway companies involved in the 1923 grouping
 Jim Pattison Group
 Compass Group
 Capstone Turbine
@@ -6797,7 +6650,6 @@ EigoMANGA
 Franck
 Jimmy the Greek
 Pulitzer, Inc
-List of banks in the United Kingdom
 Hadeland Glassverk
 Current Opinion
 Aena
@@ -7109,7 +6961,6 @@ Fifth Avenue Bus Company
 Overland Custom Coach
 Thales Underwater Systems
 Lawson
-List of companies of Argentina
 Thomas Dennis Company
 Canadian Car and Foundry
 Ottawa Car Company
@@ -7124,7 +6975,6 @@ Ashland Inc
 Ithaca Gun Company
 Bottling company
 Ready at Dawn
-List of companies of Israel
 T G Lee Dairy
 GNC
 Columbia and Cowlitz Railway
@@ -7265,8 +7115,6 @@ Greeley, Salt Lake and Pacific Railway
 Asahi Life
 Dairy Crest
 Oto Melara
-List of companies of Senegal
-List of companies of Mali
 Chester and Crewe Railway
 Ross
 Gallaher Group
@@ -7384,7 +7232,6 @@ Klabin
 Light Serviços de Eletricidade
 J A Henckels
 History of Ferrari
-List of companies of Barbados
 Vertex Pharmaceuticals
 2M TV
 Grolier
@@ -7441,7 +7288,6 @@ Semiconductor Manufacturing International Corporation
 Native Instruments
 Lynton and Barnstaple Railway
 Guerrilla Games
-List of anime companies
 Brand loyalty
 Dapol
 NStigate Games
@@ -7578,7 +7424,6 @@ Meadow Lea
 HCL Technologies
 Swansea Vale Railway
 Krauss-Maffei
-List of companies of North Korea
 MTN Group
 HTC
 National Steel Corporation
@@ -7597,14 +7442,11 @@ Apollo Tyres
 Edison Illuminating Company
 International Male
 Fiserv
-List of companies of Tanzania
 Pyburn Films
 Naim Audio
-List of companies of Liberia
 Nexstar Broadcasting Group
 ShareBuilder
 Boliden AB
-List of companies of Ethiopia
 Kapoot Clown Theater
 Santa Fe Natural Tobacco Company
 Oracle Hyperion
@@ -7613,7 +7455,6 @@ Big Neck Records
 Rederi AB Slite
 Dennis Publishing
 Vendo
-List of companies of Angola
 Cullinet
 CinéGroupe
 I P Sharp Associates
@@ -7692,7 +7533,6 @@ Blue Tongue Entertainment
 Bank of New Brunswick
 Gold Kist
 Home Entertainment Suppliers
-List of companies of Iraq
 SourceMedia
 Buckle
 Hans im Glück
@@ -7820,7 +7660,6 @@ Snack Brands Australia
 Zushi Games
 Snack Foods Limited
 Norman Radio
-List of companies in Houston
 Murphy Radio
 Queen Anne's Men
 BPB plc
@@ -7869,7 +7708,6 @@ Toronto Drydock Company
 Toronto Ferry Company
 Ooredoo
 Evergreen Group
-List of Microsoft topics
 NetCom
 Pick n Pay Stores
 Belshina
@@ -7981,7 +7819,6 @@ New World Computing
 JVA Artists, Inc
 Discovery Digital Networks
 MBTA Boat
-List of rum producers
 Empresa Eléctrica del Ecuador
 Sonae
 Guyana Telephone and Telegraph Company
@@ -8048,8 +7885,6 @@ Fortinet
 NERD
 Ann & Hope
 Norzan Enterprises
-List of companies of Haiti
-List of companies of Albania
 Mark VII Limited
 Frank's Nursery & Crafts
 Mugen Motorsports
@@ -8065,8 +7900,6 @@ Gumtree
 Arqiva
 New Dragon Asia
 Valleycrest Productions
-List of Caribbean companies
-List of banks and credit unions in Canada
 Gumstix
 York International
 ANEST IWATA
@@ -8091,7 +7924,6 @@ Orient Overseas Container Line
 Alpha Beta
 Galaxy Desserts
 Network Applied Communication Laboratory
-List of PLC manufacturers
 Baltimore and Potomac Railroad
 BAE Systems Land & Armaments
 PerkinElmer
@@ -8151,7 +7983,6 @@ Barrick Gaming Corporation
 Field Communications
 Peak Forest Tramway
 Arcadia Group
-List of companies of Zimbabwe
 Railpower Technologies
 Pingo Doce
 Onex Corporation
@@ -8198,7 +8029,6 @@ Tandanor
 Fort Garry Brewing Company
 CIFG
 Bronica
-List of asset management firms
 BlackRock
 Kings Entertainment Company
 Digital Webbing
@@ -8325,8 +8155,6 @@ GTECH SpA
 Udon Entertainment
 Union Camp Corporation
 Gizmo5
-List of banks in Albania
-List of banks in Angola
 Mount Lyell Mining and Railway Company
 Poljot
 Junghans
@@ -8360,11 +8188,9 @@ Hong Kong United Dockyard
 Software Bisque
 The Fizz Factor
 Lancaster and Chester Railroad
-List of companies of Nigeria
 New York New Jersey Rail, LLC
 Software Creations
 Pool Re
-List of companies of the Ivory Coast
 Fopp
 Carisma Automotive
 Saffire
@@ -8381,7 +8207,6 @@ InterVarsity Press
 Donaudampfschiffahrtselektrizitätenhauptbetriebswerkbauunterbeamtengesellschaft
 GPC Biotech
 Donaudampfschiffahrtsgesellschaft
-List of venture capital firms
 Spinzar
 Advance Newspapers
 RAMJAC
@@ -8452,9 +8277,7 @@ Singapore Bus Service
 Scout Electromedia
 EPoX
 Zongo Comics
-List of Chilean companies
 James Page Brewing Company
-List of pornographic film studios
 Tuckerman Brewing Company
 Pulse Asia
 Transports Schiocchet Excursions
@@ -8718,7 +8541,6 @@ Amherst and Belchertown Railroad
 Amherst, Belchertown and Palmer Railroad
 New London, Willimantic and Springfield Railroad
 New London Northern Railroad
-List of British entomological publishers
 Alibris
 Apax Partners
 Hakusensha
@@ -8745,7 +8567,6 @@ Dorothy Perkins
 Uniden
 Vermont Central Railroad
 Vermont and Canada Railroad
-List of railway companies in Switzerland
 Association of Chief Police Officers
 Society for German Colonization
 Kering
@@ -8822,7 +8643,6 @@ Dow Corning
 New York Telephone
 Syngenta
 Daiso
-List of companies of the Dominican Republic
 Firozabad
 Legal Services Corporation
 Atlantic Theater Company
@@ -8944,9 +8764,7 @@ Stila
 Capital Cities Communications
 Shinco
 Econet Wireless
-List of insurance companies in Singapore
 Coyote Ugly Saloon
-List of insurance companies in Hong Kong
 Heavy Vehicles Factory
 Zebra Technologies
 Dur-O-Lite Pencil Company
@@ -9029,7 +8847,6 @@ Burton Snowboards
 Perry's Ice Cream
 Astex
 Terminal Reality
-List of companies of Ghana
 Circumvesuviana
 Telecom Italia Mobile
 Billpoint
@@ -9125,7 +8942,6 @@ Lake Shore Railway
 Buffalo and Erie Railroad
 Erie and North East Railroad
 Buffalo and State Line Railroad
-List of corporations in Phoenix
 Huntley & Palmers
 Erie and Kalamazoo Railroad
 Northern Indiana Railroad
@@ -9168,7 +8984,6 @@ Salesforcecom
 Amy's Kitchen
 English Touring Opera
 Wabash National
-List of companies in the Dallas–Fort Worth metroplex
 Kimball International
 Mastertronic
 Lone Star Steel Company
@@ -9243,7 +9058,6 @@ Interstate Batteries
 Cameron Mitchell Restaurants
 Nebraska Public Power District
 Muskoka Cottage Brewery
-List of airlines of Iran
 Dispatch Broadcast Group
 Atlas Games
 MODCOMP
@@ -9298,7 +9112,6 @@ Something Weird Video
 Micro Power
 Johnsonville Foods
 McElhanney
-List of companies of Guyana
 First Union
 Iogen Corporation
 Nitix
@@ -9327,7 +9140,6 @@ Tekno Comix
 Svema
 Clipsal
 Neighbourhood Cable
-List of companies of Egypt
 McDonald's
 Okaya Optical
 Nicholson's Brewery
@@ -9337,7 +9149,6 @@ Scottish Dance Theatre
 Chicago and Eastern Illinois Railroad
 Advantest
 Rosehaugh
-List of companies of the United Arab Emirates
 Boston Ballet
 Halfords
 Borbonesa
@@ -9368,7 +9179,6 @@ Phelon & Moore
 Julien Inc
 Leucadia National
 Monarch Beverage Company
-List of companies of the Bahamas
 Kennedy Fried Chicken
 CP Ships
 National Express Midland Metro
@@ -9543,7 +9353,6 @@ Bowmanville Foundry
 American Champion
 Edline
 Shell-Mex and BP
-List of companies of Turkey
 Canterbury of New Zealand
 Jayne Cortez
 World Productions
@@ -9700,7 +9509,6 @@ American Conservatory Theater
 Lewis's
 Yum-Yum Donuts
 Associated Artists Productions
-List of ice cream parlor chains
 Hero MotoCorp
 Linx
 Itty bitty machine company
@@ -9940,7 +9748,6 @@ Audemars Piguet
 Colex Enterprises
 NXTbook Media
 Central Bank of Luxembourg
-List of S&P 500 companies
 ECosCentric
 Facit
 RapidKL
@@ -9969,7 +9776,6 @@ Coty, Inc
 Elkhart Band Instrument Company
 Pan American Band Instrument Company
 No Shame Theatre
-List of employee-owned companies
 Simon Property Group
 Meebo
 Navarik
@@ -10001,7 +9807,6 @@ Michinoku Bank
 The Tetris Company
 Central City Opera
 Eckrich
-List of franchises
 SUSE
 Carlson Wagonlit Travel
 Travelodge
@@ -10111,7 +9916,6 @@ MediaSentry
 Cornerstone Theater Company
 Charles River Broadcasting
 Virgin Mobile Canada
-List of Canadian mobile phone companies
 Crawford & Company
 Precision Manuals Development Group
 Hewland
@@ -10342,7 +10146,6 @@ Quality Communications
 Roku, Inc
 Yogi Tea
 Sydney Ferries
-List of United States wireless communications service providers
 The Wharf
 Tyndale House
 Mitsubishi UFJ Financial Group
@@ -10452,7 +10255,6 @@ Bowman Gum
 Wee Warriors
 Mothercare
 Vital Health Foods
-List of companies of Saint Lucia
 C F Booth
 Japanese public corporations
 Morinda Bioactives
@@ -10497,7 +10299,6 @@ Cytec Industries
 Aramex
 Vividas
 STX Corporation
-List of opera companies
 Associated Grocers of Florida
 Big Y
 TG Sambo
@@ -10585,7 +10386,6 @@ Skywald Publications
 Rayonier
 Sandhills Publishing Company
 Assuria Ltd
-List of the largest software companies
 Universal Communication Platform
 Smeg
 Metallica Resources
@@ -10811,7 +10611,6 @@ ORLEN Lietuva
 Big Sky Brewing Company
 Disney Publishing Worldwide
 Westmount Draperies
-List of companies listed on the Athens Stock Exchange
 Svensk Etanolkemi
 Ceres Hellenic Shipping Enterprises
 Telent
@@ -11001,7 +10800,6 @@ Caixa Geral de Depósitos
 Hartswood Films
 Dongfeng Honda
 Daisy Rock Girl Guitars
-R A Lister and Company
 Kenko
 Coktel Vision
 HSBC Bank Australia
@@ -11035,12 +10833,10 @@ Peckham's
 MICROS Systems
 Plynlimon and Hafan Tramway
 Standing Point Films
-List of companies that switched industries
 Middleton Railway
 Elmer's Fine Foods
 Bakers Delight
 Hurley International
-List of Philippine film studios
 Pew Research Center
 Flockton
 Picturehouse
@@ -11067,7 +10863,6 @@ Penguin Software
 Yandex
 GS Group
 Nymanbolagen
-List of Fibre Channel switches
 Empas
 Metsähallitus
 Wacoal
@@ -11174,7 +10969,6 @@ Great Portland Estates
 Pendleton Woolen Mills
 Bellway
 Thilmany
-List of television networks by country
 Bovis Homes Group
 Nu Skin Enterprises
 Ipsos
@@ -11197,7 +10991,6 @@ State Electricity Commission of Victoria
 Indesit Company
 Mosser Glass
 OGMA
-List of companies of Cyprus
 Ukrainian Railways
 Association of Chief Police Officers in Scotland
 Carhartt
@@ -11239,7 +11032,6 @@ Blackburn Radio
 PCL Construction
 Connex South Central
 Connex South Eastern
-List of companies transferred to Conrail
 Eastern Book Company
 Epson Robots
 Benedikt Eppelsheim
@@ -11320,7 +11112,6 @@ Comgás
 Cornell University Press
 Union Gas
 Joy Mining Machinery
-List of television production companies of New Zealand
 Duell, Sloan and Pearce
 Fredonia Gas Light Company
 Kramer of New York
@@ -11585,7 +11376,6 @@ Eilat Ashkelon Pipeline Company
 MoonScoop Group
 Fireman's Fund Insurance Company
 Tshiuetin Rail Transportation
-List of OGL publishers
 Mathematical Applications Group, Inc
 Interserve
 365
@@ -11605,7 +11395,6 @@ Wrexham Lager
 Freeman, Hardy and Willis
 State Pharmaceuticals Corporation of Sri Lanka
 Proview International Holdings Ltd
-List of breweries in Pennsylvania
 Maritime Telegraph and Telephone Company
 Bruncor
 Island Telecom
@@ -12068,13 +11857,11 @@ Honda Canada Inc
 Filmnightcom
 Argos Comunicación
 Cincinnati and Muskingum Valley Railroad
-List of companies based in Hyderabad, India
 Portpatrick and Wigtownshire Joint Railway
 Royal Liver Assurance
 Castle Douglas and Dumfries Railway
 Automattic
 Snappy Dance Theater
-List of dance companies
 Nashua Manufacturing Company
 Allied Radio
 Fortune Lounge Group
@@ -12143,7 +11930,6 @@ Avery Berkel
 Matrix Games
 Ripspeed
 Companhia Siderúrgica Nacional
-List of companies in Dallas
 Caplan's
 United Networks
 Gulfsat
@@ -12285,7 +12071,6 @@ Covington, Columbus and Black Hills Railroad
 Willamette Valley Railway
 Leopoldo Salcedo Production
 Alabama, Tennessee and Northern Railroad
-List of animation studios
 Joykeep Jeans
 Ciena
 Giordano
@@ -12453,7 +12238,6 @@ Royal Dramatic Theatre
 F W Media
 Aksjeselskap
 RailTex
-List of companies of Scotland
 Lind-Waldock
 Organic Theater Company
 Maison de Bonneterie
@@ -12490,7 +12274,6 @@ Jung-A Hydraulic
 Shipping Corporation of India
 Conspiracy Entertainment
 Right Media
-List of oldest companies
 Alton and Southern Railway
 Terraglyph Interactive Studios
 NewKidCo
@@ -12509,7 +12292,6 @@ National Instruments Electronics Workbench Group
 First Family Entertainment
 SEZ AG
 SoundClick
-List of mergers and acquisitions by Google
 Infernal Bridegroom Productions
 Three Bugs Fringe Theatre
 Schrafft's
@@ -12560,16 +12342,13 @@ Albany, Florida and Northern Railway
 Americus, Preston and Lumpkin Railroad
 Decathlon Group
 Chrysalis Music
-List of pre-nationalisation UK electric power companies
 Stagg Music
 Carapelli
 BAE Systems Electronics, Intelligence & Support
 BAE Systems AB
-List of banks in Turkey
 Keds
 BAE Systems Land Systems South Africa
 Atlanta and Birmingham Air Line Railway
-List of banks in Russia
 Atlanta and Hawkinsville Railroad
 Atlanta and Florida Railway
 NuComm International
@@ -12662,7 +12441,6 @@ Savannah and Northwestern Railway
 TTNET
 Per Aspera Press
 House of Elzevir
-List of companies of Botswana
 Innocent Drinks
 Hsin Chong
 Grupo Garza Ponce
@@ -12771,7 +12549,6 @@ Charleston and Savannah Railway
 Le Méridien
 Ethnic Channels Group
 Peabody Energy
-List of passenger airlines
 Rocky Mountain Airways
 Chickamauga and Durham Railroad
 Great Plains Airlines
@@ -12812,7 +12589,6 @@ Columbus and Rome Railway
 North and South Railroad of Georgia
 Savannah and Western Railroad
 Ottico Meccanica Italiana
-List of companies of Latvia
 Heavy Engineering Corporation
 Color Group
 Metropolis Gameport
@@ -12835,7 +12611,6 @@ Reno Air
 Rich International Airways
 Amsterdam Brewing Company
 Kuwait Petroleum Corporation
-List of companies of Algeria
 DH Press
 ZMDI
 Edelsa
@@ -13086,20 +12861,16 @@ Oregon Short Line Railroad
 GWA International
 CBN Asia
 Strebor
-List of ferry operators
 Orbit Communications Company
 Guild Guitar Company
 Toyota Financial Services
 Divine
 Christiania Bank
 Alphamosaic
-List of companies based in San Francisco
-List of airlines of Pakistan
 Urenco Group
 Army & Navy Stores
 David Fulton Publishers
 Upper Peninsula Power Company
-List of breweries in Wisconsin
 Pioneer Instrument Company
 Sheba Prokashoni
 Heintzman & Co
@@ -13209,7 +12980,6 @@ Newquay and Cornwall Junction Railway
 Cornwall Railway
 Oxford World's Classics
 Manoj Comics
-List of mobile network codes in the United States
 Kemira
 North Pennsylvania Railroad
 El Salam Maritime Transport
@@ -13271,7 +13041,6 @@ Netsys Technologies
 IronPort
 Ten Speed Press
 San Gorgonio Inn
-List of company and product names derived from indigenous peoples
 Teleroute
 Nadec
 Stage First Cincinnati
@@ -13399,7 +13168,6 @@ Silo
 Armstrong World Industries
 Upland Brewing Company
 Rip Off Press
-Angie's List
 Molnija
 Parmelee System
 Déjà Vu
@@ -13407,7 +13175,6 @@ Locomotives of the Furness Railway
 Pertamina
 Imagitec Design
 Brandstätter Group
-List of vineyards and wineries
 CipSoft
 Levsen Organ Company
 Quimby Pipe Organs
@@ -13472,12 +13239,10 @@ Kala Health Enrichment
 Oboronprom
 Mowlem
 Real3D
-List of clarinet makers
 Roosevelt
 Westcott automobile
 Bravo Telecom
 Southern Water
-List of breweries in Colorado
 New Zealand Racing Board
 FlightSafety International
 Blue Mountain Pottery
@@ -13589,7 +13354,6 @@ Oxford Finance
 SodaStream
 Full Bleed Studios
 Fritt Ord
-List of defunct network processor companies
 Endesa
 Waste Management, Inc
 Frankford Candy & Chocolate Company
@@ -13617,12 +13381,9 @@ Ingman
 Musicland
 Piramal Enterprises Ltd
 Central European Media Enterprises
-List of companies traded on the JSE
 ELTA
 Pandrol
 Real Quality Wrestling
-List of breweries in Texas
-List of breweries in California
 El Degas guitars
 S Fischer Verlag
 DOVO Solingen
@@ -13661,7 +13422,6 @@ The Majestic Star Casino, LLC
 Erol's
 ObjecTime
 Artex Software
-List of banks in Germany
 H & J Smith's
 Seven Group Holdings
 Ten Network Holdings
@@ -13924,7 +13684,6 @@ Ferrocarril Mexicali y Golfo
 West Highland Railway
 Qintex
 Citigroup Global Markets Japan
-List of members of the Tokyo Stock Exchange
 C-COR
 EA Tiburon
 Fretter
@@ -13999,7 +13758,6 @@ Marun petrochemical complex
 Roger Dubuis
 Ellman's
 Tech Mahindra
-List of defunct retailers of the United States
 Texas Pacifico Transportation
 Rochester Midland Corporation
 Wise Solutions, Inc
@@ -14008,7 +13766,6 @@ EDF Energy
 Linuxgruven
 Light Opera Works
 Arcor
-List of breweries in Washington
 Ubicom
 Entertainment Software Publishing
 Raymond Group
@@ -14051,7 +13808,6 @@ Pembroke's Men
 Lord Strange's Men
 Sociedade de Turismo e Diversões de Macau
 Merrythought
-Companies listed on the New York Stock Exchange
 Billerica and Bedford Railroad
 Boral
 LibriVox
@@ -14201,7 +13957,6 @@ Big Stony Railway
 Interior and West Virginia Railroad
 Section Eight Productions
 Strawberry Jam Comics
-List of Canadian stores
 Virginia Blue Ridge Railway
 Chesapeake Western Railway
 Chesapeake and Western Railroad
@@ -14267,7 +14022,6 @@ EADS 3 Sigma
 Whoopee Camp
 Budvanska Rivijera
 Foote & Davies Company
-List of biotechnology companies
 Ferrobaires
 Eastland Company
 Strayer Voigt Inc
@@ -14304,7 +14058,6 @@ Liverpool
 El Palacio de Hierro
 Monroe Calculator Company
 Spoon Sports
-List of breweries in Illinois
 Texas Genco
 Nudie Jeans
 Evergreen Newspapers
@@ -14332,7 +14085,6 @@ P&O Portsmouth
 Coverity
 Otto's Pub & Brewery
 Bethany House
-List of companies listed on the Irish Stock Exchange
 Lightning MultiCom
 Permira
 The Hindu Group
@@ -14490,7 +14242,6 @@ Sonic Automotive
 Cryptico
 Mantra Films
 Antrix Corporation
-List of national and international moving associations
 Federation of International Trade Associations
 Tarax
 The Sodbury Players
@@ -14504,7 +14255,6 @@ Mobile and Ohio Railroad
 Intrinsyc
 Lianhua Film Company
 Mingxing Film Company
-List of Minnesota companies
 Biopure
 Two Guys
 Bengal Nagpur Railway
@@ -14596,7 +14346,6 @@ Marion
 Denver, Texas and Fort Worth Railroad
 Hyundai Department Store Group
 Fort Worth and Denver Railway
-List of South Korean retail companies
 Macdonald Tobacco
 BeachWare
 Eileen Fisher
@@ -14644,7 +14393,6 @@ New Zealand Railways Department
 YP Holdings
 Korea Aerospace Industries
 Lakland
-List of computer systems from the Socialist Federal Republic of Yugoslavia
 ZoomInfo
 Intermedia
 Loose Moose Theatre
@@ -14657,7 +14405,6 @@ Piper Verlag
 Electronic Payment Services
 Petropavlovsk plc
 Sopra Group
-List of companies of Georgia
 Braeburn Capital
 Martinsa-Fadesa
 Randsburg Railway
@@ -14676,7 +14423,6 @@ Club Kidsoft
 Buckeye Steel Castings
 PC Club
 Asian Boston
-List of banks in the Dominican Republic
 Equitas
 Owasco River Railway
 Orbit Publications
@@ -14697,7 +14443,6 @@ Santa Barbara Restaurant Group
 Chicago and Rock Island Railroad
 Helio
 Atomistix Virtual NanoLab
-List of companies of Syria
 Syriatel
 Bonds
 Beginner Books
@@ -14750,7 +14495,6 @@ EPCOR Utilities Incorporated
 Wiley-Blackwell
 Nova Scotia Power
 Meilland International SA
-List of video game publishers
 Veolia Verkehr
 Great Canadian Gaming
 Ivo Lola Ribar Institute
@@ -14894,7 +14638,6 @@ Taser International
 Rotary Watches
 Instaphone
 Pakistan Telecommunication Authority
-List of telecommunications companies of Pakistan
 Portishead Railway
 Internet Broadcasting
 KYE Systems Corp
@@ -14956,7 +14699,6 @@ Harrisongs
 Televen
 Crane-Simplex
 Empresas 1BC
-List of banks in the Philippines
 Telenor Pakistan
 Australian Children's Television Foundation
 Telespazio
@@ -15064,7 +14806,6 @@ Fullpower Technologies
 Mississauga Truck and Bus Collision
 Logo Ligi
 KVINT
-List of companies of Mauritius
 Ligue nationale d'improvisation
 Brine
 Wisconsin Energy Corporation
@@ -15109,7 +14850,6 @@ DUALabs
 IPass
 Kuehne   Nagel
 Maadiran Group
-List of companies of Iran
 Belvoir
 Regal Musical Instrument Company
 Kookaburra Musical Theatre
@@ -15164,7 +14904,6 @@ Fram
 UK Coal
 Indie Press Revolution
 LRA Radio Nacional
-List of companies based in Leeds
 Princess
 British Cellophane
 Pöyry
@@ -15399,7 +15138,6 @@ General Steel Industries
 Odyssey Toys
 Com Hem
 Viper Comics
-List of Chinese film-production companies before 1949
 Hain Celestial Group
 4K Media Inc
 Andrews McMeel Publishing
@@ -15458,13 +15196,11 @@ Bright Star Technology
 RTCG
 Zlatoust Machine-Building Plant
 NPO Mashinostroyeniya
-List of private spaceflight companies
 Leisure Connection
 Shaftebury Brewing Company
 Jessica Kingsley Publishers
 Otava
 Idea Cellular
-List of DVD manufacturers
 FieldCraft
 Premier Power
 Ultrasis
@@ -15662,7 +15398,6 @@ Guest Keen Williams
 MySociety
 Child World
 Playtone
-List of marketing research firms
 Geneva Amateur Operatic Society
 Addington Racing
 Picsel
@@ -15682,7 +15417,6 @@ Silver Creek Entertainment
 Automatic Press / VIP
 DDR Corp
 Cooperstown and Charlotte Valley Railroad
-List of Israeli bus companies
 Straub Brewery
 Sora Ltd
 Brihanmumbai Electric Supply and Transport
@@ -15979,10 +15713,8 @@ R1 Club
 Netpulse
 Elektronorgtechnica
 Cutlery and Allied Trades Research Association
-List of conglomerates in Tamil Nadu
 Tenix
 Modell's
-List of conglomerates in Maharashtra
 CTNow
 North Western Coal and Navigation Company
 Lollandsbanen
@@ -16045,7 +15777,6 @@ Hillshire Farm
 CovySoft Networks
 The Laden Showroom
 TVX Broadcast Group
-List of companies of Morocco
 Prentice Hall
 Jason Aronson
 Coconuts Japan
@@ -16079,8 +15810,6 @@ Compagnie des Chemins de Fer de Grande Banlieue
 Shiki Theatre Company
 Overseas Containers
 Dooyong
-List of conglomerates in Gujarat
-List of conglomerates in Uttar Pradesh
 Digital UK
 Hosmer Mountain Soda
 Phantasia Press
@@ -16128,7 +15857,6 @@ Criticism of Coca-Cola
 RTV Nikšić
 PruHealth
 Switchcraft
-List of Rolls-Royce motor cars
 Renaissance Broadcasting
 Verigy
 Dundee and Newtyle Railway
@@ -16417,7 +16145,6 @@ Prickly Paradigm Press
 SITI Company
 Niagara Frontier Publications
 Corporate Office Properties Trust
-List of tenants in Seven World Trade Center
 Max Mara
 Bullfrog International
 Harry's Cafe de Wheels
@@ -16613,7 +16340,6 @@ Ithaca, Auburn and Western Railroad
 Mapex Drums
 ArcelorMittal
 Daiichi Sankyo
-List of silicon producers
 Dorna Sports
 Pacific Hydro
 Kwelm
@@ -16673,7 +16399,6 @@ Pivara MB
 Croatian Railways
 Morayshire Railway
 Yan Wal Yun
-List of corporations based in Winnipeg
 Buzzle
 M-Pio Co
 RotoSound
@@ -16714,7 +16439,6 @@ Legendary Pictures
 Advance-Rumely
 RCN Corporation
 Indústria Aeronáutica Neiva
-List of companies based in Tulsa, Oklahoma
 Lund Food Holdings
 Kegedonce Press
 Information International, Inc
@@ -16724,7 +16448,6 @@ ISCAR Metalworking
 Vess
 Sunpak
 Digital Productions
-List of pharmaceutical manufacturers in the United Kingdom
 AskMeNow
 Cambridge Glass
 Gemballa
@@ -16767,7 +16490,6 @@ Edinburgh Investment Trust
 Migliore
 Rubery Owen
 Bowen Construction
-List of Israeli companies quoted on the Nasdaq
 Sly Fox Brewery
 Martini & Rossi
 GDE Bertoni
@@ -16788,7 +16510,6 @@ Eagle Vision
 Mindtree
 Joseph Horne Company
 Tolly Cobbold
-List of opera houses
 20th Century Fox Television
 Dow AgroSciences
 Royal Purple
@@ -17031,7 +16752,6 @@ Southern Cross Healthcare
 Mitre Sports International
 Dr Foster Intelligence
 Husky Injection Molding Systems
-List of banks in Montenegro
 Bank of Maharashtra
 Moody Publishers
 Western Provident Association
@@ -17061,7 +16781,6 @@ Payless Car Rental
 Society of Motor Manufacturers and Traders
 Ann Inc
 Tokenzone
-List of companies in Sheffield
 Chicago Bridge & Iron Company
 Gurley Precision Instruments
 NPCC Enterprises
@@ -17277,7 +16996,6 @@ Leisure and Gaming
 Sabre Medical
 Altamira Software
 Safra Group
-List of banks in Pakistan
 Clover Stornetta Farms
 Foreign Languages Publishing House
 Premier Rides
@@ -17647,7 +17365,6 @@ FreeStyleGames
 Yerevan Brandy Company
 Premier Automobiles Limited
 Barque Press
-List of companies of Armenia
 New York and Manhattan Beach Railway
 Arab Organization for Industrialization
 Jihad Construction
@@ -17789,7 +17506,6 @@ Lucky Chicken Games
 Aircraft Manufacturing and Design
 ALM
 Mail2web
-List of breweries in South Carolina
 Lotus Communications Corporation
 Lancer Books
 Rothaus
@@ -17960,10 +17676,8 @@ TE Connectivity
 Commercial Solutions
 SimBin Studios
 Terrible Herbst
-List of companies of the Faroe Islands
 Caravan Tours
 Chronicle Publishing Company
-List of guitar manufacturers
 CO-OP Financial Services
 Belgacom Skynet
 CSTJF
@@ -18021,7 +17735,6 @@ Foreca
 Greenwood Corvettes
 TOM'S
 The Crescent
-List of companies in Campinas
 Imerys
 The Root Glass Company
 Vivendi Games
@@ -18123,8 +17836,6 @@ Eden Electronics
 Day 1 Studios
 Les Ballets de Monte Carlo
 Ikepod
-List of banks in South Korea
-List of banks in Switzerland
 Le Palais des Thés
 Inmize
 Jensen Distribution Services
@@ -18247,7 +17958,6 @@ Scott Lithgow
 Augustan Reprint Society
 Denel
 Sera
-List of companies of Somalia
 Passaic Valley and Peapack Railroad
 Hanwei
 Warid
@@ -18360,7 +18070,6 @@ Sogna
 Autovia
 The Mill
 Telekom Srpske
-List of mining companies
 KenamicK Entertainment
 Pharsalia Technologies
 LiveProcess
@@ -18389,7 +18098,6 @@ Rawlplug Ltd
 Areca
 FSP Group
 Nord-Trøndelag Elektrisitetsverk
-List of companies of Malta
 Huddle House
 Telsen Electric Company Ltd
 Mephisto, Inc
@@ -18463,7 +18171,6 @@ Bucks Music Group
 Eastgate Systems
 Hongfujin
 De Bijenkorf
-List of investment banks
 Almirall
 Alexandria and Harper's Ferry Railroad
 Washington and Western Railroad
@@ -18595,7 +18302,6 @@ PM Place Stores
 Atomic Games
 Jones Intercable
 Van Diemen's Land Company
-List of multinational corporations
 Éditions Underbahn
 KION Group
 Karrimor
@@ -18665,7 +18371,6 @@ Absolute Poker
 Vale of Llangollen Railway
 Llangollen and Corwen Railway
 Oxford, Worcester and Wolverhampton Railway
-List of airlines of Serbia
 Namco Bandai Partners
 FXpansion
 Mirrlees Blackstone
@@ -18710,9 +18415,7 @@ Sinosteel
 Steyr Sportwaffen GmbH
 Avalanche Studios
 Berluti
-List of government enterprises of Norway
 Barefoot Books
-List of banks in Malaysia
 ChampionChip
 JEA
 Morgan Technical Ceramics
@@ -18752,7 +18455,6 @@ NYTC
 Cricket Hill Brewery
 Digital Entertainment Network
 Pixelon
-List of banks in Greece
 Sunbus
 DNO International
 Mut-vitz
@@ -18798,7 +18500,6 @@ Oddworld Inhabitants
 Farmers Insurance Group
 Shindana Toys
 Trinidad and Tobago Electricity Commission
-List of companies listed on the Oslo Stock Exchange
 Conceptus Inc
 CNA Financial
 Delaware Otsego Corporation
@@ -18849,7 +18550,6 @@ T Marzetti Company
 MicroIllusions
 NRG Media
 Kartell
-List of companies in Greater Cincinnati
 National oil company
 Bullyland
 Bala and Festiniog Railway
@@ -18867,7 +18567,6 @@ Dollar Bank
 DeSoto Records
 Great River Energy
 Fizkultura i sport
-List of companies of Croatia
 Heisei Chikuhō Railway
 ALFTP
 Burns London
@@ -18947,7 +18646,6 @@ Opera Atelier
 Vibrant Technologies
 Opuzz Music Library
 Big Fish Games
-Companies listed on the Istanbul Stock Exchange
 Virgin Australia Holdings
 Beat Freaks
 Midstate Airlines
@@ -19052,7 +18750,6 @@ Gjensidige NOR
 Woodward, Inc
 Nizhnekamskneftekhim
 Mechel
-List of Westport Country Playhouse performers
 Revolution Helicopter Corporation
 Tajikfilm
 Adams Musical Instruments
@@ -19099,7 +18796,6 @@ Ethos Books
 Wersi
 Everitt
 Malcolm Jones
-List of Arab companies
 Scientific Time Sharing Corporation
 Dagsvyazinform
 Exotic Erotic Ball
@@ -19151,7 +18847,6 @@ Polyus Gold
 Doyles Room
 Belcan Corporation
 William B Eerdmans Publishing Company
-List of banks in Norway
 National Iranian Gas Company
 Sintz Gas Engine Company
 Interloper Films
@@ -19203,7 +18898,6 @@ Pepperidge Farm
 KB Life Insurance
 Dent & Co
 Phoenix Iron Works
-List of technology companies in Ottawa
 Hubbard Street Dance Chicago
 Chieftain Products
 Novellus Systems
@@ -19232,7 +18926,6 @@ Garrard Engineering and Manufacturing Company
 CBS Productions
 Anchor Blue Clothing Company
 KEO
-List of Street & Smith publications
 Trovata
 Essent
 AirMagnet
@@ -19396,7 +19089,6 @@ Coopérative de transport maritime et aérien
 Korea Newswire
 ZCCM Investments Holdings
 Realogy
-List of companies of Zambia
 Telpay
 Gasunie
 Peek Freans
@@ -19429,14 +19121,12 @@ Kastoria Bus Lines
 American Bicycle Company
 Tim's Cascade Snacks
 C Hahne Mühlenwerke GmbH & Co KG
-List of companies of Swaziland
 Cinebook
 Eesti Energia Kaevandused
 Lensbury
 Dr Pepper
 Swaziland Posts and Telecommunications
 Funnelback
-List of companies of Lesotho
 Telecom Lesotho
 Soennecken
 Botswana Telecommunications Corporation
@@ -19497,11 +19187,9 @@ Jerry Jones Guitars
 Transwerk
 Transnet Pipelines
 Hastings Entertainment
-List of companies of Peru
 Iasis Healthcare
 Trust-Mart
 J B Lefebvre
-List of electric supply companies in Pakistan
 Denki
 Doi
 Brandauer Ingenuus Ensemble
@@ -19563,8 +19251,6 @@ Reliance World
 East Malling Research Station
 Mauretania Comics
 Beneteau Guitars
-List of tenants in Five World Trade Center
-List of companies of Jordan
 Amedei
 Suez Steel
 Central Scientific Company
@@ -19592,7 +19278,6 @@ Athena Technologies
 Spence Diamonds
 Mauritel
 Rightmove
-List of companies of the Central African Republic
 Blue Circle Industries
 Network Instruments
 Solson Publications
@@ -19613,7 +19298,6 @@ Puget Sound Bridge and Dredging Company
 Lockheed Shipbuilding and Construction Company
 Ballet Folklorico de Mexico
 Tiens Biotech Group
-List of companies of Equatorial Guinea
 Printakid
 Vostok Gas
 AWD Holding
@@ -19634,11 +19318,8 @@ Dunblane, Doune and Callander Railway
 Scottish Central Railway
 KordaMentha
 Oregon Shipbuilding Corporation
-List of companies of Madagascar
 Generali Deutschland
-List of companies of São Tomé and Príncipe
 Olinto Gallo Workshops
-List of companies of Namibia
 Zaporizhstal
 The Range
 Santa Cruz Yachts
@@ -19687,7 +19368,6 @@ Shelter Insurance
 Air Cargo Inc
 Washington Savoyards
 Lebanon and Tremont Railroad
-List of companies of Saudi Arabia
 Good Spring Railroad
 Investec
 SUSE Linux distributions
@@ -19732,7 +19412,6 @@ ZSoft Corporation
 Bell Pottinger Private
 Cambria and Indiana Railroad
 Terabeam
-List of companies based in Kirkland, Washington
 Roly Poly
 Crescendo Networks
 Nokian Capacitors
@@ -19761,7 +19440,6 @@ Platt Brothers
 Daewon CI
 Dimensional Insight
 Guardian Biotechnologies
-List of Venezuelan cooperatives
 Corpozulia
 Open Circle Theater
 Playtoy Industries
@@ -19783,7 +19461,6 @@ Omantel
 Davie Shipbuilding
 Théâtre du Soleil
 White Weld & Co
-List of computer hardware manufacturers
 Point of View
 Leo S Olschki Editore
 United Christian Broadcasters
@@ -19801,7 +19478,6 @@ Aelita Software Corporation
 Masonite International
 Bevier and Southern Railroad
 518 Media
-List of banks in Libya
 Everyman Theatre, Baltimore
 Mandragora
 Schoolhouse Press
@@ -19933,7 +19609,6 @@ Reliance Fresh
 Perfect Songs
 Modern Theatres
 Perdue Farms
-List of banks in Australia
 Semic Interprint
 Infor
 Belize Telemedia
@@ -19968,7 +19643,6 @@ Eutechnyx
 INiS
 Friendswood Development Company
 Two River Theater
-List of NAS manufacturers
 Kudan Project Production
 Amador Central Railroad
 International Product Development
@@ -20030,7 +19704,6 @@ Williams & Guion Black Star Line
 Rocksource
 BirdLand Theatre
 Didcot, Newbury and Southampton Railway
-List of companies of Bangladesh
 Periolat brewery
 Sohmer & Co
 Mpowerplayer
@@ -20200,15 +19873,10 @@ Perini Navi
 Seaboard International
 The ACME Laboratories Ltd
 Hub International
-List of companies of Cape Verde
 Knoll
 CodeGear
 Atlantic Coast Radio
 Burning Shore Press
-List of mobile network operators of the Americas
-List of mobile network operators of the Asia Pacific region
-List of mobile network operators of Europe
-List of mobile network operators of the Middle East and Africa
 Preston and Longridge Railway
 Novokramatorsky Mashinostroitelny Zavod
 South Wales Mineral Railway
@@ -20279,7 +19947,6 @@ Camille's Sidewalk Cafe
 Tarari
 Southern Exposure Seed Exchange
 Camber Corporation
-List of companies of Chad
 Rot Front Open Joint-Stock Company
 Neal's Yard Remedies
 Edwin F Kalmus
@@ -20299,7 +19966,6 @@ Joseph Schmidt Confections
 Scanline VFX
 Nobel Enterprises
 De La Hunt Broadcasting
-List of companies of Benin
 Pterodon
 Easton-Bell Sports
 Metals-banka
@@ -20359,7 +20025,6 @@ MNet Corporation
 Tribune Media Services
 New York City Department of Environmental Protection
 Valley Youth Theatre
-List of companies of Oman
 Primo Filmes
 Aspire Technologies, Inc
 Bassett Furniture
@@ -20502,7 +20167,6 @@ Virco
 China Tietong
 Tata Technologies
 Galapagos Genomics
-List of folk dance performance groups
 Nexus Productions
 Kelowna Pacific Railway
 China National Ethnic Song and Dance Ensemble
@@ -20536,7 +20200,6 @@ United Electronic Industries
 Washington City and Point Lookout Railroad
 Corporate Finance Associates
 Sierra Trading Post
-List of Romanian-language publishers
 Impact Confections
 Kumon
 United Nuclear
@@ -20577,25 +20240,21 @@ Roadshow Players
 SpectorSoft
 Hexcel
 Alcatel Mobile Phones
-Lister Petter
 Lanson International
 Carmen Media
 The Maxx
 Sunsweet Growers
 Stone & Thomas
 The Little App Factory
-List of wind turbine manufacturers
 Kirov Plant
 Raycom/LF Sports
 Minx
-List of fitness wear brands
 Roberts Broadcasting
 IKloak
 Edding
 The Software Refinery
 Chevrolet Europe
 Select Medical
-List of companies based in the Harrisburg area
 Knik Arm ferry
 Ozonru
 Cintel
@@ -20631,7 +20290,6 @@ Vater
 Anova Books
 Paper Tiger Books
 Silicon Laboratories
-List of banks in Japan
 Hat World
 Georgia Southern Railroad
 Global Aviation Holdings
@@ -20656,7 +20314,6 @@ GO Wellington
 Development Bank of Southern Africa
 Fun Factory
 Nexcom Bulgaria
-List of UK children's book publishers
 Salariya Book Company
 Bergisch-Märkische Railway Company
 Fox Sports Digital Media
@@ -20673,7 +20330,6 @@ STV Group
 Aldiscon
 Goodwin & Company
 Queen Henrietta's Men
-List of shipbuilders and shipyards
 Metzler Orgelbau
 Havok
 Oticon
@@ -20751,7 +20407,6 @@ Mohawk Oil
 Storm Impact
 Estel
 LibLime
-List of companies listed on the Hong Kong Stock Exchange
 Chemeq
 Ingenico
 Hiroshima Electric Railway
@@ -20831,7 +20486,6 @@ Orchid Cellmark
 Astrium
 NTT Europe Online
 Flying Bison Brewing Company
-List of bioinformatics companies
 Clintons
 Wirefly
 American National Insurance Company
@@ -20867,7 +20521,6 @@ Hiroshima Rapid Transit
 International Railway
 The Leela Palaces, Hotels and Resorts
 Tide
-List of banks in Cyprus
 365 Media Group
 Kalido
 Reusch
@@ -20908,7 +20561,6 @@ SeaCat
 Eclipse
 Cooperativa Agrícola Pisquera Elqui Limitada
 Talking Birds
-List of companies of Colombia
 Metrocorp
 Secom
 Abba Seafood
@@ -20957,7 +20609,6 @@ Pennsylvania, Ohio and Detroit Railroad
 Greenock and Wemyss Bay Railway
 South Devon Railway Company
 Matrix Software
-List of department stores of the United States
 Roberts Hawaii
 Roaring 40s
 Vallourec
@@ -20985,7 +20636,6 @@ Atlantic Avenue Railroad
 Brooklyn and Jamaica Railroad
 Ilwaco Railway and Navigation Company
 Gay Men's Press
-List of former tractor manufacturers
 Brooklyn and Montauk Railroad
 South Side Railroad of Long Island
 Far Rockaway Branch Railroad
@@ -21029,7 +20679,6 @@ Clark's Pies
 Pentland Ferries
 Republic
 Aria
-List of defunct Canadian companies
 Parfums Lubin
 Shreveport Opera
 Lavastorm Analytics
@@ -21185,7 +20834,6 @@ Paulist Productions
 Ordnance Factories Board
 Brepols
 China Shipbuilding Industry Corporation
-List of companies of Uzbekistan
 Starting Gate Productions
 Westone
 Theatre Pro Rata
@@ -21277,7 +20925,6 @@ Vidmark Entertainment
 Lakshmi Mills
 Sunwell Technologies
 NASDAQ OMX Commodities Europe
-List of banks in Uganda
 Caban
 Wild Horse
 İsdemir
@@ -21502,7 +21149,6 @@ Hoshino Gakki
 General Terminus and Glasgow Harbour Railway
 Delta Dental
 Cathcart District Railway
-List of companies of Indonesia
 Dimension
 Horonai Railway
 Fairwood
@@ -21617,10 +21263,8 @@ Soluforce
 Moove
 Jewson
 Carrosserie Hess
-List of banks in Slovakia
 ProJET
 Nutrexpa
-List of computer system manufacturers
 Werner Co
 Esporta Health Clubs
 ESR Technology
@@ -21675,7 +21319,6 @@ Plan B Entertainment
 Niman Ranch
 F P Journe
 OneBeacon
-List of Protestant missionary societies in China
 Davivienda
 Comisión Federal de Electricidad
 Black Box Distribution
@@ -21817,7 +21460,6 @@ Blue Fang Games
 Fjord1 Fylkesbaatane
 Webtrends
 Exeter and Crediton Railway
-List of bus companies of Norway
 Lavells Newsagents Ltd
 EMC Isilon
 Auburn Rubber Company
@@ -21878,7 +21520,6 @@ Truly Indie
 Nippo Batteries
 Gamesys
 Hahne and Company
-List of CDO managers
 Semiotext
 Kunnskapsforlaget
 Beneficial Financial Group
@@ -22010,7 +21651,6 @@ Excalibur Almaz
 PARC Management
 COWEX A/S
 Schiller Piano Company
-List of food companies
 StyleFeeder
 Donaldson and Meier
 Dansette
@@ -22047,7 +21687,6 @@ Vimo
 Teign Valley Line
 StarTek
 White Marsh Brewing Company
-List of mutual-fund families in Canada
 Boylesports
 NCS Pte Ltd
 James Baines & Co
@@ -22126,7 +21765,6 @@ Newspapers of New England
 Advanced Medical Optics
 Happier
 Reject Shop
-List of Soviet tank factories
 Pandesic
 Lighthouse Interactive
 BC Transmission Corporation
@@ -22175,7 +21813,6 @@ Broughton Foods Company
 Babicz Guitars
 Hampden Railroad
 Equity Office
-Perusahaan Listrik Negara
 Imatest
 Blackwater: The Rise of the World's Most Powerful Mercenary Army
 Rohloff
@@ -22279,7 +21916,6 @@ D-Wave Systems
 Maxeda
 M-Sport
 Media service provider
-List of North Dakota companies
 Hargreaves Lansdown
 Contact Energy
 Rhee Bros, Inc
@@ -22307,14 +21943,12 @@ Rock Art Brewery
 Mimobot
 Rhodia
 High Fidelity HDTV
-List of mutual funds listed on the TSX
 Alfa System
 Pacer International
 Monarch Beverage, Inc
 Micro Center
 Airports of Thailand
 Toho Tenax
-List of banks in Thailand
 Taj Television Ltd
 WRc
 Deeside Railway
@@ -22697,7 +22331,6 @@ Metropolitan Crosstown Line
 QStar Technologies Inc
 OneBigGame
 AsiaPac International
-List of largest employers
 SEITA
 InvivoGen
 WJZB-TV
@@ -22708,7 +22341,6 @@ Copa Holdings
 Purity Supreme
 Pullover Productions
 Asarel Medet
-List of women's presses
 Texas State Railroad
 Kendall & Sons Ltd
 MicroImages, Inc
@@ -22808,7 +22440,6 @@ Windmill Theatre Company
 Young Electric Sign Company
 Numerical Technologies
 Innovative Solutions & Support
-List of power companies of Turkey
 Wa-Wan Press
 FujiGen
 Hyundai Samho Heavy Industries
@@ -22841,7 +22472,6 @@ Wallarah 2 Coal Project
 Chappell & Co
 Logistics Health Incorporated
 Ninja Theory
-List of supermarket chains in Bulgaria
 William Clowes Ltd
 Marcus Ward & Co
 Hollard Group
@@ -22877,7 +22507,6 @@ Liberté Inc
 MIL-Davie Shipbuilding
 Grassroots Films
 Wesleyan University Press
-List of charter airlines
 Rocket Science VFX
 Eckerö Linjen
 Eckerö Line
@@ -22960,7 +22589,6 @@ Microtech Knives
 ODesk
 Zinifex
 Monarch Books
-List of nanotechnology organizations
 Grinnell Mutual
 Infinitum Nihil
 SF Line
@@ -23059,7 +22687,6 @@ Rodopi
 Studio ego!
 Atlantic and Danville Railway
 USA Capital
-List of textile companies in Turkey
 Konkola Copper Mines
 Inno
 American Bank Note Company
@@ -23239,7 +22866,6 @@ Rowman & Littlefield
 Icore
 Breeze Publications
 Biostar
-List of United States clock companies
 D'Ieteren
 Coudert Brothers
 Babıali Kültür Yayıncılığı
@@ -23458,7 +23084,6 @@ Firestone Building Products
 Silver Lake Partners
 Firestone Ventures
 Hybridon, Inc
-List of electric power companies in Greece
 BeatThatQuotecom
 King's Glory Education Centre
 Chemins de fer électriques Veveysans
@@ -23526,7 +23151,6 @@ Boulton's Siding
 Novabase
 ACN Inc
 IIT Research Institute
-List of manhua publishers
 WPCS International
 Anhut Motor Car Company
 Ann Arbor
@@ -23536,7 +23160,6 @@ Central Citylink
 Overture Films
 Argo Electric
 Oil Can Henry's
-List of banks in China
 Caruso Affiliated
 Simba Chips
 AVM Productions
@@ -23754,7 +23377,6 @@ Opera in the Heights
 Taobao
 Sumitomo Electric Industries
 Elpida Memory
-List of conglomerates
 Old World Restorations, Inc
 Unigene Laboratories
 Kangaroo Island SeaLink
@@ -23806,7 +23428,6 @@ Parvalux
 Gaumont British
 Great Eastern Life
 Jet Black Games
-List of companies listed on the TSX Venture Exchange
 Benham
 Church-Field
 Reliance Anil Dhirubhai Ambani Group
@@ -23890,7 +23511,6 @@ Anderson Greenwood Crosby
 Newhall Land and Farming Company
 Medarex
 Regional Theatre of the Palouse
-List of companies of Mongolia
 Country Garden
 Wolff Olins
 WIN Corporation
@@ -23952,7 +23572,6 @@ American Casino & Entertainment Properties
 Day
 Deal
 Court Theatre
-List of Japan natural gas companies
 Strawdog Theatre Company
 Blimey! Games
 Detroit Cyclecar
@@ -24064,7 +23683,6 @@ Pampanga Sugar Development Company
 Accurate Miniatures
 Intimo Lingerie
 Colne Valley and Halstead Railway
-List of banks in Bulgaria
 Admiral Insurance
 Biltema
 Bayford & Co
@@ -24565,7 +24183,6 @@ Medialink
 LINKdotNET
 MFA Incorporated
 RBC Dexia
-List of breweries in Massachusetts
 Cisco Brewers
 SpinVox
 United Dairies
@@ -24637,7 +24254,6 @@ Tokyo Gas
 Iron Mountain Incorporated
 BT Italia
 Thornton-Pickard
-List of Aterballetto productions
 Evergreen Solar
 Granny Takes a Trip
 Programmer's Broadcasting
@@ -24735,7 +24351,6 @@ United Sciences of America
 Natural Alternatives International
 Luis and Clark
 The Imagists Group
-List of companies based in Bradford
 Latino Theater Company
 IQ Beats
 New Zealand Railways Corporation
@@ -24753,7 +24368,6 @@ New Forest Tour
 Meon Valley Railway
 Syspro
 Sharp Solar
-List of photovoltaics companies
 Ernest Borel
 Royal Cable
 Bien Logic
@@ -24813,7 +24427,6 @@ Lifestyle Pets
 The Burst Collective
 Traffic Design Group
 MailRu
-List of piano brand names
 Yantai CIMC Raffles Shipyard
 Audiovisual Communicators, Inc
 ClickExpo
@@ -24825,7 +24438,6 @@ Parsons Dance Company
 A G Spanos Companies
 Inner Traditions – Bear & Company
 Leckhampton Players
-List of banks in Bangladesh
 Movida Wireless
 Celestial Digital Entertainment
 Sunferries
@@ -24834,7 +24446,6 @@ Menominee
 Mercury
 Adam & Eve
 Introvision International
-List of system-on-a-chip suppliers
 Sun International
 Southern Sun Hotel Group
 Amylin Pharmaceuticals
@@ -24875,7 +24486,6 @@ Bill Barrett Corporation
 FableVision
 Mammut Sports Group
 Currenex
-List of BSE SENSEX companies
 PB&J Television
 ICEpower
 Ball-Bartoe
@@ -24984,7 +24594,6 @@ Nakumatt
 ProSyst
 Fermentas
 Purity Dairies
-List of North American opera companies
 RiksTV
 Schleese Saddlery
 In-Gear Film Production Co, Ltd
@@ -25029,7 +24638,6 @@ Unimin
 Hygena
 Long & Foster
 Aberdeen Group
-List of companies of Montenegro
 Movic
 Molleindustria
 Cherry Lips
@@ -25214,10 +24822,8 @@ Overs Piano
 Sivaji Productions
 Ageod
 Union Stock Yards Company of Omaha
-List of management consulting firms
 Pågen
 Maryland Automobile Insurance Fund
-J-List
 African Telecommunications Union
 Astatic Corporation
 Société des Avions Bernard
@@ -25381,7 +24987,6 @@ National Association of Estate Agents
 Gabriel Entertainment
 Diabetology Ltd
 Shawinigan Water & Power Company
-List of Six Sigma companies
 Sutherland Railway
 Duke of Sutherland's Railway
 Jawbone
@@ -25449,8 +25054,6 @@ Touradji Capital Management
 Ferrari Belotti
 Ion
 Polsteam
-List of Colorado companies
-List of Arizona companies
 Mevgal
 Virgin Mobile South Africa
 Akers mekaniske verksted
@@ -25604,7 +25207,6 @@ Da Capo Press
 Apostle
 VoiceObjects
 Grupo Joly
-List of companies of Cambodia
 Grab It Here
 Frontier Airlines Holdings
 Autoglym
@@ -25632,12 +25234,7 @@ Mars Canada
 Ferrell North America
 The Village Players
 Centerra Gold
-List of airlines of Ukraine
-List of Arkansas companies
 Nexus Hawk
-List of Connecticut companies
-List of Delaware companies
-List of Florida companies
 Chax Press
 Method Products
 UST Salinggawi Dance Troupe
@@ -25671,8 +25268,6 @@ Emmi AG
 OPEL Networks
 Alberta Research Council
 Mozambique Company
-List of Texas companies
-List of Illinois companies
 SARD
 Tengelmann Group
 Red Envelope Entertainment
@@ -25916,7 +25511,6 @@ Gilde Norsk Kjøtt
 Manhattan Brewing Company of New York
 Superscape
 Prior Norge
-List of banks in Romania
 Scottish Fuels
 New York Times Book Company
 Times Books
@@ -26140,7 +25734,6 @@ ANGEL Learning
 UtahAmerican Energy
 Cain-Sloan
 Lincoln Motion Picture Company
-List of defunct department stores of the United States
 Fridae
 Marni
 First Leisure Corporation
@@ -26274,7 +25867,6 @@ Intrigue FX
 Tata McGraw-Hill
 Morgan Est
 Inside Broadway
-List of Gazprom subsidiaries
 Prime Therapeutics
 Naples Players
 Explodeus
@@ -26296,7 +25888,6 @@ Zamyad Co
 Somethin' Else Sound Directions Ltd
 Franke
 Fascination Books
-List of tenants in Six World Trade Center
 Cincinnati Steam Paper Mill
 Cincinnati Type Foundry
 Workhouse Theatre Company
@@ -26438,7 +26029,6 @@ Copyscape
 Gruppo Lucchini
 International Filing Company
 Hacha
-List of defunct utility companies in Victoria, Australia
 Red Dog Squadron
 Omaha and Republican Valley Railway
 Omaha and South Western Railroad
@@ -26632,7 +26222,6 @@ Nerds On Site
 Columbus, San Antonio and Rio Grande Railroad
 Aerotech Consumer Aerospace
 Odhams Press
-List of Brazilian government enterprises
 JA Solar Holdings
 Mosler Safe Company
 MarketTools
@@ -26757,7 +26346,6 @@ Klipfolio Dashboard
 Public Opinion Research
 Airtel-Vodafone
 Grin
-List of companies of Libya
 Pyr
 Technofarm International
 Armenian Railways
@@ -26780,7 +26368,6 @@ Wereldhave
 Medallic Art Company
 Troms Fylkes Dampskibsselskap
 Paul Stuart
-List of Swiss companies by revenue
 Estonian Shipping Company
 Det Stavangerske Dampskibsselskap
 Riker Electric Vehicle Company
@@ -26809,7 +26396,6 @@ Adder Technology
 Enterprise GP Holdings
 RASCO
 TerraNet AB
-List of defunct railway companies in Japan
 Consolidated Gold Fields
 China Shenhua Energy Company
 Azerbaijanfilm
@@ -26833,7 +26419,6 @@ State Dockyard
 Black Angus Steakhouse
 BoHo Theatre
 Northgate Computers
-List of companies listed on the Mongolian Stock Exchange
 2Clix Software
 FarSight Studios
 Stockport, Timperley and Altrincham Junction Railway
@@ -26880,7 +26465,6 @@ Government Aircraft Factories
 Clipper Windpower
 Ram Mounts
 Atomstroyexport
-List of supermarket chains in Canada
 Regent Releasing
 Brewers Investment Corporation
 Def2shoot
@@ -27074,7 +26658,6 @@ Bet365
 Home Décor Products
 Vivato
 Asset Acceptance
-List of airlines of Russia
 Jinhui Shipping and Transport
 Sevan Marine
 I M Skaugen
@@ -27278,7 +26861,6 @@ Alternative Tourism Group
 Lexis PR
 F Dick
 Salem Web Network
-List of current bus operators of the United Kingdom
 Fusepoint Managed Services
 Alternative Energy Solutions International
 Walton Construction
@@ -27330,7 +26912,6 @@ Normalair
 Sogetel
 SCT Logistics
 K G Saur Verlag
-List of former Australian railway companies
 Cranbrook and Paddock Wood Railway
 TVA Films
 Betgenius
@@ -27398,7 +26979,6 @@ Alberta Investment Management Corporation
 Blueprint Skateboards
 Panmure Gordon & Co
 Sanitarios Maracay
-List of the largest companies of Norway
 Rockware Glass
 Advance Gold
 Wellby Super Drug
@@ -27679,7 +27259,6 @@ F E Olds
 Odfjell Drilling
 Food Corporation of India
 Domstein
-List of bus operating companies in Japan
 Oregon Steam Navigation Company
 Trap door theatre
 Horizon Technologies
@@ -27810,7 +27389,6 @@ Lord Corporation
 CAC Mid 60
 CAC Small
 PhoneGnome
-List of Australian railway companies
 Vincera
 Chicago City Opera Company
 Chicago Grand Opera Company
@@ -27896,7 +27474,6 @@ Podesta Group
 PT Inti Indorayon Utama
 StreetSounds
 Ambric
-List of companies delisted from Oslo Stock Exchange
 Varanger Kraft
 Israel Military Industries
 Naturkraft
@@ -27922,13 +27499,11 @@ Skjerstad Kraftlag
 Fauske Lysverk
 New Village Press
 Kleinschmidt Inc
-List of public corporations by market capitalization
 Meldac
 Ring Power
 Acheron Design
 Williamstown Theatre Festival
 Reel Corporation
-List of ferry operators in Japan
 Umbra Software
 Tiroche Auction House
 ScanWind
@@ -27989,7 +27564,6 @@ Executive Life Insurance Company
 West Central Wireless
 Italy Records
 Martin & King
-List of South Island companies
 Guingon Group of Companies
 Silver State Helicopters
 Hadfields Limited
@@ -28403,8 +27977,6 @@ Shiekh Shoes
 USB Corporation
 Hilhouse
 GosNIIAS
-List of titles by Green Bunny
-List of titles by Pink Pineapple
 Enesco
 MOSH Mobile
 Human Dynamics, Inc
@@ -28413,7 +27985,6 @@ Gravity Interactive
 Ek Commando Knife Co
 Detroit, Eel River and Illinois Railroad
 Bristol City Line
-List of United States local bus agencies by ridership
 AED Oil
 SOHO China
 Orascom Development
@@ -28423,7 +27994,6 @@ Creede Repertory Theatre
 Thailand Tobacco Monopoly
 Kemper Corporation
 Level 1 Entertainment
-List of companies of Spain
 NGVAmerica
 Latin American Literary Review Press
 Jenn-Air
@@ -28527,7 +28097,6 @@ Winning Moves
 Tears of Joy Theatre
 Camp Chase Industrial Railroad
 Future of Wrestling
-List of Bangalore telecom companies
 ChoicesUK
 Ferrocarril Central Entrerriano
 GrainCorp
@@ -28566,7 +28135,6 @@ Zlango
 PetMeds
 Pentosin
 Sexton Foods
-List of restaurant chains in the United States
 Network Systems Corporation
 Teletrol
 Bond Wireless
@@ -28631,7 +28199,6 @@ Folha da Manhã
 Western Marine Shipyard
 Ananda Shipyard and Shipways
 Fenchurch
-List of breweries in Australia
 Wingas
 Crossecom
 UTV Software Communications
@@ -28709,7 +28276,6 @@ The Lembeck and Betz Eagle Brewing Company
 Saginaw and Mount Pleasant Railroad
 Flint and Pere Marquette Railway
 Flint and Pere Marquette Railroad
-List of banks in Finland
 British Dyestuffs Corporation
 Fortrose Branch
 Dornoch Light Railway
@@ -28801,7 +28367,6 @@ Aamir Khan Productions
 Maserati
 Eastern Housing Limited
 Snowcem Paints
-List of banks in Iceland
 Bongkoch Publishing
 Sagawa Express
 Blue Inc
@@ -28842,7 +28407,6 @@ Phanes Press
 Rasta Taco
 Paw Paw Railroad
 Allen & Hanburys
-List of banks in Indonesia
 Novint Technologies
 BX Plastics
 Sterlite Industries
@@ -28868,7 +28432,6 @@ Concuity
 Hunan Nonferrous Metals
 Macmahon Holdings
 John Keells Computer Services
-List of video game companies of Sweden
 Cambridge Solutions
 Thromb-X
 Sterling Sports Management
@@ -28893,7 +28456,6 @@ IBX Group
 Heytesbury Pty Ltd
 CVS Ferrari
 Anglo-Bavarian Brewery
-List of companies of Costa Rica
 Egan-Jones Ratings Company
 Unit Five Seven
 Prensa Latina
@@ -28924,12 +28486,6 @@ Harmony Books
 CashPool
 First Virtual
 Chicago and North Michigan Railroad
-List of Alaska companies
-List of Alabama companies
-List of Wyoming companies
-List of Kansas companies
-List of New York companies
-List of California companies
 Lojas Renner
 Patterson Railroad
 RotoHog
@@ -28971,7 +28527,6 @@ Detroit, Lake Shore and Mt Clemens Railway
 Swanson Group Aviation
 Berna
 Syracuse Arms Company
-List of mobile network operators in Pakistan
 Committee of General Literature and Education
 Permian Basin Royalty Trust
 Lynx Edicions
@@ -29002,7 +28557,6 @@ Metro Parent Publishing Group
 Webfusion
 Borland Racing Developments
 Ache Records
-List of public sector undertakings in India
 ESS Technology
 Lix da Cunha
 CBS Paramount Network Television
@@ -29088,7 +28642,6 @@ Tacubaya Railroad
 Stemagen
 Donric Group
 HealthMarkets
-Companies listed on the Toronto Stock Exchange
 New Jersey Southern Railroad
 Theatre Zone
 Economist Intelligence Unit
@@ -29128,7 +28681,6 @@ Cinémaginaire
 CHRISTUS Health
 Act-i-vate
 Laurel Films
-List of former transit companies in Dallas
 LoopNet
 Hornos Railroad
 Odyssey Moon
@@ -29195,7 +28747,6 @@ InduSoft
 Eatza Pizza
 Agami Systems
 California Riverside Ballet
-List of the largest information technology companies
 Era Baru
 The Repertory Theatre of St Louis
 Fox Telecolombia
@@ -29230,7 +28781,6 @@ Lightstream Resources
 Bowesfield Works
 Avolution
 Valentino SpA
-List of electronic organ makers
 Against All Odds
 IQon Technologies
 WA & AC Churchman
@@ -29242,37 +28792,7 @@ Marsu Productions
 Blackwell, Enid and Southwestern Railway
 Hanley Wood
 Inductive Automation
-List of supermarket chains in Austria
-List of supermarket chains in Bosnia and Herzegovina
-List of supermarket chains in Croatia
-List of supermarket chains in Belgium
-List of supermarket chains in the Czech Republic
 Locomotives of the Glasgow and South Western Railway
-List of supermarket chains in Iceland
-List of supermarket chains in Estonia
-List of supermarket chains in the Republic of Macedonia
-List of supermarket chains in Greece
-List of supermarket chains in Luxembourg
-List of supermarket chains in Denmark
-List of supermarket chains in Malta
-List of supermarket chains in Montenegro
-List of supermarket chains in Italy
-List of supermarket chains in Finland
-List of supermarket chains in Latvia
-List of supermarket chains in Norway
-List of supermarket chains in France
-List of supermarket chains in Portugal
-List of supermarket chains in the Netherlands
-List of supermarket chains in Slovenia
-List of supermarket chains in Serbia
-List of supermarket chains in Lithuania
-List of supermarket chains in Switzerland
-List of supermarket chains in Poland
-List of supermarket chains in Ukraine
-List of supermarket chains in Russia
-List of supermarket chains in Sweden
-List of supermarket chains in Hungary
-List of supermarket chains in Slovakia
 North of Scotland, Orkney & Shetland Steam Navigation Company
 Hay Automobiltechnik
 Zollner
@@ -29310,7 +28830,6 @@ East Indian Railway Company
 Darrall Macqueen Ltd
 Chengzhi Co, Ltd
 Financial Times Global 500
-List of companies in Liepāja
 Ferrocarril Provincial de Santa Fe
 Farmers of North America
 Capital City Press
@@ -29367,7 +28886,6 @@ Qiao Xing
 Cooper Canada
 Unidad de Gestión Operativa Ferroviaria de Emergencia
 Hull and Holderness Railway
-List of airlines of the United Kingdom
 Rainfall Books
 Nerjyzed Entertainment
 Ryobi
@@ -29375,23 +28893,16 @@ Thrum's Hawaiian Annual
 Leisure Arts
 MonaVie
 Roland Park Pictures
-List of supermarket chains in Moldova
-List of supermarket chains in Turkey
 CRT Group
 FreightCorp
 Genesee & Wyoming Australia
 Sino-Ocean Land
 Soheil Mosun
-List of airlines of China
 Nutec
 Vodafone Malta
 Greenlee
-List of airlines of Singapore
-List of airlines of Algeria
-List of airlines of Angola
 Westar Energy
 PublicAffairs
-List of airlines of Libya
 Clifton Extension Railway
 Shrewsbury and Hereford Railway
 Media Rodzina
@@ -29476,7 +28987,6 @@ VIVA Films
 LivePlanet
 Greyhound Motors
 Theatre New Brunswick
-List of airlines of Australia
 Leidolf
 Center for Financial Services Innovation
 Hydroproject
@@ -29507,32 +29017,19 @@ JATO Dynamics
 Maudslay Motor Company
 Mahle GmbH
 Henry Portman
-List of airlines of Kyrgyzstan
 Deborah & Clare
 Edward Portman
 Triad Securities
 Standard Life Healthcare
 Narberth Road and Maenclochog Railway
-List of airlines of Kazakhstan
 Sixpoint Brewery
 Great Northern and Great Eastern Joint Railway
 Gushan Environmental Energy
-List of airlines of Nigeria
-List of airlines of Sudan
-List of airlines of Thailand
 Glass Nickel Pizza Company
-List of airlines of India
 Musion Eyeliner
 Patti Rutland Jazz
 Albian Sands
-List of airlines of Saudi Arabia
 Belgrano Cargas
-List of airlines of Japan
-List of airlines of Israel
-List of airlines of Turkey
-List of airlines of Cambodia
-List of airlines of Burma
-List of airlines of Mongolia
 Pureology
 St Joseph Valley Railway
 Right Stuff
@@ -29541,19 +29038,14 @@ Shenandoah Acres
 Denver, Enid and Gulf Railroad
 Titas Gas
 Image Metrics
-List of airlines of Egypt
 McCallum Brothers
-List of airlines of Tunisia
-List of airlines of Bulgaria
 WNS Global Services
-List of airlines of Korea
 Mediclinic International
 Ferrocarriles Mediterráneos
 Zimbabwe Electricity Supply Authority
 Servicios Ferroviarios Patagónico
 Allen Press
 Freund Publishing House
-List of airlines of South Africa
 Chief Oil & Gas
 Oasys Mobile
 Hendrick Manufacturing Company
@@ -29564,18 +29056,13 @@ ProductCenter
 Orpheion
 The Big Picture
 Tunisian Railways
-List of airlines of Zimbabwe
-List of airlines of Hong Kong
 Filer and Stowell
-List of airlines of the Philippines
 Luigi Borrelli
-List of airlines of Afghanistan
 Varengold
 Dolphin Computer Access
 Etos
 Learndirect
 TVS Group
-List of companies based in Nashville
 Society for Science and the Public
 Smith & Tinker
 Tag Entertainment
@@ -29733,7 +29220,6 @@ Sarmiento Line
 Fly Yeti
 Johnston & Murphy
 Fuji Kyuko
-List of breweries in Quebec
 Asphales
 David Clark Company
 Monarch Cablesystems
@@ -29904,7 +29390,6 @@ Grecav
 Stephen Gilfus
 China State Construction International Holdings
 Rakutencom Shopping
-List of banks in Åland
 Russian American Line
 Media Archive for Central England
 Way and Williams Publishers
@@ -29919,13 +29404,11 @@ MC Freight Systems
 TVM Comics
 Bebb and Gould
 Orbotech
-List of banks in Andorra
 Auto-online
 Anhui Conch Cement Company
 Lost Nite Records
 Fizbercom
 Besana
-List of former municipal bus companies of the United Kingdom
 Prairie Mountain Publishing
 Reynolds, Smith & Hills
 OPNET
@@ -29941,7 +29424,6 @@ Lancashire Steel Corporation
 Starr's Market
 Office de Radiodiffusion-Télévision du Mali
 NF Tech Services
-List of retailers on the Magnificent Mile
 Telly
 Veveo Inc
 Veveo, Inc
@@ -29993,9 +29475,6 @@ Kerala State Financial Enterprises
 Bumble Bee Foods
 Tele2 UK Services
 Arkema
-List of banks in Malta
-List of banks in Latvia
-List of banks in Estonia
 Nafta
 Schottenstein Stores Corp
 Dätwyler
@@ -30012,7 +29491,6 @@ Sagano Scenic Railway
 Cassidian
 Datang International Power Generation Company
 Technimetrics
-List of banks in the Isle of Man
 Éditions Robert Laffont
 Big Red Software
 Acıbadem Healthcare Group
@@ -30024,8 +29502,6 @@ Staples Argentina
 Astute Solutions
 Phoenix Film & Television Productions
 Stevens Vehicles
-List of banks in Jersey
-List of banks in Guernsey
 REVA
 General Screw Steam Shipping Company
 Croatian National Theatre in Mostar
@@ -30185,12 +29661,10 @@ Winkysoft
 Midland Motor Company
 Classified Ventures
 Rinkside Films
-List of LB&SCR A1 class locomotives
 Qunxing Paper
 Elektrisk Bureau
 Rīgas kinostudija
 Petersburg Tram Mechanical Factory
-List of banks in Sweden
 Double-Take Software
 Richard Shops
 Moishe's Moving Systems
@@ -30214,13 +29688,11 @@ Africell
 Groupe Holder
 OT Africa Line
 WorldTicket
-List of banks in Cuba
 Ziehl-abegg
 China Railway Construction Corporation
 Unica Corporation
 Sinochem Group
 China Resources Enterprise
-List of the largest companies of China
 CITIC Securities
 Stewart Bale
 High Voltage Software
@@ -30228,8 +29700,6 @@ Permabooks
 Pocher
 Mount & Page
 Ballets suédois
-List of banks in Denmark
-List of banks in Lithuania
 Doosan Babcock
 Lithuanian Mint
 Onetel Communication Ltd
@@ -30242,13 +29712,10 @@ Amebis
 Original Spin Media
 Access Accounting
 China Southern Power Grid Company
-List of companies listed on the Barbados Stock Exchange
 Japan Steel Works
 Huaneng Power International
 China Huaneng Group
-List of banks in Moldova
 Scientific Ecology Group
-List of Asian-American theatre companies
 Margate Entertainment
 JACOS
 Fountain Tire
@@ -30271,8 +29738,6 @@ Enthought
 Princeton Summer Theater
 Osklen
 China Resources Power
-List of private equity firms
-List of concentrating solar thermal power companies
 Power Machines
 China Guodian Corporation
 Earthjet
@@ -30292,7 +29757,6 @@ Audiovisual Sport
 Marshalltown Company
 Camper
 Favelle Favco Group
-List of banks in Serbia
 Grifols
 Inmobiliaria Colonial
 Red Eléctrica de España
@@ -30302,20 +29766,16 @@ CurtCo Media
 China Huadian Corporation
 Clarke Chapman
 Kirk Manufacturing Company
-List of banks in Croatia
 Ausbuy
 Bullet-Proof Software
-List of banks in Armenia
 Corwin Manufacturing Company
 Fifty Shilling Tailors
 Run Athletics
 Lyle guitars
 Daniels Motor Company
-List of banks in Bosnia and Herzegovina
 Broadview Security
 Shelterbelt Theatre
 Accuride International
-List of publishers of books in Marathi
 China Nepstar
 Northeastern International Airways
 Hondata
@@ -30456,7 +29916,6 @@ Metro Tunneling Group
 Great Wheel Corporation
 Ozan Lumber Company
 Lab126
-List of Liverpool and Manchester Railway locomotives
 Gavioli
 Z-Man Games
 Pioneer Credit Recovery Inc
@@ -30559,7 +30018,6 @@ UWA Publishing
 Kyriazi Freres
 Fibergic
 P&TLuxembourg
-List of banks in Belarus
 Bristol Technology Inc
 Elektroniksystem- und Logistik-GmbH
 The Freaky Bean Coffee Company
@@ -30641,7 +30099,6 @@ Toshiba Samsung Storage Technology
 Bestseller
 DB Schenker
 Grandstream Networks
-List of companies in Jacksonville, Florida
 Hopson Development
 Anantara Solutions
 Focus Films
@@ -30715,7 +30172,6 @@ Morton's Potato Chips
 Magento
 Avenda Systems
 TeleTech
-List of LB&SCR D1 class locomotives
 Simobil
 Western Bridge and Construction Company
 Solvac
@@ -30728,19 +30184,14 @@ Cramer Systems
 Elementis
 Djibouti Telecom
 NComputing
-List of mobile network operators of The Caribbean
 Public Communications Inc
 American Pop Corn Company
 Pedigree Dolls & Toys
-List of banks in Slovenia
-List of banks in the Republic of Macedonia
-List of banks in Hungary
 RMS Communications
 Xinyi Glass
 The Mob
 Ragtag Productions
 Studio Ekran
-List of networking hardware vendors
 Graywolf Press
 Home Interiors and Gifts
 Detroit and Pontiac Railroad
@@ -30763,7 +30214,6 @@ IForem
 Stobart Pullman
 Coastalcom
 HubPages
-List of opera companies in Europe
 PD Ports
 Cielo
 EAccess
@@ -30792,11 +30242,8 @@ Rhodes Curry Company
 Canada Car Company
 Dominion Car and Foundry
 Etapatelecom
-List of opera companies in Asia, Australia, and Oceania
-List of opera companies in Africa and the Middle East
 Alegro PCS
 Total TV, Inc
-List of Latin American and South American opera companies
 Museum Store Company
 Giovanni Rana
 Omaha and Council Bluffs Railway and Bridge Company
@@ -30857,9 +30304,7 @@ Fibes Drums
 DbMotion
 Nebraska Methodist Health System
 Intercytex
-List of LB&SCR B1 class locomotives
 Sovereign Trains
-List of banks in Georgia
 Cruise West
 Kimo
 Del Vecchio
@@ -30993,8 +30438,6 @@ Impetus Technologies
 Higgidy
 Antibiotice Iași
 Impact Theatre
-List of English-language literary presses
-List of automobile manufacturers of Italy
 BIOBASE
 NaviSoft
 American Book Company
@@ -31003,7 +30446,6 @@ Manna Music Inc
 Paragon systems
 Yorkshire Patent Steam Wagon Co
 HP 3PAR
-List of automobile manufacturers of the United States
 TPI Polene
 Maverick Films
 Maverick
@@ -31034,7 +30476,6 @@ Auction Co
 Marktplaatsnl
 Hitachi Cable Manchester
 Chittenden Corporation
-List of American truck manufacturers
 CRU Group
 British Iron and Steel Federation
 American Continental Corporation
@@ -31066,16 +30507,13 @@ Feurich
 Lingvosoft
 Agro Bank Malaysia
 Advanced Power Technologies
-List of Indian film production houses
 Morseth
 Storm Exchange
 BYU Ballroom Dance Company
 Cymax Stores
 Baptist Health
-List of companies of Bhutan
 Baltic State Opera
 India Cements
-List of airlines of Greece
 Bleak House Books
 DEHA
 Leland Interactive Media
@@ -31127,9 +30565,7 @@ University of Florida Health
 Kenstar
 Waneko
 Coppley Apparel Group
-List of airlines of the United States
 Shared Experience
-List of airlines of Canada
 Boden
 Hyland Software
 Frederick Fell Publishers, Inc
@@ -31139,7 +30575,6 @@ Dursley and Midland Junction Railway
 Dataram
 Tennessee Coal, Iron and Railroad Company
 TCHO
-List of airlines of Germany
 Imageepoch
 Arovell Verlag
 Radio Research Consortium
@@ -31276,7 +30711,6 @@ Abercrombie & Fitch
 Aircoach
 TCE Consulting Engineers Limited
 Hoiupank
-List of defunct airlines of Turkey
 Outsource Partners International
 Londonderry Lithia
 Sanoyas Hishino Meisho
@@ -31507,7 +30941,6 @@ MTO
 Capital & Regional
 Century Mining Corporation
 Viva Television
-List of airlines of Malaysia
 Popiah Pictures
 Affliction Clothing
 Elonex
@@ -31804,7 +31237,6 @@ Tellepsen Builders
 Satake Corporation
 Award Software
 The Slate Group
-List of defunct airlines of Canada
 Shaanxi Yanchang Petroleum
 Shaanxi Youser Group
 GoMobo
@@ -31980,7 +31412,6 @@ Trina Solar
 New Age Vaudeville
 Çalık Holding
 Handspring
-List of Prussian locomotives and railbuses
 Indigo Lodges
 I Was Lord Kitchener's Valet
 Scottish Academic Press
@@ -32017,7 +31448,6 @@ American Forest & Paper Association
 Znak
 InterAct Theatre Company
 DigitalBridge
-List of breweries, wineries, and distilleries in Utah
 Firefly Distillery
 Upper Canada Repertory Company
 Odd Lot Entertainment
@@ -32039,7 +31469,6 @@ Haikuo Soft
 Bristol and South Wales Union Railway
 Harlequin Games
 Promelectronica
-List of companies listed on the Beirut Stock Exchange
 Rapid Response Services
 MobiFone
 Vinaphone
@@ -32098,7 +31527,6 @@ Sidral Mundet
 Maui Jim
 Kentucky Central Insurance Company
 ITC Hotels
-List of renewable energy companies by stock exchange
 Manufacture d'armes de Saint-Étienne
 Rainbow Technologies
 SafeNet
@@ -32137,7 +31565,6 @@ The Elektrik Keyboard
 Chosen Dance Company
 Johnson Organs
 ICS Marketing Support Services
-List of finite element software packages
 Triton Media Group
 Amey plc
 Lokalbahn AG
@@ -32200,7 +31627,6 @@ Alcan
 Helpline Telecoms Nigeria Limited
 Black Camel Pictures
 Kainos
-List of defunct airlines of the United States
 Rubicon Exotic
 Integrated Broadband Services
 PictureBox
@@ -32211,7 +31637,6 @@ Springfield and Illinois South Eastern Railway
 Timeless Books
 Eureka Theatre Company
 2Wire
-List of DRG locomotives and railcars
 Gilbert and Sullivan for All
 Nventa Biopharmaceuticals Corporation
 CoorsTek
@@ -32337,7 +31762,6 @@ Austal
 Montana Power Company
 New Holland Machine Company
 Smart Club
-List of call centre companies
 Cobraguard
 Kays Catalogues
 Zapf Creation
@@ -32404,7 +31828,6 @@ Marlin & Associates
 TopoQuest
 Samsung Telecommunications
 Fabindia
-List of shipping companies in the Philippines
 Crown Lynn
 L Rødne og Sønner
 Belle International
@@ -32448,7 +31871,6 @@ MDU Resources
 Houlihan Smith & Company
 Bauhaus
 SEVEN24 Films
-List of companies convicted of felony offenses in the United States
 Norled
 Senja Rutebil
 G Schwechten
@@ -32571,7 +31993,6 @@ Summit Entertainment
 LSL Property Services
 Shanghai Lexicographical Publishing House
 Mindjet
-List of independent bookstores in the United States
 Bascol
 Central Negros Electric Cooperative
 Cambria Press
@@ -32650,7 +32071,6 @@ Red Apple Rest
 Impul
 Arabtec
 Future Group
-List of algal fuel producers
 Daijiworld Media
 Kotéba National du Mali
 Power
@@ -32961,7 +32381,6 @@ PIAS Entertainment Group
 Edenham and Little Bytham Railway
 Pacific Valley Dairy
 Transcom WorldWide
-List of airlines of Benin
 Oak Pacific Interactive
 DPL Inc
 Supertest Petroleum
@@ -33008,7 +32427,6 @@ Wimpy
 Il Fornaio
 Pyrotecnico
 Central of Georgia Railroad
-List of airlines of Botswana
 Globalive
 Triple Five Group
 Schaper Toys
@@ -33107,16 +32525,13 @@ Twiga Cement
 Six Point Films
 Acron Group
 Brillstein Entertainment Partners
-List of Oldenburg locomotives and railbuses
 Petit train de la Rhune
 Relentless Software
 Sarovar Hotels & Resorts
-List of Palatine locomotives and railbuses
 Sayers
 Sunrun
 Cogent Partners
 Drees & Sommer
-List of Mecklenburg locomotives
 57th & Irving
 Mapcom Systems
 ExxonMobil
@@ -33130,7 +32545,6 @@ Patchi
 Ameresco
 Xbox Live Productions
 Clarizen
-List of companies and cities in Africa that manufacture cement
 Wizard Power
 Ibasis
 CSRWire Canada
@@ -33169,9 +32583,7 @@ EDP Renováveis
 Thingumajig Theatre
 Kristiania Sporveisselskab
 Winchester and Potomac Railroad
-List of Saxon locomotives and railcars
 EZCorp
-List of home video companies
 J N Adam & Co
 Zetex Semiconductors
 Bulthaup
@@ -33204,8 +32616,6 @@ Global Sources Magazines
 Telogis Inc
 Enefit American Oil
 Xtract Energy
-List of Baden locomotives and railbuses
-Listening Books
 Mirial surl
 Blue Ensign Technologies
 MyguideTravel
@@ -33216,7 +32626,6 @@ Bates Dairy
 Aging News Alert
 Indilinx
 Hoff Productions
-List of airlines of Nepal
 CGNET Services International
 Detroit Copper Mining Company of Arizona
 Ziba Design
@@ -33235,7 +32644,6 @@ Headstrong Games
 Airshift Media Ltd
 Wiley-VCH
 Shark
-List of Württemberg locomotives and railbuses
 DEREVO
 Seeland Records
 Acuff-Rose Music
@@ -33255,7 +32663,6 @@ Dawn Media Group
 Nissan Motor Car Carrier
 China Construction Design International
 Somali Petroleum Company
-List of companies paying monthly dividends
 South Pacific Railroad
 Amreit
 Independent Energy Partners
@@ -33268,14 +32675,12 @@ Davey Tree Expert Company
 Sibley Bridge Company
 Neiman Marcus
 Laguna Resources
-List of Alternative Investment Market companies
 CQout
 Ballet Theatre of Maryland
 Project Mutual Telephone
 Candie's
 Audience Measurement and Analytics Ltd
 Mountain West Energy
-List of airlines of Bangladesh
 Combustion Resources
 CoSport
 Palatine Ludwig Railway Company
@@ -33399,7 +32804,6 @@ Kaufman-Straus
 Omaha Belt Railway
 William A Spinks & Company
 Oil reserves in Canada
-List of Alsace-Lorraine locomotives
 Costumi d'Arte
 Nicolao Atelier
 Tirelli Costumi
@@ -33490,7 +32894,6 @@ FLIP Publicity
 WSO2
 PrimalScream Music
 Piccolo Teatro Dell Opera
-List of bus operators of the United Kingdom
 Great Lakes Greyhound Lines
 Railmark Holdings
 Queen and Crescent Route
@@ -33561,7 +32964,6 @@ YTB International
 PTT Telecom
 Kudit
 Blueeyes Productions
-List of airlines of Montenegro
 National brand
 China National Aero-Technology Import & Export Corporation
 Pine Creek Railway
@@ -33760,7 +33162,6 @@ Northern Transportation Company
 Williamsport and Elmira Railroad
 Dunleith and Dubuque Bridge Company
 Regal Lager, Inc
-List of tenants in Two World Trade Center
 Memex Technology Limited
 Sundberg Guitars
 Warwick Ventures
@@ -33904,7 +33305,6 @@ Commonwealth Oil Refining Company, Inc
 Atlantic Jet
 Rainier Bancorp
 Golden State Mutual Life Insurance Company
-List of enterprise search vendors
 Concord Pacific Developments
 Ayala Malls
 Radio Corporation of the Philippines
@@ -34013,7 +33413,6 @@ Hired Gun
 Brødrene Hals
 Brown & Wood
 Damart
-List of Morphoses productions
 Procter & Gamble
 TST Overland Express
 Maiden Holdings
@@ -34084,7 +33483,6 @@ Cornish Cyder Farm
 Gemalto M2M
 HBO Home Entertainment
 Chagrin Falls Popcorn Shop
-List of airlines of Mexico
 Yamato Life
 Comix-ART
 S&P Dow Jones Indices
@@ -34280,7 +33678,6 @@ Richard Gray's Power Company
 The Boston Record
 Forte Design Systems
 ICharts
-List of German companies by employees in 1938
 Barclays Wealth
 Zambelli Fireworks
 Hygenic Corporation
@@ -34585,7 +33982,6 @@ Wismut
 Apvision Private Limited
 Star Com Productions
 Fife Opera
-List of German companies by employees in 1907
 Chemische Fabrik Kalk
 Milestone Managers & Providers
 Pemberton and Hightstown Railroad
@@ -34604,7 +34000,6 @@ Uttar Pradesh Rajya Vidyut Utpadan Nigam
 CCID Consulting
 Star Vault
 Softape
-List of banks in Brunei
 Locomotives of the London, Tilbury and Southend Railway
 Kalahari Tea
 EuropaCorp
@@ -34613,7 +34008,6 @@ Baidyanath group
 Super-Pharm
 Café Hillel
 Aroma Espresso Bar
-List of banks in Israel
 Independent Media Corporation
 Tokkun Studio
 Chernomorenergo
@@ -34641,7 +34035,6 @@ Warren and Franklin Railway
 Warren and Tidioute Railroad
 Khanani and Kalia International
 Magazinescom
-List of podcasting companies
 Patriot Capital
 Bengur Bryan
 The Cabiri
@@ -34771,7 +34164,6 @@ M M Ispahani Limited
 Insignia Financial Group
 Caltagirone Editore
 Schuylkill East Branch Navigation Company
-List of LB&SCR D2 class locomotives
 Brice Foods
 Brinson Railway
 Atlantic and Birmingham Railroad
@@ -34790,7 +34182,6 @@ St Francis and Megantic International Railway
 Garrett AiResearch
 I Can't Believe It's Yogurt!
 Deister Electronics
-List of ballet companies in the United States
 CSPC Zhongrun
 Clinchfield Northern Railway of Kentucky
 NW Fusion Dance Company
@@ -34811,7 +34202,6 @@ Great Western Holdings
 Realsoft
 Busk Tunnel Railway
 Bay City and Alpena Railroad
-List of largest book publishers of the United Kingdom
 Apex Silver Mines
 Fort Smith and Western Railroad of Oklahoma
 Fort Smith and Western Railroad
@@ -34838,7 +34228,6 @@ De Agostini
 Garajonay Express
 Day's Beverages
 Royal Hanoverian State Railways
-List of airlines of Argentina
 Réseau de Transport d'Électricité
 Old Dominion Power
 Phoenix Pick
@@ -34936,7 +34325,6 @@ Nathan Manufacturing, Inc
 Pavonia Ferry
 First National Bank of Charlotte
 Rotor clothing
-List of shipping facilities of the London, Midland and Scottish Railway
 Thiel Audio
 LG CNS India
 Karnaphuli Paper Mills
@@ -34957,7 +34345,6 @@ London Pensions Fund Authority
 HD Supply
 Cynapsus Therapeutics
 Polygon Magic
-List of airlines of Vietnam
 Oberoi Hotels & Resorts
 Metropolitan Television Alliance
 Olza SA
@@ -34968,7 +34355,6 @@ Consolidated Telephone
 Aca Joe
 Panzhihua New Steel and Vanadium
 Panos Emporio
-James and Lister Lea
 Zumo
 Sakura Press
 O'Che 1867
@@ -35013,7 +34399,6 @@ Northern Light Productions
 Advantech Corporation
 Bullo Pill Railway
 Arclinea
-List of Khmer entertainment companies
 Buffalo Games
 Penn-ar-Bed
 Franklin Watts
@@ -35034,7 +34419,6 @@ Sigma Films
 Concentrix Solar
 PACE Youth Theatre
 Hoipolloi
-List of Craven locomotives
 Allied Schools
 The Hemp Trading Company
 Kriyetic Comics
@@ -35158,7 +34542,6 @@ Justin Boots
 Yuyama
 MSSA Chemical company
 Ceco Manufacturing Company
-List of supermarket chains in Andorra
 Precision Camera and Video Repair
 Stream Global Services
 Fitzhenry & Whiteside
@@ -35386,7 +34769,6 @@ Uttar Pradesh State Road Transport Corporation
 Pennie & Edmonds
 Second Motion Entertainment
 Unequal Protection
-List of German railway companies
 2nz Animation Co
 Searchlight Books
 Chesapeake Shipbuilding
@@ -35403,7 +34785,6 @@ Eastern States Railroad
 PL&W Railroad
 Central Columbiana and Pennsylvania Railway
 Lehigh University Press
-List of former German railway companies
 Virtual Playground
 Birmingham Coal Company
 INGRA
@@ -35420,7 +34801,6 @@ Squadron, Ellenoff, Plesent & Sheinfeld
 Silk Engineering
 Maxim Nordenfelt Guns and Ammunition Company
 Emtunga
-List of companies of Slovenia
 Gardner Carton & Douglas
 Hand in Hand Fire & Life Insurance Society
 Railway Executive Committee
@@ -35452,7 +34832,6 @@ Ackermans
 Wordsworth Military Library
 Starhotels
 Ausenco
-List of companies headquartered in Northern Virginia
 Water Forest Press Publishing
 Digital Telecommunications Philippines
 Windjammer Communications
@@ -35499,17 +34878,14 @@ PSS World Medical
 Jet Republic
 Wellan's
 Wesray Capital Corporation
-List of early locomotives of the London Brighton and South Coast Railway
 Nitro chiral
 Newark Railway
 FinancialContent
 Corder Drum Company
 Idaho Shakespeare Festival
-List of UK businesses entering administration during the 2008–09 financial crisis
 Sigongsa
 Smith and Pepper
 DailyFill
-List of filling stations in North America
 Oroton
 Tropenhaus Frutigen
 Little Saw Mill Run Railroad
@@ -35533,7 +34909,6 @@ Carr Communications
 A-Z
 Salling
 Kington Tramway
-List of airlines of Morocco
 Dounia TV
 Traverse City Railroad
 Healthcare Blue Book
@@ -35617,7 +34992,6 @@ Anglo-Eastern Group
 Mondobiotech
 Next Big Sound
 Cipriani SA
-List of Defence Maritime Services vessels
 Fielmann
 MA Donohue & Co
 Motora
@@ -35714,7 +35088,6 @@ FPT Group
 Orsi Instrument Company
 Cuulong Fish
 Elecom
-List of private security companies
 Fresno Air Attack Base
 Tsiigu
 Mapna Locomotive Engineering and Manufacturing Company
@@ -35883,7 +35256,6 @@ Multiwebcast
 Mitchell Hutchins
 Aeria Games and Entertainment
 Schaak Electronics
-List of Evolution-Data Optimized network equipment suppliers
 Qinghai Salt Lake Potash
 Bits Studios
 Jewish People's Fraternal Order
@@ -35908,7 +35280,6 @@ TAG Tegernsee Immobilien und Beteiligung
 Diablo Management Group
 Xi'an Aircraft International Corporation
 Mountune Racing
-List of banks in Sri Lanka
 Port Authority of Thailand
 Applied Solar
 CITIC Guoan
@@ -35925,7 +35296,6 @@ Silvan Byggemarked
 MatlinPatterson Global Advisers
 New England Business Journals, Inc
 Cabovisão
-List of airline holding companies
 Bradco Supply
 HighBeam Research
 Alacra
@@ -35950,7 +35320,6 @@ Path Press
 The NewsMarket
 Bad Moon Books
 Automatika
-List of health insurance companies in the United Arab Emirates
 Donlen Corporation
 Livescribe
 British and American Steam Navigation Company
@@ -36024,7 +35393,6 @@ Ming An Holdings
 Pittsburgh and State Line Railroad
 Tri-Cities Opera Company
 Northern Digital
-List of banks in Iraq
 CGU plc
 Axel Music
 Samson
@@ -36132,7 +35500,6 @@ Choctawhatchee and Northern Railroad
 G Sat
 London Clubs International
 Cimatron
-List of companies of Azerbaijan
 Nar Mobile
 Able UK
 Videoville Showtime
@@ -36192,8 +35559,6 @@ Winchester Railroad
 Dramanon
 Forestar Group
 Bit Managers
-List of airlines of Burkina Faso
-List of airlines of the Democratic Republic of the Congo
 JFC International
 Thames & Kosmos
 Vista Systems
@@ -36545,7 +35910,6 @@ Ceriani
 Dogma
 V-Ships
 EBW
-List of Cinco Family products
 Sun Life & Provincial Holdings
 Cargo Cult Press
 Russian State Ballet of Siberia
@@ -36560,9 +35924,7 @@ SMA Solar Technology
 Opera Company of Brooklyn
 Cogent Systems
 Traction Software
-List of venture capital companies in India
 Cafe FX
-List of companies of Kuwait
 AMAX Information Technologies
 Charriol
 Royal Cliff Hotels Group
@@ -36619,14 +35981,12 @@ Colne Valley Water
 SalesPage
 Matson Films
 InstaForex
-List of banks in Gibraltar
 Orocobre
 Environics Communications
 Toonlet
 Ben Cerullo Ministries
 Pilgrim Films & Television
 Paxen Learning
-List of companies involved in the Holocaust
 Stingray Digital
 V V Creations
 The Welding Institute
@@ -36779,7 +36139,6 @@ SiBeam
 Wydawnictwo Literackie
 Floodgate Entertainment
 TransdevTSL
-List of printer companies
 Cable Atlantic
 Comx
 General Pharma
@@ -36812,7 +36171,6 @@ Richlyn Systems
 Inov-8
 WellPoint Systems
 Pfeiffer Vacuum
-List of film production companies by country
 Vilant Systems
 Carl Braun Camera-Werk
 Wind Capital Group
@@ -36849,7 +36207,6 @@ ParAccel
 Averitt Express
 EFileCabinet
 National Wholesale Liquidators
-List of insurance companies in Uganda
 Hanover Branch Railroad
 Royal Huisman
 JL Thompson and Sons
@@ -37164,7 +36521,6 @@ Clelands Shipbuilding Company
 Loomia
 Saint Austin Press
 Advent Film Group
-List of Christian film production companies
 The Puma Hotels Collection
 Aichi small-elevator manufacturing corporation
 AutoForm
@@ -37224,7 +36580,6 @@ Magnetic Reference Laboratory
 Berliner Motor Corporation
 New Frontier Bank
 High Peak Junction
-List of railway companies of Norway
 Corinth and Counce Railroad
 Accountancy Age
 Cliffside Railroad
@@ -37241,13 +36596,11 @@ Forest Forge
 Narragansett Pier Railroad
 Unisonic Products Corporation
 Yenidje Tobacco Company Limited
-List of airlines of the United Arab Emirates
 Kenya Fluorspar Company
 C Krishniah Chetty & Sons
 Fronius International GmbH
 Connect Support Services
 Nectar Design
-List of companies based in Newcastle upon Tyne
 High Risk Books
 2XL Games
 Svarog Films
@@ -37262,7 +36615,6 @@ Scottevest
 Consolidated Zinc
 Sebago
 NERCO
-List of airlines of the Bahamas
 Live Oak, Perry and South Georgia Railway
 PEC Power Electric Cooperation
 Fastway Couriers
@@ -37277,7 +36629,6 @@ Warehouse Theatre
 Palabora
 The Airscrew Company
 Diva TV
-List of airlines of Bolivia
 NextEra Energy Resources
 Sell a Door Theatre Company
 Enox Biopharma
@@ -37305,9 +36656,7 @@ Rio Tinto Energy America
 Acme, Red River and Northern Railway
 Illinois Central Electric Railway
 Ubu Repertory Theater
-List of airlines of Brazil
 Vienna Festival Ballet
-List of airlines of Chile
 Michael Scott Paper Company
 Maestro Talent and Management
 Bookpeople
@@ -37333,7 +36682,6 @@ Hengan International
 MB&F
 American Sterling Bank
 Asia Airfreight Terminal
-List of airlines of Bahrain
 Airport Freight Forwarding Centre
 K G Corfield Ltd
 Kelly & Walsh
@@ -37398,7 +36746,6 @@ Japan Home Video
 Spectron Glass and Electronics Inc
 American Tomahawk Company
 Global Access Point
-List of airlines of Colombia
 Sterling Armaments Company
 PowerSeraya
 Bandai Channel
@@ -37408,7 +36755,6 @@ Brickworks Limited
 DYWIDAG Systems International
 RESOL
 Awem
-List of airlines of Ecuador
 Roc Nation
 Luminant
 Vigilant Technology
@@ -37423,7 +36769,6 @@ Jord International
 Bticino
 Naari
 Sord Computer Corporation
-List of companies of Vietnam
 Cablefree
 R L Carriers
 Richman Chemical
@@ -37468,14 +36813,12 @@ Lapeer Industrial Railroad
 Marquette Rail
 UltraStar Cinemas
 Charlotte Southern Railroad
-List of airlines of New Zealand
 Council Bluffs and Ottumwa Railway
 Eastern Shuttle
 WBX
 Archirodon
 ArticlesBase
 Scailex Corporation
-List of airlines of Venezuela
 De Havilland Propellers
 Playfish
 Auseklis Limbazi Theatre
@@ -37547,7 +36890,6 @@ LucidWorks
 Associated University Presses
 Crista Ministries
 Electric Car Corporation
-List of Canadian natural gas companies
 Efecte
 Axa Ireland
 Erento
@@ -37824,7 +37166,6 @@ Thousand Islands Railway
 New York and Greenwood Lake Railway
 Central Greyhound Lines
 Canada Systems Group
-List of EDGE networks
 Arome Bakery
 Reference 54
 Rossi Ice Cream
@@ -37917,7 +37258,6 @@ Pencept
 ECAMI
 Three Six Zero Group
 Hudson Global, Inc
-List of Modern Theaters Ltd films
 Robai
 Can Associates TV
 Microphone Records
@@ -38024,14 +37364,9 @@ ETEM
 Samson Design
 Armashield
 Avascent Group
-List of banks in Kenya
 Spancrete
 Reid Supply Company
 Aviat Networks
-List of banks in the Gambia
-List of banks in Ghana
-List of banks in Liberia
-List of banks in Tanzania
 Blue Sky, Blue Sea, Inc
 FORAtv
 NewBlue
@@ -38042,24 +37377,13 @@ Ericpol Telecom
 Fox's Confectionery
 Fortumo
 William Press Group
-List of banks in Botswana
 Pioneer Theatre Company
-List of banks in Egypt
-List of banks in Mauritius
-List of banks in Zambia
-List of banks in Madagascar
-List of banks in Burundi
 Vialle
 Yuuguu
 Tri-County Broadcasting
 Tinet
 Anglo American Pictures
-List of banks in Rwanda
 CelebriDucks
-List of banks in Nigeria
-List of banks in the Democratic Republic of the Congo
-List of banks in Senegal
-List of banks in Cameroon
 Sihltal Zürich Uetliberg Bahn
 Rhode Island Soft Systems
 Live Nation Entertainment
@@ -38092,13 +37416,8 @@ CytoSport
 Advanced Processing & Imaging
 CenturyLink
 Nextspace
-List of banks in Malawi
-List of banks in Namibia
-List of banks in South Africa
 Cork Community TV
 Zimmerberg bus line
-List of banks in Cape Verde
-List of banks in Burkina Faso
 P5tv
 White Knight Broadcasting
 Moncton and Buctouche Railway
@@ -38116,19 +37435,8 @@ Opera of the Nobility
 All American Foods
 BOA Editions, Ltd
 Contemporary American Theater Festival
-List of banks in Mali
-List of banks in Ivory Coast
-List of banks in Sierra Leone
 Studio Theatre
-List of banks in Gabon
-List of banks in Mozambique
-List of banks in Djibouti
-List of banks in Lesotho
-List of banks in Comoros
-List of banks in Ethiopia
-List of banks in Swaziland
 Server Technology
-List of banks in Benin
 Xinhua Bookstore
 NKK switches
 Ken's Foods
@@ -38167,20 +37475,10 @@ WorldPay
 L'Desh Fresh
 CyberLink
 WeddingWire
-List of banks in Guinea
-List of banks in Togo
 Otto Wolff
 Tailgate Clothing Company
-List of banks in Seychelles
-List of banks in Somalia
 RTTS
-List of banks in Niger
-List of banks in Morocco
-List of banks in Mauritania
-List of banks in Tunisia
-List of banks in Zimbabwe
 Visibility
-List of banks in Algeria
 Scarlet Blade Theatre
 Duratex
 Texas Conference of Seventh-day Adventists
@@ -38188,9 +37486,6 @@ TimesLedger Newspapers
 AMZ-KUTNO Ltd
 Toon Books
 Uzdunrobita
-List of banks in the Republic of the Congo
-List of banks in São Tomé and Príncipe
-List of banks in Equatorial Guinea
 Ishi Press
 Télé Sahel
 Burundi National Radio and Television
@@ -38223,7 +37518,6 @@ Carolina Brewery
 Qatar Insurance
 Cyclone Studios
 Spectrum Pharmaceuticals
-List of Sonic Team Designers
 Games developed by Sonic Team
 JustSystems
 Timeline Interactive
@@ -38241,9 +37535,6 @@ Atlantic Tele-Network
 D3 Security Management Systems
 Southern Appalachian Repertory Theatre
 Attica Railways
-List of banks in Sudan
-List of banks in the Central African Republic
-List of banks in Chad
 Wargames Factory
 Calysto Communications
 Stockpoint
@@ -38266,7 +37557,6 @@ BASE Productions
 Musicshake
 Radio Télévision du Burkina
 Tipografia Elvetica
-List of unified communications companies
 Raine and Horne
 Franco–Swiss Company
 Real Estate Bank India
@@ -38400,7 +37690,6 @@ Evergreen USA RRG
 Acorn Media UK
 Christensen Canadian African Lines
 Windward Studios
-List of technology companies in Montreal
 CornerWorld
 Janrain
 Cavenders
@@ -38435,7 +37724,6 @@ Axerra Networks
 Related Designs
 Gainax
 Ilkley Playhouse
-List of free Trade Zones in Dubai
 Midland and South Western Junction Railway
 TİSAŞ
 GİRSAN
@@ -38468,7 +37756,6 @@ Gotec Group
 Beijing Automotive Group
 ThinkFun
 5M Inşaat Tekstil Ithalat Sanayi Ticaret LTD Sti
-List of banks in Lebanon
 Electronix corporation
 Philadelphia Grand Opera Company
 Gettysburg Railroad
@@ -38519,7 +37806,6 @@ Netac Technology
 Spiegel & Grau
 Enterprise Desktop Alliance
 United First Financial
-List of Paramount executives
 Les Freres Corbusier
 Oil Creek and Titusville Railroad
 Nattokendro
@@ -38645,10 +37931,7 @@ De Dietrich Remeha
 ROCAD Construction Limited
 Feeder Airlines
 PANOPTIKUM
-List of airlines of Kenya
 Dove Air Services
-List of airlines of Chad
-List of airlines of Syria
 The Luxury Institute
 Jindal Group
 Cwmni Theatr Ieuenctid Maldwyn
@@ -38810,7 +38093,6 @@ Allgemeine Gesellschaft der Schweizerischen Uhrenindustrie
 General Watch Co
 Société de Microélectronique et d'Horlogerie
 Plan Toys
-List of companies consolidated into American Bridge Company
 GMR Marketing
 Postlethwaite & Netterville
 Concern Tractor Plants
@@ -38879,10 +38161,8 @@ De Bezige Bij
 Ross and Monmouth Railway
 Becker's
 Adelaide Steamship Company
-List of airlines of Niger
 Türkmengaz
 Air Niamey
-List of airlines of Mali
 Park Holidays UK
 Lavalin
 CK-12 Foundation
@@ -39104,7 +38384,6 @@ Chemistry Central
 Löwe Automobil
 Water and Power Development Authority
 Métaux Précieux SA Métalor
-List of companies of Rajasthan
 BonNova
 Criticism of Apple Inc
 Federal Farm Credit Banks Funding Corporation
@@ -39160,10 +38439,7 @@ Slow Cow
 Alawar Entertainment
 TAP Portugal
 Berkshire Publishing Group
-List of airlines of Cameroon
 DeVore & Sons Inc
-List of airlines of Cape Verde
-List of airlines of Seychelles
 Reaktion Books
 Work At Play
 Severn Bridge Railway
@@ -39175,7 +38451,6 @@ Walchandnagar Industries
 Boise and Western Railway
 Bonner & Associates
 Lauren Engineers & Constructors
-List of airlines of Guyana
 YouDevise
 Trollope & Colls
 Ex!t Players
@@ -39201,7 +38476,6 @@ Unwins Seeds
 Souhegan Wood Products
 Mirvish Productions
 Tinik Ng Teatro
-List of airlines of Panama
 Ontario Southern Railroad
 Mandriva
 Holiday Rambler
@@ -39213,8 +38487,6 @@ Alcon Entertainment
 FinReg21
 Ferndale Dairies
 Linc Energy
-List of airlines of Brunei
-List of airlines of Laos
 Mackenzie Investments
 Baltimore Theatre Project
 Kearsarge Arts Theatre Company
@@ -39241,7 +38513,6 @@ Boise Contemporary Theater
 General Tobacco
 Edwards Baking
 West Properties
-List of airlines of Armenia
 Telesystems
 Villars-Maitre-Chocolatier
 Specialized Technology Resources
@@ -39263,13 +38534,11 @@ Shanghai Yingji
 DSBFirst
 Cosmi Corporation
 Titan Studios
-List of airlines of Peru
 Orion New Zealand Limited
 University Circle Properties Development, Inc
 Home City Ice
 BelaPAN
 Tubefilter
-List of banks in Burma
 Leiki
 Norfolk Record Society
 Nordtek Imexco
@@ -39289,9 +38558,6 @@ Dexter Construction
 AMSD
 Neptec Design Group
 Pedestal Software
-List of regional airlines
-List of airlines of Mauritania
-List of airlines of Senegal
 Titanine, Incorporated
 Sharp Entertainment
 Askinosie Chocolate
@@ -39301,7 +38567,6 @@ PixelJAM Games
 Gorenje
 Canadian petroleum companies
 SmartAction
-List of Canadian restaurant chains
 American Opera Society
 Viverso
 Arkaim
@@ -39378,9 +38643,6 @@ EDF Énergies Nouvelles
 System 3
 Health insurance cooperative
 Uruit
-List of airlines of Austria
-List of airlines of Spain
-List of airlines of Italy
 SoftDEL Systems
 Whiskey Media
 ADAM, Inc
@@ -39403,7 +38665,6 @@ Illumination Entertainment
 Industrial Machine Automation
 Crystatech
 Jefferson National
-List of oldest companies in the United States
 CrowdFlower
 MESA Imaging
 Adrenalin eSystems
@@ -39521,9 +38782,7 @@ Vismayas Max
 Kuzbassenergo
 Artezio
 Wistron Corporation
-List of airlines of Uganda
 Bluenog
-List of defunct airlines of Uganda
 Liquid Computing
 Armed Forces Insurance
 AmTrust Financial Services, Inc
@@ -39675,7 +38934,6 @@ Research & Branding Group
 East Jordan and Southern Railroad
 Comm South Companies
 Vertigo Bird
-List of Romanian websites by number of unique visitors
 Sensage
 MTN Syria
 CitySpring Infrastructure Trust
@@ -39895,7 +39153,6 @@ Grundig Business Systems
 National Information & Credit Evaluation
 Asymetrix
 Belarus High Technologies Park
-List of Turkish Railways
 IResearch Consulting Group
 ABC Motion Pictures
 Transonic Combustion
@@ -39988,7 +39245,6 @@ DailyBooth
 Sterlite Energy
 Excelan
 Event Horizons BBS
-List of companies in Zamboanga City
 Darcy Press
 Ontoprise GmbH
 Dayang Group
@@ -40157,7 +39413,6 @@ ZURB
 Gosling Brothers, Ltd
 St Mary's Hospital, Galveston
 Software industry in Madurai
-List of Disney India topics
 Drom fragrances
 Turner International India
 Carole Nash
@@ -40295,7 +39550,6 @@ Europa Publications
 Sorcim
 Smithsonian Institution Press
 Chemin de fer du Vivarais
-List of airlines of Ethiopia
 Pikabacom
 Sedley Place
 TMEIC
@@ -40343,7 +39597,6 @@ Gigulate
 SIP provider
 Alta College, Inc
 Monami
-List of airlines of Albania
 Cotabato Light And Power Company
 Coromandel International
 Criticism of The Walt Disney Company
@@ -40392,15 +39645,9 @@ DASCOM
 Mark Batty Publisher
 Directed Edge
 Ormat Industries
-List of airlines of Paraguay
 Generally Speaking Production Network
 Howland & Aspinwall
-List of airlines of Trinidad and Tobago
-List of airlines of Suriname
-List of airlines of Uruguay
-List of airlines of Azerbaijan
 Top Dog Theatre
-List of airlines of Belarus
 Ashfordcom
 Karadi Tales
 Mayflower Corporation
@@ -40410,7 +39657,6 @@ Haldyn Glass
 Telesens
 Type A Films
 Family Inada
-List of defunct television networks in the United States
 NetDocuments
 IKnowWare
 Sol
@@ -40458,7 +39704,6 @@ Experimental Music Catalogue
 Randall-Reilly
 Lautman's Dairy
 Strikeiron
-List of mergers of securities firms
 Barr and Stroud
 Cranberry Production
 Lord Abbett
@@ -40648,7 +39893,6 @@ Mity-Lite
 Astonfield
 Konditor & Cook
 Knee High Media Japan
-List of Christian media organizations
 KnowledgeView
 Elliott Wood Partnership
 Ellesse
@@ -40697,7 +39941,6 @@ History of Volkswagen in Ireland
 MANPA
 Lost Colony Entertainment
 Lebanon Valley Railroad
-List of defunct airlines of Guyana
 Private Security and Intelligence Service
 Dockwise
 Cytonix
@@ -40766,7 +40009,6 @@ Cape Classics
 McGuff Companies
 Alorica
 Irynsoft
-List of Shimoga Telecom operators
 Hanning Elektro-Werke
 Liberty Holdings Limited
 Creek Audio
@@ -40781,7 +40023,6 @@ Ubisoft São Paulo
 Seraphim Digital
 Agroindustrial Pomalca
 Willys
-List of Shimoga Telecom Companies
 Arig
 Globalscape
 Bernina railway
@@ -40815,9 +40056,7 @@ FenceSitter Films
 Mareco Broadcasting Network, Inc
 Smash Pictures
 Gassled
-List of airlines of Gabon
 United Streetcar
-List of airlines of Zambia
 GE Power Conversion
 Escape Artists
 SIDERPERU
@@ -40835,7 +40074,6 @@ American Graphics Institute
 Elron Electronic Industries
 Clixtr
 WikiCity Guides
-List of CDMA2000 networks
 Pioneer Foods
 Buenaventura
 Candente Copper
@@ -40955,7 +40193,6 @@ Macrofocus
 Videocon Telecom
 Malmö Lokaltrafik
 Cembrit
-List of insurance companies in India
 Flexirent
 FxPro
 Mt Rushmore Broadcasting, Inc
@@ -40976,7 +40213,6 @@ A-One
 Peer Media Technologies
 Ceres Power
 Peace Arch Entertainment
-List of automobile manufacturers of Sweden
 Hamilton-Mehta Productions
 Stangeland Gruppen
 Pavlov Ballet
@@ -41056,7 +40292,6 @@ ESL Federal Credit Union
 Corbin Fisher
 PlayFlock
 Tractebel
-List of airlines of Lithuania
 PeoplesTel
 KIPCO Asset Management Company KSC – KAMCO
 A Zerega's Sons, Inc
@@ -41065,7 +40300,6 @@ Tervela
 Erotika Biblion Society
 Fleabass
 Setcom Corporation
-List of co-operative banks in Germany
 Mont Cenis Pass Railway
 Media Works Bunko
 Pramati Technologies
@@ -41239,7 +40473,6 @@ UAS Laboratories
 Eyetech
 Psichogios Publications
 Wells Street Gallery
-List of CIGS companies
 National Textile Corporation
 Tidewater
 Quidem
@@ -41334,7 +40567,6 @@ Sierra Repertory Theatre
 Liverpool Data Research Associates
 Foreland Shipping
 Wish Farms
-List of airlines of Iceland
 Thoratec
 NuScale Power
 Polistil
@@ -41344,7 +40576,6 @@ True North Productions
 Small Dog Electronics
 Hull Repertory Theatre Company
 Koleje Dolnośląskie
-List of companies based in Bellevue, Washington
 Riff Raff Theatre Company
 Wight Trash
 MRV Engenharia
@@ -41361,7 +40592,6 @@ Berwind Corporation
 Beef Products
 Portland Railway, Light and Power Company
 Q-Productions
-List of manga publishers
 Cheswold Lane Asset Management
 3030 Press
 Allied Publishers
@@ -41457,7 +40687,6 @@ Klein Tools
 Heartbeat Productions
 Free Mobile
 Marlboro Classics
-List of Danish wind turbine manufacturers
 Dnata Travel Services
 Souza Cruz
 FD Mediagroep
@@ -41572,7 +40801,6 @@ Petrobras Argentina
 Southern Radio Group
 Klimovsk Specialized Ammunition Plant
 Havelbus
-List of credit unions in the United States
 Steensen Varming
 IPredict
 VertiKa
@@ -41724,7 +40952,6 @@ Hansel Ltd
 Modus FX
 Multiverse Music
 Mabey Group
-List of space companies and facilities in Virginia
 Hillhouse Opera Company
 The South Butt
 Electronics for Imaging
@@ -41743,7 +40970,6 @@ Hanson Traction
 Cloud Nine Movies
 Intermarine
 Universal Insurance company Limited
-List of companies of Iceland
 Cashflow Technologies
 Elprice
 Mosenergo
@@ -42095,7 +41321,6 @@ GE Wind Energy
 Vonnegut, Wright & Yeager
 Vonnegut & Bohn
 Ruth's Hospitality Group
-List of companies in South Florida
 Apoorva Chitra
 Vision Valor Victory
 Nexcelle
@@ -42118,7 +41343,6 @@ Claridge Records
 Renata Limited
 TIM Brasil
 Tyholt Worldwide Logistics
-List of foreign exchange bureaus in Uganda
 Kilgore College Rangerettes
 Standard Drug Company
 Union Traction Company
@@ -42174,7 +41398,6 @@ Basic Food Flavors
 Anciens Etablissements Pieper
 Marabese Design
 India Tourism Development Corporation
-List of companies based in the Savannah, GA area
 Lesta Studio
 SNCF Geodis
 Corn Belt Power Cooperative
@@ -42188,7 +41411,6 @@ Aliansce Shopping Centers
 STVA
 Navitar
 New Zealand Shipping Company
-List of acquisitions by Sony Corporation
 General Shopping
 LivingSocial
 Commonwealth Steel Company
@@ -42209,7 +41431,6 @@ Founders Brewing Company
 Ficosa
 Allscripts
 Wesabe
-List of Utah companies
 Ecogen Energy
 Hadashot 10
 Bloxham Stockbrokers
@@ -42257,7 +41478,6 @@ Arecont Vision
 Gartmore Group
 Missouri Gas Energy
 Vmedia
-List of North American scholarships
 Robot Comics
 Finspreads
 Cairo Opera Ballet Company
@@ -42332,7 +41552,6 @@ Denodo
 TeNeues
 Ultra-Fast Broadband
 NCAA Productions
-List of conglomerates in Uganda
 Frost Meadowcroft
 Intelligent Money
 Phoenix Dance Theatre
@@ -42370,7 +41589,6 @@ Landers, Frary & Clark
 Micro Industries
 InDevR
 Xperedon
-List of wineries in South Africa
 Henry Hope & Sons Ltd
 1C Company
 Hopetech
@@ -42513,7 +41731,6 @@ Inflo Films
 Black Theatre Workshop
 Composite Software
 Vedanta Press
-List of historical British telcos
 Vitruvian Partners
 Imasco
 Independent Online Cinema
@@ -42659,7 +41876,6 @@ Studiotorino
 Cylex
 Northwood
 BNP Paribas Real Estate
-Lists of video game companies
 Inbal Dance Theater
 Louis George
 COLE Publishing
@@ -42821,7 +42037,6 @@ Longyuan Power
 Sitmar Cruises
 Lumitrend, Inc
 Lighthouse Trails Publishing
-List of TheatreWorks
 National Logistics Cell
 Onyx Systems
 Japanese National Railway Settlement Corporation
@@ -42908,7 +42123,6 @@ First American Scientific Corp
 Quicklaunch
 Hamburg-Bergedorf Railway Company
 Volden Group
-List of Oslo Tramway and Metro operators
 Evans Deakin and Company
 Damage Control
 Palantir Technologies
@@ -43142,7 +42356,6 @@ G Ettinger Ltd
 Boyle's Famous Corned Beef
 Corelis
 Newfield Exploration
-List of Egged buses in Jerusalem
 BJFE
 National Research Associates, Inc
 Pilot PMR
@@ -43173,7 +42386,6 @@ Renault India Private Limited
 CPA Site Solutions
 Tom's Convenience Store
 Trans-National Industrial Electricity and Gas Company
-List of shop signs in Boston in the 18th century
 Colonial Pipeline Company
 Shadowland Theatre
 DealsDirect
@@ -43257,7 +42469,6 @@ Prosser Twin Cylinder Car Company
 St Louis, Brownsville and Mexico Railway
 Long-Bell Lumber Company
 The Predators' Ball
-List of Indian IT companies
 Hotel Partners
 Total Star
 Metropolitan Brewing
@@ -43277,15 +42488,9 @@ Oneupweb
 Hubba Wheels
 Berlin State Ballet
 Frey Wille
-List of supermarket chains in Kazakhstan
-List of supermarket chains in Belarus
 Bolton Little Theatre
 Inner Mongolia University Press
 Ferrovie Emilia Romagna
-List of supermarket chains in Albania
-List of supermarket chains in Cyprus
-List of supermarket chains in Armenia
-List of supermarket chains in Azerbaijan
 Swissqual
 Worshipful Company of Educators
 MXP4
@@ -43473,7 +42678,6 @@ Public sector undertakings in Kerala
 Blue Star Ferries
 Jackson & Curtis
 Kakuzi Limited
-List of companies of Kenya
 Centre for Cellular and Molecular Platforms
 Uranium Participation Corporation
 Egyptian Natural Gas Company
@@ -43500,7 +42704,6 @@ Vinacafe
 SureHarvest
 Meridian Knowledge Solutions
 Fanfare
-List of companies of Rwanda
 Michigan Sugar
 Bedford Falls Productions
 Heywood-Wakefield Company
@@ -43551,7 +42754,6 @@ Archideos Books
 TasRail
 Premiere Stages
 Rexiter
-List of broadcasting companies in Latin America
 ABW Group
 Pacific Sales
 BAKED FX
@@ -43744,7 +42946,6 @@ Samworth Brothers
 SBI Life Insurance Company Limited
 John H Mathis & Company
 Pure Spring Company
-List of public listed software companies of India
 Aist Bicycles
 LRP Publications
 American Blimp Corporation
@@ -43794,7 +42995,6 @@ Sugamax
 Encore Hollywood
 Partners & Spade
 Imperial Finance and Trading
-List of banks in Poland
 Independent Brewing Company of Pittsburgh
 KEPCO E&C
 Glasi Hergiswil
@@ -43814,8 +43014,6 @@ Lancer Publishers & Distributors
 Refined Bitumen Association
 Indian Rare Earths
 National Ballet of Rwanda
-List of Trinidad and Tobago mobile phone companies
-List of shipyards of the Soviet Union
 Doubt is Their Product
 Front Row Wrestling
 Interurban Press
@@ -43859,7 +43057,6 @@ Killer Company
 Telecinco Cinema
 Mendel Biotechnology, Inc
 Spoonfed Media
-List of legal publishers by language area
 P Jurgenson
 Westmont Hospitality Group
 SteelPath
@@ -43947,7 +43144,6 @@ Vival
 Yellowfin Business Intelligence
 Solimpeks
 A'YoY
-List of films released by Pritish Nandy Communications
 Trek 2000 International
 Echo Global Logistics
 Roady
@@ -44039,7 +43235,6 @@ Walter Brewing Company
 Armajaro
 Aventis Pharma
 Modern Welding Company, Inc
-List of largest corporate profits and losses
 Zandu Realty
 Our Home
 Azernashr
@@ -44076,13 +43271,11 @@ Honk
 Fábrica de Armas Halcón
 HealthyWage
 Húsasmiðjan
-List of defunct airports in the United States
 Tring Digital
 PrimeSense
 Amadesa
 Fire Underwriters Survey
 Amerindo Investment Advisors
-Companies listed on the Shenzhen Stock Exchange
 Van Holten's Pickles
 EIQ Energy, Inc
 Evans Tuning
@@ -44342,25 +43535,13 @@ Jasmerecom
 Flipkart
 De Haan's Bus & Coach
 Daniel Reeves Stores
-List of acquisitions by CA Technologies
 ZTR Control Systems
 Pothys
 Mediatrope
-List of international auto shipping companies
-List of companies of Panama
-List of companies of Belize
-List of companies of Honduras
-List of companies of Dominica
-List of companies of Antigua and Barbuda
-List of companies of El Salvador
-List of companies of Guatemala
-List of companies of Nicaragua
-List of companies of Greenland
 ContractExpress
 Business Integrity
 Hrvatske autoceste
 Autocesta Rijeka – Zagreb
-List of companies of Bermuda
 PowerFilm, Inc
 Petrobangla
 Severn Lamb
@@ -44369,9 +43550,6 @@ Autocesta Zagreb – Macelj
 BINA Istra
 Dern Food Company
 Standardized railway station
-List of companies of Bahrain
-List of companies of Brunei
-List of companies of Burma
 Ubee Interactive
 Anthony J DePace
 Heng Siew Chiang Sendirian Berhad
@@ -44401,7 +43579,6 @@ Grandi Stazioni
 MainConcept
 International Titanium Inc
 SecurityMetrics
-List of automotive customizers
 Fabasoft
 International Publishers
 SendThisFile
@@ -44427,8 +43604,6 @@ Singlewire Software
 GLS Denmark
 Risk International
 General Logistics Systems
-List of companies of Abkhazia
-List of companies of the Nagorno-Karabakh Republic
 Direct Edge
 Société du Chemin de fer Ottoman d'Anatolie
 Collaborative Drug Discovery
@@ -44455,10 +43630,6 @@ Brookfield Renewable
 Psyma Group
 Dubai Inc
 Alcove Entertainment
-List of companies of Cuba
-List of companies of Anguilla
-List of companies of Saint Kitts and Nevis
-List of companies of Trinidad and Tobago
 Vasseti Group
 Iroquois China Company
 Facepunch Studios
@@ -44830,7 +44001,6 @@ Mano Maritime
 Ben Cooper, Inc
 StarKid Productions
 Jackpotjoy
-List of banks in the United Arab Emirates
 Piping Technology and Products
 Ivoclar Vivadent
 Inter-Activa
@@ -44841,7 +44011,6 @@ Criticisms of BSkyB
 Refund Home Loans
 Fonciere des Regions
 IOMAI
-List of Philippine restaurant chains
 Element Anti-Virus
 Polish National Ballet
 Caird & Company
@@ -45090,7 +44259,6 @@ India Infoline
 Dreams on Frames
 Rohde Shoes
 KUL – Kumar Builders
-List of airlines of Tanzania
 Shiply
 Christiania Spigerverk
 AMPCO METAL
@@ -45139,10 +44307,6 @@ Shakerley Collieries
 Network Automation
 Sany
 CDT 'Smyk' Department Store
-List of breweries in the United States
-List of breweries in Oklahoma
-List of breweries in Alaska
-List of breweries in New Mexico
 Video Yesteryear
 Charles Hill & Sons
 Royal Division of the Aachen-Düsseldorf-Ruhrort Railway
@@ -45207,7 +44371,6 @@ Personal Audio
 New England Opera Theater
 NBC Opera Theatre
 French Engineering Works
-List of bus companies of the Philippines
 CoreLogic
 Breadsmith
 Saint Helena Railway Company
@@ -45217,7 +44380,6 @@ DAKS
 Kipling
 Bedford Colliery
 Experion technologies
-List of cable operators in Pakistan
 Imago Théâtre
 Morrison Hershfield
 Shoplet
@@ -45251,7 +44413,6 @@ New York Transportation Company
 Transweb
 HH Electronics
 GMA Cover Corp
-List of breweries in New York
 Boston Musical Instrument Company
 Swamp Head Brewery
 Heartland Brewery
@@ -45312,9 +44473,7 @@ Lietuvos Elektrinė
 Warp X
 Somali Broadcasting Corporation
 TESCAN
-Listia
 Ramble House
-List of mergers and acquisitions by Facebook
 Queensland Pioneer Steam Railway
 SimpleDL
 Pole Position Raceway
@@ -45505,7 +44664,6 @@ Kineto Wireless
 GoGo Squeez
 Stanley Woolen Mill
 Tandon Corporation
-List of hentai companies
 TOKU-E
 15miles
 Edu-Games
@@ -45534,7 +44692,6 @@ Elecard
 Frontier Communications ILEC Holdings
 Mikroelektronika
 Definition 6
-List of breweries in Indiana
 P A Starck Piano
 MGM Music
 Olde Hickory Brewery
@@ -45563,7 +44720,6 @@ FKP
 AWAS Aviation Capital
 Birse Civils
 Albany Software
-List of satellite television service providers in Uganda
 New England Glass Company
 Vino Volo
 Parmatech
@@ -45617,7 +44773,6 @@ Norsk Eiendomsinformasjon
 Toraya Confectionery
 Doorstep
 Scilly Isles Steam Navigation Company
-List of companies of Bulgaria
 ProjectManagercom
 Pink SI
 Arcen Games
@@ -45703,14 +44858,12 @@ Abbeville Southern Railway
 Southwestern Alabama Railway
 Energy Company of Ukraine
 Envirogreen recycling
-List of breweries in Louisiana
 DTEK
 Sinosol
 Taçi Oil
 Orckit-Corrigent
 60second Recap
 Grey House Publishing
-List of breweries in Missouri
 Real Estate Board of New York
 Reform Scotland
 Timocom
@@ -45727,7 +44880,6 @@ LA Care Health Plan
 Mount Carbon Brewery
 Gallup International Association
 Kanbay
-List of breweries in Montana
 Das
 Orchard Supply Hardware
 Barker Black
@@ -45916,10 +45068,8 @@ Peek
 Yale Publishing Course
 Blackfriars Press
 Hatteland Group
-List of companies of Nepal
 Okinawa Electric Power Company
 Terra Venture Partners
-List of telecom companies in India
 Zymo Research
 Battle River Railway
 OPI Products
@@ -46039,7 +45189,6 @@ Ashley River Railroad
 Quertle
 Green Pond, Walterboro and Branchville Railroad
 Railpool
-List of beverage companies of Peru
 Phillips Ormonde Fitzpatrick
 SF Broadcasting
 Righthaven
@@ -46075,7 +45224,6 @@ Asheville and Spartanburg Railroad
 Western Surety Company
 Philadelphia and Baltimore Central Railroad
 South Carolina Air–Line Railway
-List of breweries in Ohio
 Tech Compiler Data Systems
 Skydance Productions
 Total Immersion
@@ -46139,7 +45287,6 @@ AERO Specialties
 Dovogame
 Ciel Satellite Group
 Reliance MediaWorks
-List of S&P 400 companies
 Waterford Steamship Company
 Belfast Steamship Company
 Coast Lines
@@ -46160,7 +45307,6 @@ Minneapolis and Rainy River Railway
 Augusta, Knoxville and Greenwood Railroad
 Thermos LLC
 Augusta Northern Railway
-List of life Iisurance companies of India
 East Line Group
 Scarabeefilms
 Cthulhu Cultus
@@ -46210,12 +45356,7 @@ Charleston, Cincinnati, and Chicago Railroad
 OpenCube Technologies
 Action Forms
 The ROHO Group
-List of airlines of Croatia
-List of airlines of Romania
-List of airlines of Cyprus
 Escents Aromatherapy
-List of airlines of Switzerland
-List of airlines of Sweden
 Incheon Transit Corporation
 Korail Airport Railroad Corporation
 Suffolk Life
@@ -46343,7 +45484,6 @@ Alonzo King LINES Ballet
 Baritone and Euphonium Manufacturers
 Berg Propulsion
 Universal Space
-List of defunct railroads of North America
 Georgetown and North Carolina Railroad
 Pharmaceutical Press
 Xoom Corporation
@@ -46387,7 +45527,6 @@ BLRT Grupp
 Opera South
 Cundall Johnston and Partners
 Central Railroad of South Carolina
-List of Kentucky companies
 Williamsburg Railroad
 Rockingham Railroad
 Mobile Cotton Exchange
@@ -46665,7 +45804,6 @@ Lagan Technologies
 Expolanka
 Exstream Software
 Junebud
-List of supermarket chains in Mexico
 Hima Cement Limited
 Collegesolved
 Havanna
@@ -46801,7 +45939,6 @@ NorthStar Alarm
 NSPCL
 CFS Continental
 Buy as You View
-List of companies of Sri Lanka
 Rose Media
 Hatier
 Philadelphia Water Department
@@ -46911,7 +46048,6 @@ Bel Ami
 NaCo
 Bullseye Art
 HUSS Park Attractions
-List of companies of Afghanistan
 Georgia Shakespeare
 Mediafly
 Q Entertainment
@@ -46978,7 +46114,6 @@ Saloom Furniture Company
 Graziano Trasmissioni
 Jones Sewing Machine Company
 JackThreads
-List of breweries in Kansas
 Colored Players Film Corporation
 Corporate Magic
 Syracuse and Southern Railroad
@@ -47008,7 +46143,6 @@ HackFwd
 Ely Valley Extension Railway
 Ely Valley Railway
 Ely and Clydach Valleys Railway
-List of vehicle plants in India
 Emnico Technologies
 Submit It!
 Christian Moerlein Brewing Co
@@ -47111,7 +46245,6 @@ Baktruppen
 Railways of the Federation of Bosnia and Herzegovina
 Polymera
 Moontaxi Media
-List of companies of Lithuania
 Viz Media Europe
 Iran Tractor Manufacturing Company
 Nippon Export and Investment Insurance
@@ -47133,7 +46266,6 @@ African Exploration Mining and Finance Corporation
 Lipsy London
 Universal Investment
 Wilesco
-List of REITs in Canada
 Kids Can Press
 Playout247
 Ucamco
@@ -47362,13 +46494,10 @@ Tech TV
 Syska Hennessy
 National Infrastructure Development Company
 Logan
-List of airlines of Kuwait
 STAR India
 Cut to Create
 Lasta Beograd
 Grace Digital
-List of companies of Andorra
-List of companies of the Isle of Man
 Hugo Schneider AG
 Rice & Hutchins
 The Arthur Pequegnat Clock Company
@@ -47480,7 +46609,6 @@ Cybersoft
 North Tonawanda Barrel Organ Factory
 Tait Communications
 Ubisoft Ukraine
-List of banks in Vietnam
 HMS Industrial Networks
 Wizcom Technologies
 Arteluce
@@ -47600,7 +46728,6 @@ Launch Services Program
 Air2Web
 Hartley & Marks Publishers
 Pure Storage
-List of Canadian clothing store chains
 NCH Software
 Fantasea
 Monome
@@ -47741,55 +46868,36 @@ Oxford Royale Academy
 ODS-Petrodata
 Companhia União Fabril
 XOXO
-List of airlines of Comoros
 Pan Asia Banking Corporation PLC
 SSD europe
-List of airlines of Costa Rica
-List of airlines of Ivory Coast
 Channel 4 Learning
-List of airlines of Cuba
 PTV AG
-List of airlines of Denmark
 Crawford and Reid
 Kool Out Entertainment
-List of airlines of Barbados
-List of airlines of Belgium
 Salter Housewares
-List of airlines of Belize
 RAVe Publications
 Blairstown Railway
-List of airlines of Bosnia and Herzegovina
 Swinerton
 Openismus
 Spire Healthcare
 Solar Trust of America
 Wageningen Academic Publishers
-List of airlines of Poland
 Quest Visual
 Deutsche Werkstätten Hellerau
 VSoft Technologies Private Limited
 Nukem Energy
-List of airlines of Djibouti
 Rába
 Axess Vision Technology
 Expedition Engineering
 National Life Group
 Bizagi
 League Lab
-List of airlines of the Dominican Republic
 Magnetic Fields
-List of airlines of El Salvador
-List of airlines of Equatorial Guinea
-List of airlines of Estonia
-List of airlines of Fiji
 Xata Corporation
-List of airlines of Finland
 New Musicals Australia
-List of airlines of the Gambia
 Ships & Ports Communication Company
 Technical Park
 Interact Incorporated
-List of airlines of Ghana
 GM Components Holdings
 Safety Services Company
 APCOA Parking
@@ -47797,12 +46905,8 @@ De Joya Griffith and Company
 Sucrogen
 C Hurst & Co
 Darkling Room
-List of airlines of Guatemala
-List of airlines of Qatar
 College Publications
-List of airlines of Haiti
 AXN
-List of airlines of Honduras
 Cieri Media International Corporation
 M-Labs
 Consumer Priority Service
@@ -47810,7 +46914,6 @@ Burnside Distribution Corporation
 Ordnance Clothing Factory
 Fenrir Inc
 Springtime!
-List of airlines of Hungary
 Mineralogy
 Amal Express
 New Leaf Distributing Company
@@ -47818,7 +46921,6 @@ Silenzio Music
 California Shuttle Bus
 Xiu
 Medline Industries
-List of airlines of Iraq
 BirlaSoft
 The Walt Disney Company Italy
 La Conner Trading and Transportation Company
@@ -47831,7 +46933,6 @@ Berlin promotion agency
 HumancentiPad
 APT Entertainment
 CPL Aromas
-List of soft drink producers
 ZF Electronics TVS
 WinSystems, Inc
 Trendsetter Media and Marketing
@@ -47889,8 +46990,6 @@ Asian Aviation Centre
 Treasury Wine Estates
 CompuMe
 Information & Quality Healthcare
-List of airlines of Jamaica
-List of airlines of Jordan
 Mississippi Foundation For Medical Care
 Pyongyang Chewing Gum Factory
 FNSS Defence Systems
@@ -47908,21 +47007,14 @@ Metamec
 Global Silicon
 Goad map
 Nous Infosystems
-List of airlines of Latvia
-List of airlines of Lebanon
-List of airlines of Liberia
 CenturyTel of Ohio
 Seven West Media
 Songkick
-List of airlines of Luxembourg
 Mada Communication
 Eurogentec
 Iofina
-List of airlines of Madagascar
-List of airlines of Malawi
 Pridgeon & Clay
 FL Technics
-List of airlines of the Maldives
 DriveCam
 Springs Window Fashions
 Vulcan Productions
@@ -47933,12 +47025,10 @@ CenturyTel of Port Aransas
 CenturyTel of the Gem State
 Primacom
 Groenewout Consultants & Engineers
-List of airlines of Malta
 UBM Aviation
 PathSolutions
 Sika AG
 Balai Pustaka
-List of airlines of Mauritius
 CenturyTel of Colorado
 Expedient
 Fábrica de Braço de Prata
@@ -47949,7 +47039,6 @@ Bakersfield and Kern Electric Railway
 Green Flash Brewing Company
 McQ Inc
 Money and Power
-List of airlines of Moldova
 AB Liner
 Yellowlegcom
 LogicBoxes
@@ -47957,9 +47046,6 @@ Tête à Tête
 MyThings
 HHA Services
 Natural Currents Energy Services
-List of airlines of Mozambique
-List of airlines of Nagorno-Karabakh
-List of airlines of Namibia
 Prestolite Electric
 Diversified Global Graphics Group
 Roquette Freres
@@ -47969,12 +47055,10 @@ Boston Luxe Real Estate LLC
 EviMed
 Emeraude Ferries
 Zywave
-List of airlines of Nicaragua
 Emsa
 Smiling Hill Farm
 ArtPeople
 Jogfm
-List of airlines of Norway
 Star Line
 Armaguard
 Elite Care
@@ -47987,37 +47071,25 @@ Farnsworth Group
 CenturyTel of San Marcos
 Zeltia
 PresidiGo Shuttle
-List of airlines of Rwanda
 NIPO Software
-List of airlines of Samoa
-List of airlines of São Tomé and Príncipe
 Osun Defender
-List of airlines of Sierra Leone
 Sullivan Family of Companies
 Televisión Serrana
-List of airlines of Slovakia
-List of airlines of Slovenia
-List of airlines of the Solomon Islands
 Great Wall Wine
-List of airlines of Somalia
 I2 Limited
 Eisaku Noro Company
 Parlour Club
-List of European power companies by carbon intensity
 The Bigger Picture Malta
 Manteia Predictive Medicine
 TFIFX
 Rawle Murdy Associates, Inc
-List of rolling-stock leasing companies
 Sheltam
 Arabtech Jardaneh
 NextIO
-List of airlines of Sri Lanka
 Flaunt Kit
 The Shelter
 Toy Gun Films
 OZ Group
-List of airlines of Swaziland
 Corporación Venezolana de Guayana
 Jerusalem Venture Partners
 Central Telephone
@@ -48032,10 +47104,7 @@ Climax Brewing
 Worldspan Freight Services
 Royal London Group
 Big Train, Inc
-List of airlines of Tajikistan
 Coloroll
-List of airlines of Togo
-List of airlines of Tonga
 Napier Healthcare
 Officine Meccaniche Giovanni Cerutti
 Kot-in-Action Creative Artel
@@ -48054,14 +47123,11 @@ Greenville Light Opera Works
 Rallet
 Aurec Group
 InformAction
-List of airlines of Uzbekistan
 Nigerian Compass
 Gateway Films/Vision Video
 Erewhon Organic Cereal
-List of drum manufacturers
 Renault–Nissan Alliance
 Manga Hero
-List of airlines of Yemen
 Allegheny Image Factory
 Peterson Electro-Musical Products
 Spacetime Studios
@@ -48109,7 +47175,6 @@ Moe Brothers
 Merchants Transportation Company
 Angeles Brewing and Malting Company
 Tensar
-List of ETA Movements
 Izon Science
 MedMal Direct Insurance Company
 Personality Comics
@@ -48329,7 +47394,6 @@ VKG Elektrivõrgud
 Amor Group
 Chango
 Chelsio Communications
-List of breweries in Maine
 Bamble Cellulosefabrikk
 Aqualillies
 Geiser Manufacturing
@@ -48668,7 +47732,6 @@ MyDIALS
 Touchstone Semiconductor
 C3controls
 Irish Bank Resolution Corporation
-List of banks in Italy
 Target Canada
 Crystalate Manufacturing Company
 Gangaroo
@@ -48935,9 +47998,6 @@ Estap
 Digital Frontier
 Papaveria Press
 Interdean
-List of French natural gas companies
-List of French electric utilities
-List of French telephone companies
 Amazonen-Werke
 Plovput
 Donovan Data Systems
@@ -49016,7 +48076,6 @@ Flux
 Arc Technology Group
 Hyderabad Allwyn
 Transpara
-List of wineries, breweries, and distilleries in New Jersey
 Tasty 168
 Social Policy
 Tapeworm Railroad
@@ -49029,7 +48088,6 @@ Fanzz
 21C Media Group
 McGill University Press
 Switchgrass Books
-List of terrestrial fibre optic cable projects in Africa
 Ohta Jidosha
 Atlantic Grupa
 Usablenet
@@ -49157,8 +48215,6 @@ Nizam Sugar Factory
 Modi Group
 J B Lippincott & Co
 Sango Bay Estates Limited
-List of sugar manufacturers in Uganda
-List of government owned companies in Sri Lanka
 KisselKar
 The Doctors Company
 IDA International
@@ -49176,8 +48232,6 @@ Homer Brewing Company
 AirRoad
 Sporting-Sails
 HM Transport Inc
-List of investment banks in Uganda
-List of Alaska meaderies
 Recon Instruments
 The United Illuminating Company
 Flow Science, Inc
@@ -49189,7 +48243,6 @@ Wellman Group
 Vale Fertilizantes
 BCA Research
 Princeton Technology
-List of companies of Norway
 Terracotta, Inc
 Aldis SRL
 Eborn Books
@@ -49211,7 +48264,6 @@ Buy Buy Baby
 Hayleys
 Ferozsons
 Ilmi Kitab Khana
-List of Urdu language book publishing companies
 Sam's Warehouse
 ESTA Holding
 GKN Driveline
@@ -49271,7 +48323,6 @@ Apperian
 Hemphill Brothers Coach Company
 Shakarganj Mills
 Eat Smart, Move More, Weigh Less
-List of plays of Assamese Mobile Theatres for the season 2011-2012
 Lexi-comp
 Open Space
 Central Record de Comunicação
@@ -49331,7 +48382,6 @@ Sunrise Communications AG
 ASG Software Solutions
 Genstar Development Company
 Enerpac
-List of companies of Bosnia and Herzegovina
 Tradex Technologies
 MU Press
 DEJ Productions
@@ -49359,7 +48409,6 @@ Stelrad
 Dolderbahn
 Thunderhoney
 Royal Comics Syndicate
-List of Golden Age comics publishers
 Etix
 KVH Co Ltd
 Badgeville
@@ -49919,7 +48968,6 @@ Yin Mei
 Kilo-Moto
 Raw Nerve
 Lars Halvorsen and Sons
-List of freight ship companies
 The Czechoslovak-American Marionette Theatre
 Centaur Media
 Fitzgeralds Gaming
@@ -49943,7 +48991,6 @@ Georgetown Brewing Company
 Bioenergy
 Meinhardt Group
 Palawan Press
-List of passenger ship companies
 SolarPark Korea
 Freudenberg Group
 Ezentis Group
@@ -49954,7 +49001,6 @@ Alarmcom, Inc
 Blumenthal Brothers Chocolate Company
 Nyby bruk
 PaveGen
-List of electronics brands
 AMCO Burglar Alarm Company
 Glasgow, Bothwell, Hamilton and Coatbridge Railway
 Blis Technologies
@@ -50036,7 +49082,6 @@ Fraser and Neave
 Dubbing Brothers International Italia
 Pharmasset
 Streamworks International
-List of banks in Nepal
 Meka Robotics
 Mark Roberts Motion Control
 SulAmérica Seguros
@@ -50105,7 +49150,6 @@ Haas Type Foundry
 Benedict International Education Group
 Vlingo
 Max Bupa
-List of companies of Wales
 Tistory
 ROAM
 Dumfries, Lochmaben and Lockerbie Railway
@@ -50130,7 +49174,6 @@ Vox Media
 GigaTribe
 Ryyty
 Fatshark
-List of banks in Azerbaijan
 Rugged Entertainment
 DreamWorks
 Techno Brain
@@ -50223,7 +49266,6 @@ Collingwood Shipbuilding
 Exceedra Software
 TV Pixie
 French-Polish Rail Association
-List of UK literary agencies
 Bellona Publishing House
 TicketForce
 Isha Life
@@ -50288,12 +49330,10 @@ NuGeneration
 Elektrik Üretim
 Manhattan Beer Distributors
 Vive Crop Protection
-List of restaurants in Sweden
 Central African Mining and Exploration Company
 Computer Automation
 Zyvex Marine
 Hvidt & Mølgaard
-List of tramroads in South Wales
 White, Smith & Company
 White-Smith Music Publishing Company
 Bowater Mersey Paper Company Limited
@@ -50354,7 +49394,6 @@ English Software
 Mac & Jack's Brewing Company
 Eagle Oil and Shipping Company
 IBS Software Services
-List of banks in the Netherlands
 Ben Line Agencies
 The Paper Cup Company
 Range Resources
@@ -50394,7 +49433,6 @@ GO technologies
 Mondo TV
 Green Vision Media
 Construction Mecanique de Normandie
-List of fictional Microsoft companies
 Norbest
 FreshMinds
 Dubilier Condenser Company
@@ -50560,7 +49598,6 @@ IYogi
 Meteksan Savunma
 ByWater Solutions
 Dishman Pharmaceuticals and Chemicals
-List of SRI International spin-offs
 CrossRoads
 Grotrian-Steinweg
 John D Wood & Co
@@ -50603,7 +49640,6 @@ Nachtmann
 Abas Business Suite
 Jelmoli
 Tire Kingdom
-List of companies based in Westport, Connecticut
 Yellow Earth Theatre
 Wen Ken Group
 Open Plus
@@ -50617,7 +49653,6 @@ Henry V Events
 Pritchard-Strong Company
 Client First Settlement Funding
 MBO Partners
-List of talent management system companies
 Drumond Park
 CollegeBudget
 Sportscraft
@@ -50691,8 +49726,6 @@ Samir Jain
 Turn Off the Lights
 Splash
 State Publishing Institute PIW
-List of breweries in Rhode Island
-List of breweries in Connecticut
 KNOX
 North Western of Uruguay Railway
 Brazil Great Southern Railway
@@ -51022,7 +50055,6 @@ Ivy Exec
 Mail storage
 Morgantown and Kingwood Railroad
 GKIDS
-List of defunct airlines of Spain
 Madras Cements Ltd
 Shoup Voting Machine Corporation
 Veolia Verkehr Sachsen-Anhalt
@@ -51065,7 +50097,6 @@ Alto Dairy Cooperative
 Wiggle Ltd
 Cope Bros & Co
 Oddcast
-List of banks in France
 Arc Innovations
 Bradford White
 Theatre Sans Serif
@@ -51076,7 +50107,6 @@ Ki-oon
 Editora Fundamento
 Jaipur City Transport Services Limited
 Barnegat Fund Management
-List of banks in Spain
 ATP Flight School
 Jours Apres Lunes
 Fariñas Transit Company
@@ -51158,7 +50188,6 @@ Sri Venkateswara Creations
 BroadLight
 Abbey Pynford
 Euskalduna
-Listen2myradio
 Doğuş Media Group
 Northern Upstart Ltd
 Culver Props
@@ -51172,7 +50201,6 @@ McCauley Propeller Systems
 MW Propellers
 P & K Enterprises
 Red Cedar Technology
-List of companies of Kazakhstan
 Wrexham and Ellesmere Railway
 Tweetmyjobs
 Pacesetter Propeller Works
@@ -51307,8 +50335,6 @@ Hospedia
 Cimls
 Galați steel works
 Fixafone
-List of defunct airlines of Nigeria
-List of defunct airlines of the Democratic Republic of the Congo
 Ultra Distributors
 West's Pictures
 Australian Photo-Play Company
@@ -51509,7 +50535,6 @@ C Lorenz AG
 Business Consulting International
 Sigelock Systems
 UserVoice
-List of the largest shipbuilding companies
 Pukeko Pictures
 M Squared Lasers
 Bohurupee
@@ -51523,7 +50548,6 @@ Queensland Steam Shipping Company
 Australasian Steam Navigation Company
 Newcastle and Hunter River Steamship Company
 SeatMe
-List of Construction Companies of Pakistan
 Bongiovanni
 Woodstock Iron Works
 Rocket Pictures
@@ -51633,7 +50657,6 @@ Pakistan Herald Publications
 RusPetro
 Motion Blur
 Finix Comics
-List of advertising technology companies
 SigniCASE
 Knoxville Opera Company
 VPI Industries
@@ -51651,7 +50674,6 @@ Energy Points
 Numi Organic Tea
 Hortonworks
 Reel Rock Film Tour
-List of Khowar language book publishing companies
 DX Group
 Chuvashcinema
 Sabrang Communications
@@ -51681,7 +50703,6 @@ Scientific Computer Applications
 Bonfiglioli
 Boat International Media
 The Summer Company
-List of breweries in Mississippi
 Carrnivale Theatrics
 Texas Energy Engineers
 Connexus Internet
@@ -51708,7 +50729,6 @@ Bunnell Incorporated
 Eze Castle Integration
 Femina
 BSA cars
-List of Free Trade Zones in UAE
 Playground Games
 Tequila Works
 Gface
@@ -51924,12 +50944,10 @@ De Havilland Marine
 Verity Films
 Fidelis Education
 Wi-Tribe
-List of companies based in the San Francisco Bay Area
 Arctic Coal Company
 Telepac
 JC Williamson Ltd
 Signal Books
-List of Georgia
 Redbubble
 Rumblefish Inc
 Alientrap
@@ -51986,7 +51004,6 @@ AppExtremes
 Vision Research Phantom
 Profitect
 VeriStor Systems
-List of companies of Luxembourg
 Tasmanian Steam Navigation Company
 The Donners' Company
 Universal Magazines
@@ -52026,7 +51043,6 @@ MessageNet systems
 N Simrock
 YCF
 Steger Design
-List of self-publishing companies
 Titanine Ltd
 Wydawnictwo Uniwersytetu Jagiellońskiego
 Vantage Press
@@ -52222,7 +51238,6 @@ Ralph Lauren Corporation
 MDNX
 EQuibbly
 Naugatuck River Review
-List of property developers based in New York
 Kairosoft
 Cattuong Corp
 Nooter/Eriksen
@@ -52536,7 +51551,6 @@ Collins Engineers
 Agatsuma Entertainment
 Richard Mille
 South American Explorers
-List of automation integrator companies
 Dangote Cement
 IKOS Asset Management
 Big Media Publishers
@@ -52643,7 +51657,6 @@ Martex Farms
 Asklaila
 Better Together
 Recording King
-List of products of the Gloucester Railway Carriage and Wagon Company
 Newark Branch
 77 Diamonds
 Ichtiar Baru van Hoeve
@@ -52784,7 +51797,6 @@ Asserbohus
 Sequence
 Austral Photoplay Company
 Lawo
-List of largest public companies in Canada by profit
 VenueOne
 ELitmus
 Mysore Paper Mills
@@ -52941,7 +51953,6 @@ Imonggo
 Nagema
 Ebbw Vale Steel Iron and Coal Company
 SalesLoft
-List of breweries in Iowa
 Electricity Ashburton
 Sree Lakshmi Prasanna Pictures
 Streum on studio
@@ -53002,7 +52013,6 @@ USA Records
 State Palaces, Castles and Gardens of Saxony
 Amarin Corporation
 CustomMade
-List of breweries in Nevada
 Dar AlHadaek
 OPA co ltd
 Zakłady Azotowe Puławy
@@ -53183,7 +52193,6 @@ Goji Electronics
 Involver, Inc
 DAMAC Properties
 Viva TV
-List of Indian FMCG companies
 Vattanac Capital
 CavinKare
 PSTech
@@ -53273,7 +52282,6 @@ SAFE
 Chemins
 WEA Trust
 Takeover Group
-Lists of companies by stock exchange listing
 Ultrasoft
 Sea Malta
 GigaSpaces
@@ -53425,7 +52433,6 @@ Mulholland Books
 Escape Dynamics
 Crimepush
 Edesma
-List of toy soldiers brands
 Marlow Yachts
 Compagnie Générale Immobiliere
 Alexander Nubia International
@@ -53638,7 +52645,6 @@ Blossom Films
 Blueprint Newspaper
 Scottish Text Society
 Zoo Corporation
-List of bottling companies
 Avenir Telecom
 Unilever Nepal
 Racquet Club of Palm Springs
@@ -53658,7 +52664,6 @@ Buckley Jewellery
 Unidad de Gestión Operativa Mitre Sarmiento
 Barrow Hematite Steel Company
 HJ Huck & Co
-List of holding companies
 Tata Starbucks
 4 Decembar Nikšić
 Tonopah and Goldfield Railroad
@@ -53744,7 +52749,6 @@ North Carolina Dance Theater
 ERM Power
 GEN Energija
 William Leech PLC
-List of British architecture firms
 South Dakota Highway Commission
 SoftWood
 Infrastructure Development Finance Company
@@ -53799,7 +52803,6 @@ Novatec Solar
 Mehta Publishing House
 Kolomna Locomotive Works
 TrueEX Group
-List of airlines of Georgia
 Acropetal Technologies Limited
 Boulevard Films
 Bauhaus Entertainment
@@ -53854,7 +52857,6 @@ Klauser Schuhe
 Nirala Sweets
 Dynapac
 Mysore Cements Limited
-List of breweries in San Diego County, California
 Theo Chocolate
 Jungleboys
 Queensland Film Corporation
@@ -53905,7 +52907,6 @@ Exis Interactive
 TMT Development
 White's Boots
 Hull & Netherlands Steamship Co Ltd
-List of restaurants in Barcelona
 Elysium Growth Press
 Gambitious
 US Silver & Gold Inc
@@ -53940,10 +52941,8 @@ La Fantana
 Hoyts Edgley
 NobelTel
 Banff, Portsoy and Strathisla Railway
-List of electricity organisations in India
 Snapchat
 Sollers-Isuzu
-List of companies based in Austin, Texas
 Volkert, Inc
 Oaklandish
 HMS Group
@@ -53999,7 +52998,6 @@ Edinburgh Grand Opera
 Longford Leader
 Liberia Cement Corporation
 Dynamsoft
-List of biggest cable manufacturers
 Jean Hilaire Asté
 Melcom
 KeyedIn Solutions
@@ -54176,7 +53174,6 @@ Group FMG
 Ateliers Clérissy
 Fozzy Group
 SW Holdings
-List of companies in Charlotte
 Sevcon
 Berita Film Indonesia
 Glitne
@@ -54186,7 +53183,6 @@ Fredericksburg, Orange and Charlottesville Railroad
 Roomorama
 Big hART
 Ninefold
-List of companies based in Hayward, California
 National Backward Classes Finance and Development Corporation
 National Handicapped Finance and Development Corporation
 National Safai Karamcharis Finance and Development Corporation
@@ -54291,7 +53287,6 @@ NBC Bearings
 Kuzbassrazrezugol
 Associated Builders and Contractors
 Silver Spring Foods
-List of companies based in Berkeley, California
 Bröl Valley Railway
 A&P Family Mart
 Oceanvolt
@@ -54354,7 +53349,6 @@ Trumpia
 Nexor
 Lydia Johnson Dance
 Associated British Hat Manufacturers
-List of films made by Continental-Kunstfilm
 Joyalukkas
 UniPrise Systems
 Arts Center of the Ozarks
@@ -54456,7 +53450,6 @@ Film Creatives
 Tongyang Broadcasting
 TradeCard
 Severud Associates
-List of breweries in Delaware
 Columbia Manufacturing Inc
 PNE Wind
 MTM – Motoren Technik Mayer
@@ -54660,7 +53653,6 @@ Thurleigh Investment Managers
 Anaren
 Henkel Press
 Soverain Software
-List of Woolworths Limited companies
 Pactera
 Southend Waterworks Company
 Essex Water Company
@@ -54679,12 +53671,10 @@ Wodanesdag Press
 Graymatics
 Shunra
 Omega Morgan
-List of breweries in Hawaii
 Virginia Argus and Hampshire Advertiser
 Timblo Drydocks Private Limited
 McMahan's Furniture
 Dreamwave Productions
-List of State-owned enterprises in China
 Anderson Marine
 Fenno-Filmi
 Cudamail
@@ -54732,7 +53722,6 @@ Opencor
 TradeIndia
 Gousto
 CertiVox
-List of supermarket chains in the Republic of the Congo
 Monoprice
 Langcaster Guitars
 Smith and Rhuland
@@ -54776,7 +53765,6 @@ BlueCrest Capital Management
 KIPS
 Comigel
 Eastlink Wireless
-List of supermarket chains in Indonesia
 Thema International Fund
 Arapian
 À la Table de Spanghero
@@ -54806,7 +53794,6 @@ Gunnebo Belgium
 Det Schubotheske Forlag
 Rollo
 Tremont Group
-List of design bureaus in Ukraine
 Silent Circle
 A F Theriault Shipyard
 Active Interest Media
@@ -54827,7 +53814,6 @@ ABCO Industries Lunenburg Shipyard
 Oxford's Men
 American Airlines Group
 Pikpok
-List of supermarket chains in Singapore
 PKC Group
 Snyder's Shipyard
 Thompson Bros Machinery Co Ltd
@@ -54856,7 +53842,6 @@ Paramount Publishing Enterprise
 Comfort Systems USA
 Gemco Rail
 AquaGib
-List of breweries in Minnesota
 The Warrell Corporation
 Peckham Technology Inc
 Iron Heart
@@ -54891,7 +53876,6 @@ Axminster Carpets
 Worksoft
 7th Sky Entertainment
 Société Parisienne
-List of television production companies
 Sydney Trains
 IMC Global
 Cooch Behar State Railway
@@ -54901,7 +53885,6 @@ NeighborCity
 Crowds on Demand
 Berkeley Square Media, Inc
 VMC Productions
-List of companies based in Kent, Washington
 Adika
 Rajesh Masala
 Village Hobby Shop
@@ -55191,7 +54174,6 @@ GTSI Corp
 Redwood Robotics
 NIIIP
 Smart Sparrow
-List of breweries in Georgia
 Free Spirit Media
 Avianca Holdings
 Paus & Paus
@@ -55552,7 +54534,6 @@ McCafferty's Coaches
 Premier Stateliner
 Classic Tech
 World Development Foundation
-List of Climax games
 Double Feature Films
 Petrosoft
 Ajax drums
@@ -55575,7 +54556,6 @@ HiSilicon
 United Cellars
 Asper Biotech
 Agreeya Mobility
-List of shipyards in Chile
 EnPro Industries
 LawCrossing
 Wavii
@@ -55632,7 +54612,6 @@ Tribal Sports Management
 Port Huron and Detroit Railroad
 Transdev Melbourne
 Telos Publishing
-List of technology companies in Vancouver
 Sioux Chief Manufacturing
 Brinly-Hardy Company
 GMD Studios
@@ -55644,7 +54623,6 @@ Ohana Real Estate Investors
 ViS Research
 Agros Nova
 Future TV Co Ltd
-List of American railway unions
 Fidelis Care
 Banc De Binary
 CJ Environmental, Inc
@@ -55704,7 +54682,6 @@ Flatiron Construction
 James Currey
 Asfour crystal
 Muhlenberg Brothers
-List of breweries in Michigan
 Aio Wireless
 Pickering & Chatto Publishers
 Japan Exchange Group
@@ -55770,7 +54747,6 @@ Wyandotte Terminal Railroad
 Dyson Group
 Tango
 Telecommunications Consultants India Limited
-List of Broom Street Theater Theatrical Productions
 Kind Consumer Limited
 Compare Group
 Ryazan Plant for Manufacturing and Processing Non-Ferrous Metals
@@ -55895,13 +54871,11 @@ Pilz
 Morpho
 Darko Entertainment
 Talari Networks
-List of largest automotive companies by revenue
 Poundworld
 MegaPath Corporation
 Ghost Games
 Matamp
 Droga Kolinska
-List of real estate companies of the Philippines
 PowerLinks Media
 TMS
 Ironshore
@@ -55933,12 +54907,9 @@ Magnum Broadcasting
 Bad Monkey
 Sajha Publications
 Ratna Pustak Bhandar
-List of largest European companies by revenue
 KemperSports
-List of European financial services companies by revenue
 Exotel
 Square Peg Media
-List of largest European manufacturing companies by revenue
 Kapsch CarrierCom AG
 Invitation Digital Ltd
 ThinCats
@@ -56062,7 +55033,6 @@ Black Earth Farming
 Campbell-Grobman Films
 Toll Global Express
 Eskilstuna Energy and Environment
-List of banks in Bahrain
 Sanitec
 Haivision
 Travelgenio
@@ -56083,14 +55053,12 @@ Vinologue
 Aerojet Rocketdyne
 Pixorial
 Schott frères
-List of largest manufacturing companies by revenue
 MTI - Military Technical Institute Belgrade
 Kuapay
 Worker Studio
 Cornish and Bruce
 Furch Guitars
 The St Petersburg Times
-List of tear gas manufacturers
 Canadian National Telegraph Company
 Cello Energy
 Nurol Construction
@@ -56117,7 +55085,6 @@ Look Effects
 Powertech Technology
 Ciner Holding
 Michigan Interstate Railway Company
-List of companies based in the Jacksonville area
 Rivington
 Veena World
 Underwater Audio
@@ -56138,7 +55105,6 @@ Ukrhydroenerho
 Flavor Unit Entertainment
 Jackson's Tannery
 Krøll Cranes A/S
-List of largest Japanese law firms by number of lawyers
 BDŽ Tovarnni Prevosi
 VIP's
 Rauch
@@ -56231,7 +55197,6 @@ GrabCAD
 John Distilleries
 Showcase Software Ltd
 MAQ Software
-List of companies based in London
 Elipse Software
 Jamaica Central Railways
 CoCo Therapeutics
@@ -56244,7 +55209,6 @@ Silego Technology Inc
 Norris Production Solutions
 Maker's Row
 Gentherm Incorporated
-List of companies based in Idaho
 Anand Group
 Avanon
 Carcosa House
@@ -56268,7 +55232,6 @@ LuminAID
 Taaleritehdas
 Upptalk
 Sigma Game Inc
-List of companies based in Oregon
 Castlight Health
 Tribe Pictures
 Biscuiterie Saint-Michel
@@ -56319,7 +55282,6 @@ Greaves Cotton
 Hostess
 A H Davenport and Company
 ALISON
-List of San Diego Trolley stations
 Panel Syndicate
 Jurlique
 Belle Tire
@@ -56328,7 +55290,6 @@ True Vision
 Ingate Systems
 Transatlantic Enterprises
 Sanmar Properties Limited
-Lister Technologies
 Society Brand
 Emerson Group
 Boundless
@@ -56353,7 +55314,6 @@ Next Gen Publishing
 Chicago Clearing Corporation
 ConverDyn
 Wanbao Mining
-List of films released by Anchor Bay Entertainment
 Bargain Booze
 North Western Railway
 Nimero
@@ -56416,7 +55376,6 @@ Central Coal and Iron Company
 Ch-aviation
 QASymphony
 Angels Den
-List of largest oil and gas companies by revenue
 Indium corporation
 Mally Beauty
 Art-O-Graf
@@ -56428,7 +55387,6 @@ Manch Theatre
 Groupe 01
 Millennium Kitchen
 Finam Holdings
-List of largest financial services companies by revenue
 Nepal Government Railway
 Global Reach Partners
 UK Toremet
@@ -56438,7 +55396,6 @@ MI's Westside Comedy Theater
 Lamboo
 BeAnywhere
 Sai Prasad Corporation Ltd
-List of Big Blue Bubble games
 Chip 1 Exchange
 Unertl Optical Company
 Uversity
@@ -56465,7 +55422,6 @@ Geographical Institute of Weimar
 Distil Networks
 United Spirits Limited
 Cengiz Holding
-List of dance companies in Canada
 Limak Holding
 Portal A Interactive
 Kaynak Yayınları
@@ -56595,7 +55551,6 @@ True North Mortgage
 Ovelin
 Trickstar Games
 Primedia
-List of companies based in Oakland, California
 Suzhou Synta Optical Technology
 IMO Records
 National Dance Theatre Company of Jamaica
@@ -56604,7 +55559,6 @@ Imperial 400
 Allegro Tosca
 KannaLife
 Conklin Guitars
-List of the biggest companies of Ukraine
 Kat Maconie
 Future Supply Chains
 Cavendish Farms
@@ -56641,9 +55595,6 @@ Unimed SA
 Synta Technology Corporation of Taiwan
 Gozoopcom
 DY Works
-List of breweries in Arkansas
-List of breweries in Kentucky
-List of breweries in Tennessee
 CakeMail
 Cross Country Inn
 Ty-d-bol
@@ -56656,7 +55607,6 @@ VideoScribe
 Lehigh Structural Steel Company
 Starmind International
 LabCentral
-List of fictional brewers
 The Gilbert and Sullivan Light Opera Company of Long Island
 EScan
 Thomas Cook's Rugby Club
@@ -56775,7 +55725,6 @@ Imperial Tea Court
 Heady Topper
 Deepam cinema
 Santa Fe Group
-List of banks in Nicaragua
 Optimizely
 Koleje Wielkopolskie
 Nest Seekers International
@@ -56866,10 +55815,6 @@ Lehigh Coal Mining Company
 Airborne Maintenance & Engineering Services
 Jamnagar & Dwarka Railway
 Porbandar State Railway
-List of banks in Uruguay
-List of banks in Brazil
-List of banks in Colombia
-List of banks in Chile
 Pineapple Press
 Morvi Railway
 Gernatt Family of Companies
@@ -56888,7 +55833,6 @@ CyberTel Cellular
 BBI Development NFI SA
 Vitrox Technologies
 Dutch Rhenish Railway
-List of Language Self-Study Programs
 Monexgroup
 Omnifilm Entertainment
 Ferronor
@@ -56898,7 +55842,6 @@ Growth Intelligence
 Buytin
 HSCC
 Captain Aero Comics
-List of mergers and acquisitions by Twitter
 Wards Cove Packing Company
 Wolverine Copper Mining Company
 SUN Innovations
@@ -56954,7 +55897,6 @@ Sunir
 NetGenie
 VOSS Solutions
 Wickles
-List of airlines of the Nagorno-Karabakh Republic
 L'Harmattan
 Dynax pharmaceuticals
 OLogic
@@ -57054,9 +55996,6 @@ Sezion
 Panda
 Companhia Colonial de Navegação
 Atlas Entertainment
-List of banks in Ecuador
-List of banks in Peru
-List of supermarket chains in Ecuador
 Thomas Cook UK & Ireland
 Sun King Brewing
 Kern's
@@ -57180,7 +56119,6 @@ The Parking Spot
 Ghost Light Projects
 Ubisoft Pune
 Openmatics
-List of oldest companies in Australia
 McGraw-Edison
 The Majestic Line
 China International Water & Electric Corporation
@@ -57190,7 +56128,6 @@ ItsOn
 Griswold Manufacturing
 Creative Impulse Entertainment
 Tigerspike
-List of companies paying scrip dividends
 Joss & Main
 Mai-Liao Power Corporation
 TAG Oil
@@ -57210,7 +56147,6 @@ Playism
 NVS Telematic Systems
 Sapience Analytics
 Silgan Holdings
-List of companies of Qatar
 Florida Brewery
 Instanza
 Global Plastic Supply
@@ -57226,7 +56162,6 @@ Mikron Theatre Company
 WH Ireland
 Special situation
 Itapemirim
-List of restaurants in South Africa
 Main Frame Software Communications
 Tourism Education Press
 Asia Frontier Capital Ltd
@@ -57453,7 +56388,6 @@ Hammond's Candies
 China Wu Yi
 Institute for Family Health
 ADEC Group
-List of cheesemakers
 Fantawild
 Opple Lighting
 AL Gebhardt & Co
@@ -57486,7 +56420,6 @@ Realisor
 IMX Resources
 WPG Resources Ltd
 Premier Parks, LLC
-List of largest Internet companies
 JavOnet
 Crabbie's
 Premier Dead Sea
@@ -57500,7 +56433,6 @@ MC2 Biotek
 CoreFiling
 Penn State Lunar Lion Team
 Nautanki Films
-List of companies of Cameroon
 TransTelekom
 Union Bank of Delaware
 Rúsdrekkasøla Landsins
@@ -57530,7 +56462,6 @@ Global Personals
 Shanghai Jahwa
 Turner International Pakistan
 Central Telegraph
-List of United Kingdom mobile virtual network operators
 Uki Workboat
 Rosvodokanal
 Center for Organizational Performance
@@ -57569,7 +56500,6 @@ Leading Brands Incorporation
 Wholesale Furniture Brokers
 StarVista Entertainment
 EntirelyPets
-List of companies of Laos
 Wilderness Risk Management Conference
 Yapı Merkezi
 Algorates
@@ -57678,15 +56608,9 @@ BiZZdesign
 Quantum Pharmaceutical
 Sevenly
 Lojer
-List of breweries in Maryland
 Tired Hands Brewing Company
 CECO Environmental
 Gander Mountain
-List of companies based in Niger
-List of companies based in Guinea
-List of companies based in Burkina Faso
-List of companies based in the Canary Islands
-List of companies based in Burundi
 Ceylon Tobacco Company
 Lamson & Hubbard Trading Company
 Northern Traders Company
@@ -57696,9 +56620,6 @@ Emcas
 InterQuest Group plc
 Patriot National Bancorp
 Window Seat Films
-List of companies based in Comoros
-List of companies based in Djibouti
-List of companies based in the Democratic Republic of the Congo
 China Machinery Engineering Corporation
 Beier
 Bare Necessities
@@ -57712,7 +56633,6 @@ East Tennessee and Georgia Railroad
 Sekunjalo Investments
 Forever
 Richmond Ballet
-List of companies based in Sudan
 Cahaba, Marion and Greensboro Railroad
 Rogersville and Jefferson Railroad
 Sovam
@@ -57724,12 +56644,8 @@ Dudhsagar Dairy
 Boddam Branch
 Bamboo Skateboards
 National Union of Somali Journalists
-List of companies based in the Republic of the Congo
-List of e-commerce services in Nepal
-List of companies based in Togo
 Selma and Meridian Railroad
 Upson County Railroad
-List of companies based in Uganda
 Gebo Cermex
 Canary, LLC
 Revision3
@@ -57744,7 +56660,6 @@ Astronics Max-Viz
 GSM Nation
 Kmart Canada
 MaxCDN
-List of companies based in Mozambique
 First Look Media
 Cathedral Bank
 Interregional TransitTelekom
@@ -57755,7 +56670,6 @@ Russian Broadcasting and Alert Networks
 Exterran Holdings
 Seattle Genetics
 National Cable Networks
-List of companies based in Gabon
 BuildDirect
 Airways International
 Captain Cook Cruises Western Australia
@@ -57775,15 +56689,11 @@ The Last Tycoons
 Sunny's Worldwide Chauffeured Transportation
 Concarril
 Shell WindEnergy Inc
-List of companies based in South Sudan
-List of companies based in Guinea-Bissau
-List of companies based in Malawi
 Community West Bancshares
 Plantation Pipeline
 Integrated Medical Systems International, Inc
 Structured Dynamics
 Thimble Island Brewing Co
-List of companies based in Mauritania
 Sarke Studio LLC
 The Fruit Company
 Saab Automobile bankruptcy
@@ -57806,11 +56716,8 @@ SMA-Segnalamento marittimo ed aereo
 Everest Entertainment
 MOSS
 Fill-in-Cafe
-List of companies based in Seychelles
 Free Street Theater
-List of companies based in Sierra Leone
 Snow Business
-List of companies based in Tunisia
 The Houston Metropolitan Dance Company
 Cycle Gear
 New London and East Lyme Street Railway
@@ -57982,7 +56889,6 @@ Zaatar w Zeit
 Toepfer International
 Second Captains
 Rhodesian Selection Trust
-List of banks in New Zealand
 SinoMaps Press
 Pilgrim
 Exto Partners
@@ -58014,7 +56920,6 @@ Techvedic
 TreeRing
 KORE Wireless
 VingCard Elsafe
-List of copper production by company
 Prometheus Entertainment
 Immunity Project
 Palmetto Canning
@@ -58084,7 +56989,6 @@ MagicBricks
 Ammann Group
 John Pilling and Sons
 North Western Gas Board
-List of banks in the Czech Republic
 Grovana Watch
 Adallom
 Brandlive
@@ -58145,7 +57049,6 @@ Great Raft Brewing
 BBL Churchill
 Iteris, Inc
 Achiievers
-List of seafood companies
 Biopharm Australia
 Citi orient securities
 Games Distillery
@@ -58214,24 +57117,19 @@ Huws Gray
 Castle Bakery
 Costa Bingo
 Yanjian Group
-List of restaurants in Israel
 IPC The Hospitalist Company
 Kiva Software
 Day-Elder
 Siliconware Precision Industries
-List of restaurants in Hungary
 Zameencom
 Rabbits Foot Meadery
-List of restaurants in China
 SSLWireless
 Momentum Adventure
 Insignia Systems, Inc
 Kore Press
 E la Carte
-List of restaurants in Iceland
 ON Semiconductor Corporation
 Ruff Ryders Films
-List of public houses in Australia
 NGEF
 Solactive
 Spring Records
@@ -58367,7 +57265,6 @@ Biolase
 Drive eO
 Ellie Mae
 Proximo Spirits
-List of hotels in Jamaica
 Energoprojekt holding
 Dwinell-Wright Company
 JPay
@@ -58442,7 +57339,6 @@ Anyoption
 Yuken Europe
 Robbins & Myers
 MetCare
-List of game companies in the United Kingdom
 National Healthcare Corp
 Physicians Mutual
 Zeltiq Aesthetics
@@ -58580,7 +57476,6 @@ Pixelmatic
 MedicAnimal
 Electric Literature
 CoSwitched
-List of mobile network operators in Uganda
 Uganda National Oil Company
 Bluebella
 AMI Insurance
@@ -58610,7 +57505,6 @@ Willans & Robinson
 Uranium Resources
 IR Ishikawa Railway
 Ainokaze Toyama Railway
-List of e-commerce services in Singapore
 Glowpoint Inc
 Ultralife Corporation
 Sky-mobi Limited
@@ -58620,7 +57514,6 @@ Yones
 Shyam Group
 CoinTouch
 Vogue Tyre
-List of current automobile manufacturers by country
 Fabre Line
 Apoc Oil and Gas International
 Cimarex Energy
@@ -58628,7 +57521,6 @@ SM Energy
 Boraie Development
 Pernix Therapeutics Holdings
 Golden Harvest Seeds
-List of breweries in Florida
 Ripple Labs
 Enzon Pharmaceuticals
 MarkWest Energy
@@ -58744,7 +57636,6 @@ Digital Solid State Propulsion
 Advanced Accelerator Applications
 Ambrosio Film
 INTAR
-List of Star Magic Batch
 Kumar Properties Construction & Bio Technology
 Star Film
 OBAS Group
@@ -58781,7 +57672,6 @@ Agilefant Oy
 Maclure, Macdonald and Co
 Transun
 Hitit Computer Services
-List of beat 'em up companies
 M3D
 Eshraghanimation Co
 China National Refinery Corporation
@@ -58830,7 +57720,6 @@ Società Torinese Automobili Rapid
 Central Locomotive and Car Works
 StarAgri Warehousing and Collateral Management Limited
 Flexicar
-List of automobile companies founded by the Ceirano brothers
 Ceirano
 Hokkaido Refinery
 Jetabroad
@@ -58845,7 +57734,6 @@ Teatro Avante
 Teatro 8
 Union Films
 Gulftainer
-List of corporations based in Mississauga
 Stordø Kisgruber
 Awareness Technologies
 TESBL
@@ -58854,7 +57742,6 @@ ActivTrades
 Dar al-Hikma
 Velvet Film
 DigitalOcean
-List of food trucks
 Radiance Media Group
 Harmony Films
 Maroma
@@ -58883,9 +57770,7 @@ LG Household & Health Care
 Milano Films
 Washington Concert Opera
 R Durtnell & Sons
-List of Cherry Mobile products
 Flight Centre
-List of companies listed on Oslo Axess
 Harris Park Transport
 Audience by PETROU\MAN
 Intercontainer-Interfrigo
